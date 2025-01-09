@@ -1,0 +1,8 @@
+gene_symbol,Inpp1
+mouse_life_stage,Early adult
+parameter_name,Global prepulse inhibition
+gene_accession_id,MGI:104848
+analysis_id,p8as66zfowm3z0a
+pvalue,0.4907501
+mouse_strain,129SV
+parameter_id,ESLIM_011_001_705

@@ -1,0 +1,8 @@
+parameter_name,Immature B cells (Hardy fraction E) - % of CD45+
+analysis_id,z361z02rd99s94b
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:97518
+parameter_id,MGP_BMI_013_001
+pvalue,0.5075491
+gene_symbol,Cdk18

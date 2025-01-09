@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_010_001
+parameter_name,Effector Treg cells - % of Treg
+gene_accession_id,MGI:3026886
+gene_symbol,Cdin1
+mouse_strain,C57BL
+analysis_id,m5uuiv685u29vl7
+pvalue,0.4641239
+mouse_life_stage,E9.5

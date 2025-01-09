@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923029
+parameter_name,12kHz-evoked ABR Threshold
+gene_symbol,Dnaaf9
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_006_001
+analysis_id,tsblh61k3yl0s77
+pvalue,0.9875389
+mouse_life_stage,Early adult

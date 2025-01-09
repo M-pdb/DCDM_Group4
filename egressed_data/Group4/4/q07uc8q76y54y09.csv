@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,MGP_MLN_009_001
+mouse_life_stage,Late adult
+parameter_name,Effector Treg cells - % of Treg
+analysis_id,q07uc8q76y54y09
+pvalue,0.9323471
+gene_accession_id,MGI:1336200
+gene_symbol,Hpca

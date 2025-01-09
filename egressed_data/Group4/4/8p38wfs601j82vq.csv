@@ -1,0 +1,8 @@
+gene_symbol,Col6a3
+gene_accession_id,MGI:88461
+parameter_name,6kHz-evoked ABR Threshold
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.1479443
+analysis_id,8p38wfs601j82vq
+parameter_id,IMPC_ABR_004_001

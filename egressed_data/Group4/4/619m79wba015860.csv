@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1925427
+mouse_strain,129SV
+analysis_id,619m79wba015860
+pvalue,0.3455179
+gene_symbol,Ninl
+mouse_life_stage,Early adult
+parameter_name,Total CD4+ T cells - % of ab T cells
+parameter_id,MGP_IMM_004_001

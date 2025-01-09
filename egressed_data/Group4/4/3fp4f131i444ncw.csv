@@ -1,0 +1,8 @@
+parameter_id,IMPC_ABR_008_001
+analysis_id,3fp4f131i444ncw
+parameter_name,18kHz-evoked ABR Threshold
+pvalue,0.2702133
+gene_symbol,Ninl
+mouse_life_stage,Early adult
+mouse_strain,129SV
+gene_accession_id,MGI:1925427

@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECH_001_001
+parameter_name,End-Systolic Diameter
+gene_accession_id,MGI:1915889
+analysis_id,bib3ic6971i5oii
+gene_symbol,Smyd2
+pvalue,0.06280031
+mouse_strain,129SV
+mouse_life_stage,Early adult

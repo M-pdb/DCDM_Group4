@@ -1,0 +1,8 @@
+gene_symbol,Abo
+mouse_strain,C57BL
+parameter_name,Total cholesterol
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2135738
+parameter_id,IMPC_CBC_015_001
+analysis_id,sterm5029787710
+pvalue,0.852362

@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_016_001
+analysis_id,nc867467q7211e8
+parameter_name,Naive CD8+ T cells - % of CD8+
+pvalue,0.7216956
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:1915678
+gene_symbol,Steap3

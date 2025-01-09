@@ -1,0 +1,8 @@
+gene_symbol,Cdin1
+gene_accession_id,MGI:3026886
+analysis_id,594561pa0p6w2r1
+mouse_strain,C57BL
+parameter_name,Neutrophil differential count
+parameter_id,IMPC_HEM_029_001
+pvalue,0.4127999
+mouse_life_stage,E9.5

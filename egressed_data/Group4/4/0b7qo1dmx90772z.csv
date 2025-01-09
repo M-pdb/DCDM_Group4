@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_018_001
+parameter_name,Ly6Clow monocyte percentage
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:95835
+analysis_id,0b7qo1dmx90772z
+pvalue,0.8768229
+gene_symbol,Hspa5

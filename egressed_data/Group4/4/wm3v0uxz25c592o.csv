@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1913483
+parameter_id,IMPC_IMM_047_001
+mouse_strain,C57BL
+parameter_name,DN CD44+CD62L+ NKT cells
+mouse_life_stage,E12.5
+pvalue,0.3671909
+analysis_id,wm3v0uxz25c592o
+gene_symbol,Dmap1

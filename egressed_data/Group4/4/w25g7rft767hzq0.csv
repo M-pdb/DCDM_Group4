@@ -1,0 +1,8 @@
+parameter_id,IMPC_IMM_025_001
+mouse_strain,C57BL
+parameter_name,DN CD25- NKT cells
+analysis_id,w25g7rft767hzq0
+gene_symbol,Fpgs
+pvalue,0.3715391
+gene_accession_id,MGI:95576
+mouse_life_stage,Early adult

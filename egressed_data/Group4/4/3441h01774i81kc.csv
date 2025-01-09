@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+gene_symbol,Cntfr
+mouse_strain,129SV
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_008_001
+pvalue,0.681234
+parameter_name,18kHz-evoked ABR Threshold
+analysis_id,3441h01774i81kc

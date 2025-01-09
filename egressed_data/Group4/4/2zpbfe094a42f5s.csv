@@ -1,0 +1,8 @@
+parameter_name,Transitional B Cells (CD21/35 low)
+analysis_id,2zpbfe094a42f5s
+parameter_id,IMPC_IMM_069_001
+gene_symbol,Eprs1
+gene_accession_id,MGI:97838
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+pvalue,0.8197068

@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECH_003_001
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Stroke Volume
+gene_accession_id,MGI:104805
+analysis_id,35610124t22s2t6
+pvalue,0.4253018
+gene_symbol,Snrpb2

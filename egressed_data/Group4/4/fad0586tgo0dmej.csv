@@ -1,0 +1,8 @@
+parameter_name,Neutrophils
+parameter_id,IMPC_IMM_050_001
+mouse_strain,C57BL
+analysis_id,fad0586tgo0dmej
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1914061
+pvalue,0.4357589
+gene_symbol,Duoxa2

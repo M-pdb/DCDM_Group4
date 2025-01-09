@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:3650254
+parameter_name,Neutrophil differential count
+parameter_id,IMPC_HEM_029_001
+gene_symbol,Zfp683
+pvalue,0.08787959
+mouse_life_stage,Early adult
+analysis_id,3s064339526e5bg

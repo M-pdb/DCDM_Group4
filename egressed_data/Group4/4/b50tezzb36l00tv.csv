@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_008_001
+mouse_strain,C57BL
+pvalue,0.5253414
+gene_accession_id,MGI:96545
+analysis_id,b50tezzb36l00tv
+gene_symbol,Il1r1
+parameter_name,CD4+ CD25+ alpha beta regulatory T cell percentage
+mouse_life_stage,Early adult

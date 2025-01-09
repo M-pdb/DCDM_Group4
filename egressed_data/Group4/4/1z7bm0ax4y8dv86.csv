@@ -1,0 +1,8 @@
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell number
+analysis_id,1z7bm0ax4y8dv86
+pvalue,0.3805042
+gene_accession_id,MGI:2443597
+mouse_strain,C57BL
+parameter_id,MGP_PBI_029_001
+gene_symbol,Tmem203
+mouse_life_stage,Early adult

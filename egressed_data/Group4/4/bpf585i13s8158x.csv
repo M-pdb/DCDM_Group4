@@ -1,0 +1,8 @@
+parameter_name,Cholesterol ratio
+mouse_strain,C57BL
+parameter_id,IMPC_CBC_058_001
+mouse_life_stage,Early adult
+analysis_id,bpf585i13s8158x
+pvalue,0.8298773
+gene_accession_id,MGI:1915806
+gene_symbol,Uckl1

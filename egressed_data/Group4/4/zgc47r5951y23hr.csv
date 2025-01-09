@@ -1,0 +1,8 @@
+parameter_name,T cells - % of CD45+
+mouse_strain,C57BL
+analysis_id,zgc47r5951y23hr
+gene_symbol,Frmpd1
+parameter_id,MGP_BMI_019_001
+gene_accession_id,MGI:2446274
+pvalue,0.5140684
+mouse_life_stage,Late adult

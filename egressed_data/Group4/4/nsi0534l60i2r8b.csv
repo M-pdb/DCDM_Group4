@@ -1,0 +1,8 @@
+gene_symbol,Rab3gap2
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1916043
+analysis_id,nsi0534l60i2r8b
+pvalue,0.6608191
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells
+parameter_id,MGP_IMM_006_001
+mouse_strain,C57BL

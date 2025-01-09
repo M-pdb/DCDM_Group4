@@ -1,0 +1,8 @@
+gene_accession_id,MGI:106100
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,DN CD44+CD62L- NKT cells
+analysis_id,3nbs4aii4pcj18t
+gene_symbol,Etfdh
+parameter_id,IMPC_IMM_046_001
+pvalue,0.2915284

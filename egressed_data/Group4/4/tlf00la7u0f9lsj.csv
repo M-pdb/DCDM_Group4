@@ -1,0 +1,8 @@
+parameter_name,Naive CD8+ T cells - % of CD8+
+parameter_id,MGP_IMM_016_001
+analysis_id,tlf00la7u0f9lsj
+pvalue,0.2915162
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Fsd1l
+gene_accession_id,MGI:2442443

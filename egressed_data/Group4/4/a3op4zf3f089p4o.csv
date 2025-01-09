@@ -1,0 +1,8 @@
+parameter_id,IMPC_ACS_033_001
+mouse_strain,C55BL
+gene_accession_id,MGI:2181659
+mouse_life_stage,Early adult
+parameter_name,% Pre-pulse inhibition - PPI1
+analysis_id,a3op4zf3f089p4o
+pvalue,0.124126
+gene_symbol,Tox

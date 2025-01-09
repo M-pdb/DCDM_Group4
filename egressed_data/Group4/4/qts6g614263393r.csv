@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_035_001
+mouse_strain,C57BL
+gene_accession_id,MGI:1919949
+mouse_life_stage,Early adult
+parameter_name,IgD+ mature B cell number
+gene_symbol,Lime1
+pvalue,0.5133527
+analysis_id,qts6g614263393r

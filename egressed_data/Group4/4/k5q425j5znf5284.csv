@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Total T cells - % of CD45+
+gene_accession_id,MGI:2444113
+analysis_id,k5q425j5znf5284
+gene_symbol,Nemp2
+parameter_id,MGP_MLN_001_001
+pvalue,0.1047869
+mouse_strain,C57BL

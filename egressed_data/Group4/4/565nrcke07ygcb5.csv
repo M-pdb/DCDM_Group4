@@ -1,0 +1,8 @@
+parameter_name,Latency to first transition into dark
+parameter_id,IMPC_LDT_006_001
+pvalue,0.535474
+gene_accession_id,MGI:1934811
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+analysis_id,565nrcke07ygcb5
+gene_symbol,Nucks1

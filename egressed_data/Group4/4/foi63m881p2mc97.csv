@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,IMPC_FEA_107_001
+pvalue,0.2795514
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+analysis_id,foi63m881p2mc97

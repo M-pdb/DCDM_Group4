@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+parameter_name,18kHz-evoked ABR Threshold
+analysis_id,25mu6p817r40t1q
+pvalue,0.9247553
+mouse_life_stage,E15.5
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_008_001
+gene_accession_id,MGI:99501

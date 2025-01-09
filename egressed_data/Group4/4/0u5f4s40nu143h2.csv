@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915889
+analysis_id,0u5f4s40nu143h2
+pvalue,0.6947286
+parameter_name,Click-evoked ABR threshold
+parameter_id,IMPC_ABR_002_001
+mouse_strain,129SV
+mouse_life_stage,Early adult
+gene_symbol,Smyd2

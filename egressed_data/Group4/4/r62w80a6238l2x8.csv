@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_HWT_008_001
+analysis_id,r62w80a6238l2x8
+mouse_strain,129SV
+parameter_name,Heart weight
+pvalue,0.4007962
+gene_accession_id,MGI:99605
+gene_symbol,Cntfr

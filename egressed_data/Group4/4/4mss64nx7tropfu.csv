@@ -1,0 +1,8 @@
+gene_symbol,Il1r1
+gene_accession_id,MGI:96545
+parameter_name,Right kidney weight
+analysis_id,4mss64nx7tropfu
+mouse_strain,C57BL
+pvalue,0.02573497
+parameter_id,IMPC_OWT_004_001
+mouse_life_stage,Early adult

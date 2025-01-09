@@ -1,0 +1,8 @@
+parameter_name,Blood Vessel Morphology
+mouse_strain,C57BL
+analysis_id,jep3h5c5t3qmgg6
+parameter_id,IMPC_GEO_011_001
+gene_accession_id,MGI:1917810
+gene_symbol,Wars2
+pvalue,0.2126411
+mouse_life_stage,E12.5

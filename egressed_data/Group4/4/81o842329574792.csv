@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_symbol,Snap23
+gene_accession_id,MGI:109356
+analysis_id,81o842329574792
+pvalue,0.05422667
+mouse_life_stage,Early adult
+parameter_name,Forelimb grip strength normalised against body weight
+parameter_id,JAXLA_GRS_010_001

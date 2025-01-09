@@ -1,0 +1,8 @@
+gene_accession_id,MGI:104848
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells
+mouse_life_stage,Early adult
+mouse_strain,129SV
+analysis_id,9r0gwr9s5kjdz8m
+gene_symbol,Inpp1
+parameter_id,MGP_IMM_006_001
+pvalue,0.666061

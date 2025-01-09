@@ -1,0 +1,8 @@
+parameter_name,Total T cells - % of CD45+
+parameter_id,MGP_MLN_001_001
+analysis_id,503484or20g59ee
+mouse_strain,C57BL
+gene_symbol,Cisd2
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1914256
+pvalue,0.693638

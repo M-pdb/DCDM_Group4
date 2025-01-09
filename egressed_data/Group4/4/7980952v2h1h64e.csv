@@ -1,0 +1,8 @@
+gene_symbol,Tiprl
+gene_accession_id,MGI:1915087
+parameter_id,JAX_LDT_008_001
+mouse_strain,C57BL
+parameter_name,Percent time in dark
+mouse_life_stage,E9.5
+analysis_id,7980952v2h1h64e
+pvalue,0.106535

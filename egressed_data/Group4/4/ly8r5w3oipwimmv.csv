@@ -1,0 +1,8 @@
+mouse_strain,129SV
+parameter_id,MGP_IMM_072_001
+gene_symbol,Ddx27
+gene_accession_id,MGI:2385884
+analysis_id,ly8r5w3oipwimmv
+mouse_life_stage,Early adult
+parameter_name,CD4+ T helper cells - % of CD45+
+pvalue,0.5699235

@@ -1,0 +1,8 @@
+gene_symbol,Hnf4a
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:109128
+parameter_id,IMPC_HEM_007_001
+analysis_id,73py0x9g4u5x85m
+parameter_name,Mean cell hemoglobin concentration
+pvalue,0.5414517

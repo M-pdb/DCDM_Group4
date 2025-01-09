@@ -1,0 +1,8 @@
+gene_symbol,Slc39a10
+parameter_name,Forelimb and hindlimb grip strength normalised against body weight
+analysis_id,d9co40b28n9x0z4
+parameter_id,TCPLA_GRS_011_001
+gene_accession_id,MGI:1914515
+pvalue,0.2327766
+mouse_strain,C57BL
+mouse_life_stage,E9.5

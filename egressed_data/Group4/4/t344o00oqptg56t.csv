@@ -1,0 +1,8 @@
+parameter_id,IMPC_CSD_079_001
+analysis_id,t344o00oqptg56t
+parameter_name,Aggression
+mouse_strain,C57BL
+pvalue,0.2448426
+gene_accession_id,MGI:96646
+mouse_life_stage,E9.5
+gene_symbol,Jun

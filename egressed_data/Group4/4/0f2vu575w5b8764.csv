@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+gene_symbol,Cntfr
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_005_001
+pvalue,0.1323129
+parameter_name,Mean cell volume
+analysis_id,0f2vu575w5b8764

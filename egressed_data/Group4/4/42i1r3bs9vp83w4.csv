@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+gene_accession_id,MGI:97838
+parameter_name,Mean cell volume
+parameter_id,IMPC_HEM_005_001
+analysis_id,42i1r3bs9vp83w4
+pvalue,0.8270594
+gene_symbol,Eprs1

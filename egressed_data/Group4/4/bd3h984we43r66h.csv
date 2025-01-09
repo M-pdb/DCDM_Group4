@@ -1,0 +1,8 @@
+mouse_life_stage,E18.5
+gene_accession_id,MGI:1344367
+gene_symbol,Grem2
+parameter_id,IMPC_LDT_006_001
+mouse_strain,C57BL
+analysis_id,bd3h984we43r66h
+parameter_name,Latency to first transition into dark
+pvalue,0.2045643

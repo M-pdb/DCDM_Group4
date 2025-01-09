@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1917810
+analysis_id,42ohuq1g495j031
+pvalue,0.6430627
+gene_symbol,Wars2
+mouse_strain,C57BL
+parameter_name,Glucose response AUC
+mouse_life_stage,E12.5
+parameter_id,ESLIM_004_001_701

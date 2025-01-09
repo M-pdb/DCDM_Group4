@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_008_001
+parameter_name,ST
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.2375576
+analysis_id,2a6921i3184md4o
+gene_accession_id,MGI:3650254
+gene_symbol,Zfp683

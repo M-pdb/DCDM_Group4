@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Bone Mineral Density (excluding skull)
+gene_accession_id,MGI:2139080
+analysis_id,ay49208b63f60sk
+parameter_id,IMPC_DXA_004_001
+gene_symbol,Dzank1
+pvalue,0.08254915

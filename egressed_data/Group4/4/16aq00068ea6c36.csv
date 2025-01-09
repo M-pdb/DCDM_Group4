@@ -1,0 +1,8 @@
+gene_symbol,Ubxn4
+parameter_name,Latency to first transition into dark
+gene_accession_id,MGI:1915062
+pvalue,0.8508093
+mouse_strain,C57BL
+parameter_id,IMPC_LDT_006_001
+analysis_id,16aq00068ea6c36
+mouse_life_stage,Late adult

@@ -1,0 +1,8 @@
+gene_symbol,Pglyrp3
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2685266
+analysis_id,yh04f7b6lo57hz9
+pvalue,0.5366016
+mouse_strain,C57BL
+parameter_name,Glucose response AUC
+parameter_id,ESLIM_004_001_701

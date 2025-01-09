@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,IMPC_EYE_016_001
+analysis_id,h3k1ds60g99gvqp
+mouse_life_stage,Early adult
+parameter_name,Lens
+gene_accession_id,MGI:105072
+pvalue,0.9227737
+gene_symbol,Rab22a

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,IMPC_CBC_025_001
+parameter_name,LDL-cholesterol
+gene_symbol,Jun
+gene_accession_id,MGI:96646
+analysis_id,f3bi125xv0z7i45
+pvalue,0.5531687
+mouse_life_stage,E15.5

@@ -1,0 +1,8 @@
+parameter_name,CD11b-low cDC - % of cDC
+mouse_strain,C57BL
+parameter_id,MGP_IMM_067_001
+analysis_id,28i19789964982s
+mouse_life_stage,Early adult
+gene_symbol,Ubxn11
+pvalue,0.9825808
+gene_accession_id,MGI:1914836

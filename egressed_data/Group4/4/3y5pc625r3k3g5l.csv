@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_002_001
+parameter_name,Red blood cell count
+analysis_id,3y5pc625r3k3g5l
+gene_symbol,Dnajb3
+gene_accession_id,MGI:1306822
+pvalue,0.3611332

@@ -1,0 +1,8 @@
+parameter_name,Corneal vascularization
+analysis_id,p7f7a9e2q2r636h
+parameter_id,IMPC_EYE_009_001
+mouse_life_stage,E12.5
+mouse_strain,C57BL
+pvalue,0.1311767
+gene_symbol,Sass6
+gene_accession_id,MGI:1920026

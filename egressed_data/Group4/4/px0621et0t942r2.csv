@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,MGP_IMM_070_001
+gene_symbol,Ppm1j
+parameter_name,Total ab T cells - % of CD45+
+gene_accession_id,MGI:1919137
+analysis_id,px0621et0t942r2
+pvalue,0.9791604
+mouse_life_stage,Early adult

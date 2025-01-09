@@ -1,0 +1,8 @@
+parameter_id,IMPC_ABR_002_001
+gene_symbol,Cdin1
+parameter_name,Click-evoked ABR threshold
+mouse_life_stage,E9.5
+mouse_strain,C57BL
+analysis_id,ui4601v07k4xjd8
+gene_accession_id,MGI:3026886
+pvalue,0.5596351

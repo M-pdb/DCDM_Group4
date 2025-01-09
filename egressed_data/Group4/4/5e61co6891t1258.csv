@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+mouse_strain,129SV
+gene_symbol,Cntfr
+analysis_id,5e61co6891t1258
+pvalue,0.8107095
+parameter_name,Fasted blood glucose concentration
+parameter_id,IMPC_IPG_010_001
+mouse_life_stage,Early adult

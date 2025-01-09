@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,CV
+analysis_id,5h280o2i60t9624
+parameter_id,IMPC_ECG_003_001
+gene_accession_id,MGI:1915325
+pvalue,0.9344635
+gene_symbol,Lurap1

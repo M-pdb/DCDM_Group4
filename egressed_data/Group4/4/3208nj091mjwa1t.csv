@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1860103
+gene_symbol,Slc2a8
+analysis_id,3208nj091mjwa1t
+mouse_strain,C57BL
+pvalue,0.5191512
+mouse_life_stage,Early adult
+parameter_name,Naive CD8+ T cells - % of CD45+
+parameter_id,MGP_IMM_083_001

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3033992
+mouse_strain,C57BL
+parameter_name,Body length
+mouse_life_stage,Early adult
+analysis_id,2c7488h882c1a0b
+parameter_id,IMPC_DXA_006_001
+pvalue,0.3376081
+gene_symbol,Cldn19

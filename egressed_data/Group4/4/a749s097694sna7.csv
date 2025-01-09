@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1919949
+parameter_name,Total Treg cells - % of CD45+
+parameter_id,MGP_IMM_076_001
+gene_symbol,Lime1
+mouse_strain,C57BL
+analysis_id,a749s097694sna7
+mouse_life_stage,Early adult
+pvalue,0.07743653

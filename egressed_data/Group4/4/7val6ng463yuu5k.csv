@@ -1,0 +1,8 @@
+gene_symbol,Smyd2
+mouse_strain,129SV
+analysis_id,7val6ng463yuu5k
+parameter_name,CD8 CD44+CD62L- T cells
+mouse_life_stage,Early adult
+pvalue,0.4471409
+parameter_id,IMPC_IMM_032_001
+gene_accession_id,MGI:1915889

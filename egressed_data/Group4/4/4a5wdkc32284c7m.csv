@@ -1,0 +1,8 @@
+parameter_id,IMPC_FEA_003_001
+mouse_strain,C57BL
+analysis_id,4a5wdkc32284c7m
+gene_symbol,Grem2
+gene_accession_id,MGI:1344367
+parameter_name,Conditioning Baseline % Freezing Time
+pvalue,0.2141958
+mouse_life_stage,E18.5

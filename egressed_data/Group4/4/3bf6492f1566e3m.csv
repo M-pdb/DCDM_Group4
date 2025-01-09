@@ -1,0 +1,8 @@
+parameter_id,IMPC_GEL_029_001
+analysis_id,3bf6492f1566e3m
+parameter_name,Midbrain
+mouse_strain,C57BL
+pvalue,0.1504282
+mouse_life_stage,E15.5
+gene_accession_id,MGI:88174
+gene_symbol,Bmi1

@@ -1,0 +1,8 @@
+gene_symbol,Kcng1
+mouse_strain,C57BL
+parameter_name,Prepulse inhibition - PP3
+mouse_life_stage,Early adult
+analysis_id,sx27gc12236p22y
+pvalue,0.8322442
+parameter_id,ESLIM_011_001_703
+gene_accession_id,MGI:3616086

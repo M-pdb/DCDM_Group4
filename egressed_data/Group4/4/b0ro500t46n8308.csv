@@ -1,0 +1,8 @@
+parameter_id,JAXLA_DXA_003_001
+mouse_strain,C57BL
+parameter_name,Lean mass
+mouse_life_stage,E9.5
+gene_accession_id,MGI:96646
+analysis_id,b0ro500t46n8308
+pvalue,0.5619341
+gene_symbol,Jun

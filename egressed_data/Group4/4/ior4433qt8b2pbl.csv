@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+gene_symbol,Ahcy
+mouse_life_stage,E9.5
+parameter_name,QT
+pvalue,0.9187909
+analysis_id,ior4433qt8b2pbl
+mouse_strain,C57BL
+gene_accession_id,MGI:87968

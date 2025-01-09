@@ -1,0 +1,8 @@
+parameter_name,Respiration Rate
+analysis_id,pcbvf143px840f9
+gene_accession_id,MGI:97838
+gene_symbol,Eprs1
+pvalue,0.387836
+mouse_strain,C57BL
+parameter_id,IMPC_ECH_018_001
+mouse_life_stage,E12.5

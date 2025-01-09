@@ -1,0 +1,8 @@
+gene_symbol,Hpca
+parameter_name,KLRG1+ CD4- NKT cells - % of CD4- NKT cells
+parameter_id,MGP_IMM_028_001
+gene_accession_id,MGI:1336200
+analysis_id,h1izw6l8v78p33i
+pvalue,0.9464727
+mouse_life_stage,Early adult
+mouse_strain,C57BL

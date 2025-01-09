@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_013_001
+gene_accession_id,MGI:99501
+parameter_name,Total CD8+ T cells - % of ab T cells
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+gene_symbol,Fgb
+analysis_id,ghbuj61c54x37e0
+pvalue,0.9222819

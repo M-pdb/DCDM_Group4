@@ -1,0 +1,8 @@
+parameter_name,Total ab T cells - % of CD45+
+parameter_id,MGP_IMM_070_001
+mouse_strain,C57BL
+analysis_id,9cfc66k67c1l9y2
+mouse_life_stage,Early adult
+pvalue,1.059919
+gene_symbol,Bdh2
+gene_accession_id,MGI:1917022

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,bh763758ila1nv7
+gene_symbol,Jun
+gene_accession_id,MGI:96646
+mouse_life_stage,E15.5
+parameter_name,Dark side time spent
+parameter_id,JAX_LDT_004_001
+pvalue,0.7698254

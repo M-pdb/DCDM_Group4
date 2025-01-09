@@ -1,0 +1,8 @@
+gene_symbol,Orc2
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+mouse_strain,C57BL
+gene_accession_id,MGI:1328306
+analysis_id,xh3ia10v258567a
+parameter_id,IMPC_FEA_107_001
+pvalue,0.5644752
+mouse_life_stage,E9.5

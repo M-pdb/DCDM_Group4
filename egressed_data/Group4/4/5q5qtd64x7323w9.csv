@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:99501
+parameter_name,Ventral coat/hair presence
+parameter_id,MGP_CSD_025_001
+gene_symbol,Fgb
+pvalue,0.6249612
+analysis_id,5q5qtd64x7323w9

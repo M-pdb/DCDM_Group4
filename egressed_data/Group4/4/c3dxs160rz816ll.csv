@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_029_001
+analysis_id,c3dxs160rz816ll
+parameter_name,Neutrophil differential count
+gene_symbol,Pex19
+pvalue,0.5122621
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1334458
+mouse_strain,C57BL

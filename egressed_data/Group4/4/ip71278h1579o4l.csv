@@ -1,0 +1,8 @@
+gene_symbol,Cds2
+mouse_life_stage,Early adult
+parameter_name,24kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_010_001
+analysis_id,ip71278h1579o4l
+gene_accession_id,MGI:1332236
+pvalue,0.9526083
+mouse_strain,129SV

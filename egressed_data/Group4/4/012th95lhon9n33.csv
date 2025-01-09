@@ -1,0 +1,8 @@
+gene_symbol,Rab13
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell percentage
+gene_accession_id,MGI:1927232
+parameter_id,MGP_PBI_009_001
+pvalue,0.715083
+analysis_id,012th95lhon9n33
+mouse_life_stage,Early adult
+mouse_strain,C57BL

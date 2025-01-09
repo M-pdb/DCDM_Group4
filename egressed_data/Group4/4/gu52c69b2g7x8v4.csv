@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+gene_accession_id,MGI:3026886
+parameter_name,Latency to first transition into dark
+gene_symbol,Cdin1
+parameter_id,IMPC_LDT_006_001
+analysis_id,gu52c69b2g7x8v4
+pvalue,0.2196193
+mouse_strain,C57BL

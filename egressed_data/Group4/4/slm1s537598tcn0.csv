@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_002_001
+analysis_id,slm1s537598tcn0
+parameter_name,HR
+mouse_strain,C57BL
+gene_accession_id,MGI:1914071
+pvalue,0.7768862
+mouse_life_stage,E9.5
+gene_symbol,Bcs1l

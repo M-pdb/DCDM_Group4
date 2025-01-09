@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88446
+gene_symbol,Col11a1
+mouse_strain,C57BL
+mouse_life_stage,E18.5
+parameter_id,MGP_IMM_004_001
+pvalue,0.1468767
+parameter_name,Total CD4+ T cells - % of ab T cells
+analysis_id,d53l5q02fo4evm7

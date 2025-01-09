@@ -1,0 +1,8 @@
+gene_symbol,Eprs1
+gene_accession_id,MGI:97838
+analysis_id,108q2j6h8782y71
+parameter_name,Total CD4+ T cells - % of CD45+
+parameter_id,MGP_IMM_071_001
+pvalue,0.1940481
+mouse_strain,C57BL
+mouse_life_stage,E9.5

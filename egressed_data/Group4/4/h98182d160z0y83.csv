@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_OFD_009_001
+parameter_name,Whole arena average speed
+analysis_id,h98182d160z0y83
+pvalue,0.3902248
+gene_accession_id,MGI:109128
+gene_symbol,Hnf4a

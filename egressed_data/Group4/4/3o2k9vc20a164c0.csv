@@ -1,0 +1,8 @@
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+analysis_id,3o2k9vc20a164c0
+gene_accession_id,MGI:95835
+gene_symbol,Hspa5
+parameter_id,MGP_PBI_032_001
+mouse_life_stage,E12.5
+pvalue,0.4421825
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_002_001
+mouse_strain,C57BL
+pvalue,0.110185
+mouse_life_stage,Early adult
+parameter_name,HR
+gene_accession_id,MGI:2181659
+analysis_id,666p173l2h5s021
+gene_symbol,Tox

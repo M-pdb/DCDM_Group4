@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+parameter_name,CD11b-low cDC - % of CD45+
+analysis_id,92fu3m47c810rjy
+mouse_strain,C57BL
+parameter_id,MGP_IMM_130_001
+gene_accession_id,MGI:1923959
+pvalue,0.1482097
+mouse_life_stage,Early adult

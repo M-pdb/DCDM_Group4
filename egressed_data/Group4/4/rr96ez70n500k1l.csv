@@ -1,0 +1,8 @@
+gene_symbol,Abitram
+parameter_id,IMPC_ECG_010_001
+analysis_id,rr96ez70n500k1l
+pvalue,0.7643895
+gene_accession_id,MGI:2677850
+parameter_name,HRV
+mouse_life_stage,Early adult
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+parameter_name,110dB startle magnitude
+parameter_id,ESLIM_011_001_006
+gene_accession_id,MGI:99501
+analysis_id,9rx3hpz1e46mz05
+gene_symbol,Fgb
+mouse_strain,C57BL
+pvalue,0.5073114
+mouse_life_stage,E12.5

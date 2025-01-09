@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_014_001
+parameter_name,Effector CD8+ T cells - % of CD8+
+analysis_id,syh20745b7fq8vv
+gene_accession_id,MGI:2442443
+gene_symbol,Fsd1l
+mouse_life_stage,Early adult
+pvalue,0.3966294
+mouse_strain,C57BL

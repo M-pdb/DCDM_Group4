@@ -1,0 +1,8 @@
+gene_symbol,Nucks1
+parameter_name,Resting CD8+ T cells - % of CD45+
+gene_accession_id,MGI:1934811
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+parameter_id,MGP_MLN_075_001
+analysis_id,a7z6460882db8pv
+pvalue,0.4741204

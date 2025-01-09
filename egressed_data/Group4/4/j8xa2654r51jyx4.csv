@@ -1,0 +1,8 @@
+gene_symbol,Rigi
+mouse_life_stage,Early adult
+parameter_name,CD8 CD44-CD62L+ T cells
+parameter_id,IMPC_IMM_034_001
+analysis_id,j8xa2654r51jyx4
+pvalue,0.9294084
+mouse_strain,C57BL
+gene_accession_id,MGI:2442858

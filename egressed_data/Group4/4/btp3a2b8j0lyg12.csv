@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Whole arena resting time
+parameter_id,JAXLA_OFD_007_001
+gene_accession_id,MGI:1914672
+analysis_id,btp3a2b8j0lyg12
+pvalue,0.309023
+gene_symbol,Dhdds

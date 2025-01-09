@@ -1,0 +1,8 @@
+parameter_name,DN CD44+CD62L+ NKT cells
+parameter_id,IMPC_IMM_047_001
+analysis_id,gr9n6893s3r6j6d
+gene_accession_id,MGI:1917022
+gene_symbol,Bdh2
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.995862

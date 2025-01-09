@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:95835
+mouse_life_stage,E9.5
+analysis_id,y2hc05k1m459axf
+parameter_name,HDL-cholesterol
+parameter_id,HMGULA_CBC_016_001
+pvalue,0.3496329
+gene_symbol,Hspa5

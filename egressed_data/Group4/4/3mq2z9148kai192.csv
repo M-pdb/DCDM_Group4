@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+gene_symbol,Bmi1
+analysis_id,3mq2z9148kai192
+parameter_name,QT
+pvalue,0.1003669
+gene_accession_id,MGI:88174
+mouse_strain,C57BL
+mouse_life_stage,E15.5

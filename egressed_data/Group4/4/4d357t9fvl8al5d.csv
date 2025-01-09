@@ -1,0 +1,8 @@
+gene_symbol,Rhbg
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1927379
+analysis_id,4d357t9fvl8al5d
+parameter_id,IMPC_LDT_008_001
+pvalue,0.1470505
+parameter_name,Percent time in light

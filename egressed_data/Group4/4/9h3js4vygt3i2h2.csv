@@ -1,0 +1,8 @@
+parameter_name,Neutrophil differential count
+mouse_strain,C57BL
+parameter_id,IMPC_HEM_029_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1919935
+pvalue,0.2035014
+analysis_id,9h3js4vygt3i2h2
+gene_symbol,Dnajc6

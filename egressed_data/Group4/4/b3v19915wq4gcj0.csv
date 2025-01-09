@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2135738
+gene_symbol,Abo
+parameter_name,Total CD8+ T cells - % of ab T cells
+parameter_id,MGP_IMM_013_001
+pvalue,0.7705007
+mouse_life_stage,Early adult
+analysis_id,b3v19915wq4gcj0
+mouse_strain,C57BL

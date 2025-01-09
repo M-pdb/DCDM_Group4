@@ -1,0 +1,8 @@
+gene_symbol,Cdkn2a
+parameter_name,Eosinophil differential count
+gene_accession_id,MGI:104738
+analysis_id,354166611v3z3l8
+mouse_strain,C57BL
+parameter_id,IMPC_HEM_035_001
+pvalue,0.8802386
+mouse_life_stage,Early adult

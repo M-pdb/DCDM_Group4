@@ -1,0 +1,8 @@
+parameter_id,IMPC_CBC_025_001
+parameter_name,LDL-cholesterol
+analysis_id,6u03e7bbr49866p
+mouse_strain,C57BL
+pvalue,0.8794296
+mouse_life_stage,Late adult
+gene_accession_id,MGI:1917604
+gene_symbol,Secisbp2l

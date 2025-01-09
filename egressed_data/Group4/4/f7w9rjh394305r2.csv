@@ -1,0 +1,8 @@
+Mouse_strain,C57BL
+gene_symbol,Dmap1
+parameter_name,6kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_004_001
+gene_accession_id,MGI:1913483
+Pvalue,0.9645693
+analysis_id,f7w9rjh394305r2
+mouse_life_stage,E12.5

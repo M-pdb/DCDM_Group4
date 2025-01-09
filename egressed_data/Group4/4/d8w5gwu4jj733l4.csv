@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+mouse_life_stage,Early adult
+parameter_name,Light side time spent
+parameter_id,JAX_LDT_002_001
+mouse_strain,129SV
+gene_accession_id,MGI:1923959
+pvalue,0.207619
+analysis_id,d8w5gwu4jj733l4

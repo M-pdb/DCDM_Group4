@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Cd52
+parameter_id,MGP_IMM_001_001
+analysis_id,h489383hfkyt50d
+pvalue,0.8969874
+gene_accession_id,MGI:1346088
+parameter_name,Total T cells - % of CD45+

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Tent5c
+gene_accession_id,MGI:1921895
+parameter_name,Time mobile dark side
+parameter_id,JAX_LDT_005_001
+analysis_id,48hv079r65ng561
+pvalue,0.193509

@@ -1,0 +1,8 @@
+parameter_name,Breath rate during sleep mean
+parameter_id,JAX_SLW_013_001
+analysis_id,8uv9i7s102c4y2n
+pvalue,0.3793499
+mouse_strain,129SV
+gene_accession_id,MGI:2385884
+mouse_life_stage,Early adult
+gene_symbol,Ddx27

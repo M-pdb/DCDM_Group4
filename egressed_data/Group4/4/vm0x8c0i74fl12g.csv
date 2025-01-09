@@ -1,0 +1,8 @@
+gene_symbol,Kif24
+gene_accession_id,MGI:1918345
+parameter_name,Effector CD4+ T helper cells - % of CD45+
+mouse_life_stage,Early adult
+parameter_id,MGP_MLN_066_001
+analysis_id,vm0x8c0i74fl12g
+pvalue,0.7920859
+mouse_strain,C57BL

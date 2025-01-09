@@ -1,0 +1,8 @@
+parameter_id,IMPC_OFD_018_001
+analysis_id,85k67ia8al069ol
+gene_symbol,Kcng1
+gene_accession_id,MGI:3616086
+pvalue,0.9571826
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Latency to center entry

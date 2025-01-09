@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,54o67hcc541290q
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2677850
+gene_symbol,Abitram
+parameter_name,Forelimb grip strength normalised against body weight
+parameter_id,IMPC_GRS_010_001
+pvalue,0.1239016

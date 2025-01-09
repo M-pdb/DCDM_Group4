@@ -1,0 +1,8 @@
+parameter_name,KLRG1+ Treg cells - % of Treg
+parameter_id,MGP_IMM_012_001
+gene_symbol,Mapkap1
+gene_accession_id,MGI:2444554
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+pvalue,0.2463278
+analysis_id,4d8s35l6805a6x6

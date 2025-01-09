@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_id,IMPC_LDT_008_001
+analysis_id,805gc17t75b592r
+parameter_name,Percent time in light
+gene_symbol,Bcs1l
+pvalue,0.7261839
+gene_accession_id,MGI:1914071

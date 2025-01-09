@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1913576
+parameter_name,Lymphocyte differential count
+analysis_id,gas75238996064a
+parameter_id,IMPC_HEM_031_001
+mouse_strain,C57BL
+gene_symbol,Dnajc5b
+pvalue,0.2005462
+mouse_life_stage,Early adult

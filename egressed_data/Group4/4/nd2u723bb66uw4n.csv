@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+mouse_strain,C57BL
+analysis_id,nd2u723bb66uw4n
+parameter_id,IMPC_HEM_030_001
+parameter_name,Neutrophil cell count
+pvalue,0.137388
+mouse_life_stage,E15.5
+gene_accession_id,MGI:2444554

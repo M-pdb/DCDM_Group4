@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Resting CD8+ T cells - % of CD45+
+parameter_id,MGP_IMM_082_001
+gene_symbol,Hpca
+mouse_life_stage,Late adult
+analysis_id,ie93qp24t0860t6
+gene_accession_id,MGI:1336200
+pvalue,0.2558719

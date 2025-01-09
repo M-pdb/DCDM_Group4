@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Effector CD8+ T cells - % of CD45+
+gene_accession_id,MGI:104738
+analysis_id,3i9sq255cvw6v87
+mouse_life_stage,Early adult
+pvalue,0.5194408
+parameter_id,MGP_MLN_074_001
+gene_symbol,Cdkn2a

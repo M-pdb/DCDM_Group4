@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Effector gd T cells - % of gd T cells
+gene_symbol,Ola1
+gene_accession_id,MGI:1914309
+analysis_id,qnk3y398p60x4k0
+parameter_id,MGP_IMM_020_001
+pvalue,0.3363733
+mouse_life_stage,Early adult

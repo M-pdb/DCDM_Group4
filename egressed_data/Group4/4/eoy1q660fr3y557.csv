@@ -1,0 +1,8 @@
+analysis_id,eoy1q660fr3y557
+parameter_name,Bone Mineral Density (excluding skull)
+parameter_id,IMPC_DXA_004_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1919935
+pvalue,0.184268
+mouse_strain,C57BL
+gene_symbol,Dnajc6

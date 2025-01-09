@@ -1,0 +1,8 @@
+parameter_name,Effector CD8+ T cells - % of CD8+
+mouse_strain,C57BL
+parameter_id,MGP_MLN_013_001
+analysis_id,89nyo5zp5s89p96
+gene_symbol,Col11a1
+gene_accession_id,MGI:88446
+pvalue,0.6798639
+mouse_life_stage,E18.5

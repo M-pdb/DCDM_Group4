@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+mouse_strain,C57BL
+parameter_id,IMPC_ECG_002_001
+mouse_life_stage,Early adult
+pvalue,0.5377186
+parameter_name,HR
+analysis_id,yd09mb20s2d5fsg
+gene_symbol,Cntfr

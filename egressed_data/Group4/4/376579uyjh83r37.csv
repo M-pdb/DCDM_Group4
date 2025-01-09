@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+mouse_strain,C57BL
+parameter_name,QT
+gene_accession_id,MGI:1917810
+mouse_life_stage,Early adult
+gene_symbol,Wars2
+analysis_id,376579uyjh83r37
+pvalue,0.9701213

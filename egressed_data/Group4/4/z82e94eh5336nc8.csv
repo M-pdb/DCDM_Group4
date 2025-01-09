@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+parameter_name,Red blood cell count
+gene_symbol,Slc30a4
+parameter_id,IMPC_HEM_002_001
+analysis_id,z82e94eh5336nc8
+pvalue,0.3701788
+gene_accession_id,MGI:1345282

@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_078_001
+mouse_strain,C57BL
+pvalue,0.0999585
+parameter_name,Resting Treg cells - % of CD45+
+mouse_life_stage,Early adult
+analysis_id,7jor4lb222q2464
+gene_accession_id,MGI:96757
+gene_symbol,Lcn2

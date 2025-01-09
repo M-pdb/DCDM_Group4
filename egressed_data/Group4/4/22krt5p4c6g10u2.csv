@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923959
+gene_symbol,Arpc2
+mouse_strain,129SV
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_007_001
+pvalue,0.06668384
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,22krt5p4c6g10u2

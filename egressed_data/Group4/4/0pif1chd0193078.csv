@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_EYE_062_001
+analysis_id,0pif1chd0193078
+parameter_name,Right total retinal thickness
+gene_accession_id,MGI:109128
+pvalue,0.7630783
+gene_symbol,Hnf4a

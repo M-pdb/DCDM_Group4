@@ -1,0 +1,8 @@
+gene_symbol,Pdia3
+gene_accession_id,MGI:95834
+parameter_id,MGP_PBI_032_001
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+mouse_strain,C57BL
+analysis_id,3tz6p9e6v140a6n
+mouse_life_stage,Early adult
+pvalue,0.2277802

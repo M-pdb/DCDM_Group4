@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+parameter_id,JAX_LDT_002_001
+analysis_id,c5028wb4715b498
+gene_symbol,Fgb
+pvalue,0.1541721
+parameter_name,Light side time spent
+mouse_life_stage,E12.5
+mouse_strain,C57BL

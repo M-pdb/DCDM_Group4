@@ -1,0 +1,8 @@
+analysis_id,n8b4o9f962c4930
+parameter_id,ESLIM_004_001_701
+mouse_strain,C57BL
+parameter_name,Glucose response AUC
+gene_symbol,Hspa5
+pvalue,0.214863
+mouse_life_stage,E9.5
+gene_accession_id,MGI:95835

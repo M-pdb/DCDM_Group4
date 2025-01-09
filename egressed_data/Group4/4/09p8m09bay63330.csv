@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_072_001
+gene_accession_id,MGI:96646
+parameter_name,CD4+ T helper cells - % of CD45+
+gene_symbol,Jun
+mouse_life_stage,E15.5
+pvalue,0.112427
+analysis_id,09p8m09bay63330
+mouse_strain,C57BL

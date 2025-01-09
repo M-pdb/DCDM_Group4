@@ -1,0 +1,8 @@
+parameter_name,Lymphocyte differential count
+parameter_id,IMPC_HEM_031_001
+pvalue,0.1003806
+mouse_strain,C57BL
+gene_symbol,Wars2
+analysis_id,v0140310z79i9d8
+mouse_life_stage,E12.5
+gene_accession_id,MGI:1917810

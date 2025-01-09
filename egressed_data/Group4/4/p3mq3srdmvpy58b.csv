@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88446
+analysis_id,p3mq3srdmvpy58b
+gene_symbol,Col11a1
+mouse_strain,C57BL
+parameter_name,Effector NK cells - % of CD45+
+pvalue,0.1364202
+mouse_life_stage,E18.5
+parameter_id,MGP_MLN_091_001

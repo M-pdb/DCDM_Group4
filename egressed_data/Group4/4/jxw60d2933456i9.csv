@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1309468
+gene_symbol,Casq1
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,JAXLA_ECG_002_001
+pvalue,0.6573016
+parameter_name,HR
+analysis_id,jxw60d2933456i9

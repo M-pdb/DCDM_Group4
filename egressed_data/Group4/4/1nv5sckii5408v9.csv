@@ -1,0 +1,8 @@
+gene_symbol,Tox
+analysis_id,1nv5sckii5408v9
+parameter_name,Breath rate during sleep mean
+gene_accession_id,MGI:2181659
+parameter_id,JAX_SLW_013_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.6338196

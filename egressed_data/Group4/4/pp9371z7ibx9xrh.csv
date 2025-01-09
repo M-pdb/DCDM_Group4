@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_symbol,Zyg11b
+gene_accession_id,MGI:2685277
+pvalue,0.9286745
+parameter_name,Mean cell hemoglobin concentration
+mouse_life_stage,E18.5
+analysis_id,pp9371z7ibx9xrh
+parameter_id,IMPC_HEM_007_001

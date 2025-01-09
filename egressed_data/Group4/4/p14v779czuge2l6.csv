@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+gene_symbol,Tnni1
+analysis_id,p14v779czuge2l6
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell number
+gene_accession_id,MGI:105073
+parameter_id,MGP_PBI_030_001
+mouse_strain,C57BL
+pvalue,0.8687194

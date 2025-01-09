@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+parameter_name,QT
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_symbol,Tnfsf18
+analysis_id,t6d6v3w21ob1b3m
+pvalue,0.271517
+gene_accession_id,MGI:2673064

@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_041_001
+parameter_name,Total B cells - % of CD45+
+mouse_life_stage,Early adult
+gene_symbol,Tnfsf18
+analysis_id,709vrm397m4xg83
+pvalue,0.1320307
+mouse_strain,C57BL
+gene_accession_id,MGI:2673064

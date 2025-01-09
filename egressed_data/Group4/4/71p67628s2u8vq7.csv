@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1339969
+analysis_id,71p67628s2u8vq7
+gene_symbol,Gja10
+mouse_strain,C57BL
+parameter_id,IMPC_ECG_010_001
+mouse_life_stage,Early adult
+pvalue,0.9161193
+parameter_name,HRV

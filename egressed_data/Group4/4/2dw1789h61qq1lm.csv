@@ -1,0 +1,8 @@
+parameter_name,Startle response
+parameter_id,IMPC_CSD_036_001
+mouse_strain,C57BL
+gene_symbol,Frmpd1
+mouse_life_stage,Early adult
+analysis_id,2dw1789h61qq1lm
+pvalue,0.8881157
+gene_accession_id,MGI:2446274

@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Naive CD8+ T cells - % of CD8+
+mouse_strain,129SV
+gene_accession_id,MGI:1925427
+parameter_id,MGP_MLN_015_001
+analysis_id,flwe223g8p4p796
+pvalue,0.4132169
+gene_symbol,Ninl

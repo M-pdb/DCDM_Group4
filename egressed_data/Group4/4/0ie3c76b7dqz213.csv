@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915889
+parameter_name,CD8+ alpha beta T cell percentage
+parameter_id,MGP_PBI_004_001
+analysis_id,0ie3c76b7dqz213
+mouse_strain,C57BL
+gene_symbol,Smyd2
+mouse_life_stage,Early adult
+pvalue,0.8404078

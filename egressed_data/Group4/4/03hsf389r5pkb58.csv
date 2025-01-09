@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+mouse_strain,C57BL
+parameter_name,6kHz-evoked ABR Threshold
+gene_symbol,Cntfr
+analysis_id,03hsf389r5pkb58
+pvalue,0.7618359
+parameter_id,IMPC_ABR_004_001
+mouse_life_stage,Early adult

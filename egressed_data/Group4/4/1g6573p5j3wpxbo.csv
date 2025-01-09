@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+mouse_strain,C57BL
+parameter_name,Center average speed
+parameter_id,JAX_OFD_017_001
+analysis_id,1g6573p5j3wpxbo
+mouse_life_stage,E12.5
+pvalue,0.149823
+gene_accession_id,MGI:88174

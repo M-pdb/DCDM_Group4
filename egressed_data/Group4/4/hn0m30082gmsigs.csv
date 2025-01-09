@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+gene_symbol,Mecom
+parameter_id,JAX_OFD_016_001
+pvalue,0.8071066
+parameter_name,Center permanence time
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+analysis_id,hn0m30082gmsigs

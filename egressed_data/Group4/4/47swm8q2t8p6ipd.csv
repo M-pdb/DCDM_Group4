@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_014_001
+parameter_name,B cell percentage
+gene_symbol,Eprs1
+gene_accession_id,MGI:97838
+mouse_life_stage,E9.5
+analysis_id,47swm8q2t8p6ipd
+mouse_strain,C57BL
+pvalue,0.6979803

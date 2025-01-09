@@ -1,0 +1,8 @@
+parameter_name,Bone Mineral Content (excluding skull)
+gene_accession_id,MGI:88174
+parameter_id,IMPC_DXA_005_001
+gene_symbol,Bmi1
+mouse_life_stage,E15.5
+mouse_strain,C57BL
+analysis_id,z0b8rgd3j5vzc49
+pvalue,0.6528353

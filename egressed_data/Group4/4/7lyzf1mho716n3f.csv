@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95835
+gene_symbol,Hspa5
+analysis_id,7lyzf1mho716n3f
+pvalue,0.4754129
+parameter_id,IMPC_ABR_002_001
+parameter_name,Click-evoked ABR threshold
+mouse_strain,C57BL
+mouse_life_stage,E9.5

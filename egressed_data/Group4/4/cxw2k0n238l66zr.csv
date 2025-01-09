@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_082_001
+parameter_name,Resting CD8+ T cells - % of CD45+
+gene_symbol,Ncaph
+gene_accession_id,MGI:2444777
+pvalue,0.1028303
+analysis_id,cxw2k0n238l66zr
+mouse_life_stage,Early adult
+mouse_strain,C57BL

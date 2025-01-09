@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+analysis_id,3z77cu79349eqjp
+pvalue,0.3327723
+parameter_name,Mean cell hemoglobin concentration
+mouse_life_stage,Early adult
+gene_symbol,Bdh2
+mouse_strain,C57BL
+gene_accession_id,MGI:1917022

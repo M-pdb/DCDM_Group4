@@ -1,0 +1,8 @@
+gene_symbol,Ahcy
+gene_accession_id,MGI:87968
+pvalue,0.06565042
+analysis_id,3637hk48rrgv1n1
+mouse_strain,C57BL
+parameter_name,Glucose response AUC
+mouse_life_stage,Early adult
+parameter_id,ESLIM_004_001_701

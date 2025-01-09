@@ -1,0 +1,8 @@
+gene_symbol,Pex19
+analysis_id,489ue133053ed5d
+gene_accession_id,MGI:1334458
+parameter_id,IMPC_ABR_012_001
+mouse_strain,C58BL
+mouse_life_stage,Early adult
+parameter_name,30kHz-evoked ABR Threshold
+pvalue,0.4225416

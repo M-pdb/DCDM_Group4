@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1860103
+parameter_id,MGP_PBI_031_001
+analysis_id,qo670125vjxf7ov
+mouse_strain,C57BL
+gene_symbol,Slc2a8
+parameter_name,KLRG1+ mature NK cell number
+mouse_life_stage,Early adult
+pvalue,0.6906233

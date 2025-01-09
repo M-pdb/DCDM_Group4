@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+parameter_name,PP1 + pulse startle magnitude
+gene_symbol,Lpgat1
+parameter_id,ESLIM_011_001_007
+gene_accession_id,MGI:2446186
+analysis_id,2vnf946dn5n313g
+pvalue,0.8134536

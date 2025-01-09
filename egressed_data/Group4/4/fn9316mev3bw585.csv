@@ -1,0 +1,8 @@
+parameter_id,IMPC_IMM_067_001
+parameter_name,Follicular B Cells (CD21/35+)
+gene_symbol,Hspa5
+analysis_id,fn9316mev3bw585
+pvalue,0.9696834
+gene_accession_id,MGI:95835
+mouse_life_stage,E9.5
+mouse_strain,C57BL

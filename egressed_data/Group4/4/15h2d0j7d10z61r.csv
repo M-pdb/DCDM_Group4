@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,24kHz-evoked ABR Threshold
+gene_accession_id,MGI:107566
+parameter_id,IMPC_ABR_010_001
+analysis_id,15h2d0j7d10z61r
+gene_symbol,Kifap3
+pvalue,0.06709015

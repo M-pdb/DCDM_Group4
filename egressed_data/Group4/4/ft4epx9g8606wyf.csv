@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_symbol,Trpa1
+parameter_name,Area under glucose response curve
+parameter_id,IMPC_IPG_012_001
+gene_accession_id,MGI:3522699
+mouse_life_stage,Early adult
+analysis_id,ft4epx9g8606wyf
+pvalue,0.2491622

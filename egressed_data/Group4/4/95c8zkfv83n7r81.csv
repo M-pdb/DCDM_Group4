@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_005_001
+gene_accession_id,MGI:109128
+pvalue,0.9092026
+analysis_id,95c8zkfv83n7r81
+parameter_name,PQ
+mouse_strain,C57BL
+gene_symbol,Hnf4a
+mouse_life_stage,Early adult

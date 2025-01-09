@@ -1,0 +1,8 @@
+gene_symbol,Rnd3
+parameter_name,Eye Hemorrhage or Blood Presence
+mouse_life_stage,Early adult
+parameter_id,IMPC_EYE_003_001
+mouse_strain,C57BL
+analysis_id,4785241mx8223xi
+pvalue,0.3626163
+gene_accession_id,MGI:1921444

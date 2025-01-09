@@ -1,0 +1,8 @@
+gene_symbol,Gja10
+mouse_strain,C57BL
+parameter_name,Initial response to glucose challenge
+gene_accession_id,MGI:1339969
+mouse_life_stage,Early adult
+analysis_id,31ors5fdwpt0141
+pvalue,0.9587198
+parameter_id,IMPC_IPG_011_001

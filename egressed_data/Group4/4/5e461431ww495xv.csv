@@ -1,0 +1,8 @@
+analysis_id,5e461431ww495xv
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,MGP_PBI_011_001
+parameter_name,KLRG1+ mature NK cell percentage
+gene_accession_id,MGI:1914515
+gene_symbol,Slc39a10
+pvalue,0.1235863

@@ -1,0 +1,8 @@
+gene_symbol,Extl1
+parameter_name,Bone Mineral Density (excluding skull)
+gene_accession_id,MGI:1888742
+analysis_id,59f2ou9hd8sujrn
+parameter_id,IMPC_DXA_004_001
+mouse_life_stage,Early adult
+pvalue,1.320399
+mouse_strain,C57BL

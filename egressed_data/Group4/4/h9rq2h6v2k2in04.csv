@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_symbol,Sema6c
+gene_accession_id,MGI:1338032
+mouse_life_stage,Early adult
+pvalue,0.6205017
+parameter_name,24kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_010_001
+analysis_id,h9rq2h6v2k2in04

@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+mouse_life_stage,Early adult
+gene_symbol,Tox
+gene_accession_id,MGI:2181659
+mouse_strain,C57BL
+pvalue,0.08542787
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,07uhwvp2tk5sur7

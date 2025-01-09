@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,3dn9b3w7derw105
+parameter_id,IMPC_HEM_035_001
+parameter_name,Eosinophil differential count
+gene_symbol,Hspa5
+mouse_life_stage,E9.5
+pvalue,0.551793
+gene_accession_id,MGI:95835

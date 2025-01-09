@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+gene_symbol,Inka2
+analysis_id,d1b2qxt311td6s1
+parameter_name,Mean cell hemoglobin concentration
+mouse_life_stage,Early adult
+pvalue,0.6768911
+mouse_strain,C57BL
+gene_accession_id,MGI:1923497

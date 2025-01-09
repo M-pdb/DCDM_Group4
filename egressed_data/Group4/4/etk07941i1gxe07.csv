@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+parameter_name,QT
+analysis_id,etk07941i1gxe07
+gene_accession_id,MGI:1336200
+mouse_life_stage,Middle aged adult
+gene_symbol,Hpca
+pvalue,0.09668855
+mouse_strain,C57BL

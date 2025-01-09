@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,CD8+ KLRG1+ alpha beta T cell percentage
+gene_symbol,Col6a3
+pvalue,0.1136375
+parameter_id,MGP_PBI_013_001
+gene_accession_id,MGI:88461
+analysis_id,0165344686kk1ht

@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_027_001
+parameter_name,Persistence of hyaloid vascular system
+analysis_id,33b859l4xofck96
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Mov10
+gene_accession_id,MGI:97054
+pvalue,0.08814522

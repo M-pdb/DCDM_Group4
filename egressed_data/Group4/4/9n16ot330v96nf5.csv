@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1929242
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+gene_symbol,Ivd
+analysis_id,9n16ot330v96nf5
+pvalue,0.1263012
+parameter_id,MGP_MLN_006_001
+mouse_strain,C57BL
+mouse_life_stage,Early adult

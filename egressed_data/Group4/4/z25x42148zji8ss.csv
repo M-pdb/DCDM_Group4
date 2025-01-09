@@ -1,0 +1,8 @@
+parameter_name,Mean corpuscular hemoglobin
+parameter_id,IMPC_HEM_006_001
+mouse_strain,C57BL
+analysis_id,z25x42148zji8ss
+pvalue,0.3959253
+gene_symbol,Col11a1
+mouse_life_stage,E18.5
+gene_accession_id,MGI:88446

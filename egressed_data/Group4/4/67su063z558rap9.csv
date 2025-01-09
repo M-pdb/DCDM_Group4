@@ -1,0 +1,8 @@
+analysis_id,67su063z558rap9
+parameter_id,IMPC_ECG_010_001
+gene_accession_id,MGI:1929242
+mouse_strain,C57BL
+gene_symbol,Ivd
+mouse_life_stage,Early adult
+pvalue,0.7331754
+parameter_name,HRV

@@ -1,0 +1,8 @@
+gene_symbol,Smyd2
+parameter_name,Latency to center entry
+analysis_id,0b5z972plv022s6
+pvalue,0.5761574
+mouse_life_stage,Early adult
+mouse_strain,129SV
+gene_accession_id,MGI:1915889
+parameter_id,IMPC_OFD_018_001

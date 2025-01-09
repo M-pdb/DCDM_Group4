@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1919107
+gene_symbol,Slc17a9
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ECG_010_001
+pvalue,0.9112865
+parameter_name,HRV
+analysis_id,csdc2sn04au2m39

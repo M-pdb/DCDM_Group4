@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Forelimb and hindlimb grip strength measurement mean
+gene_accession_id,MGI:109384
+gene_symbol,Atf3
+pvalue,0.5122918
+analysis_id,f1k903zdmjjy5jm
+parameter_id,IMPC_GRS_009_001

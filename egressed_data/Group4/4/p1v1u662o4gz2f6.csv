@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+gene_accession_id,MGI:2444554
+analysis_id,p1v1u662o4gz2f6
+parameter_id,MGP_IMM_066_001
+gene_symbol,Mapkap1
+pvalue,0.2728185
+parameter_name,CD11b-high cDC - % of cDC

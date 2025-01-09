@@ -1,0 +1,8 @@
+gene_symbol,Kdm4c
+analysis_id,q1tw1811cw655l4
+gene_accession_id,MGI:1924054
+parameter_id,IMPC_HEM_007_001
+pvalue,0.1997218
+parameter_name,Mean cell hemoglobin concentration
+mouse_strain,C57BL
+mouse_life_stage,Early adult

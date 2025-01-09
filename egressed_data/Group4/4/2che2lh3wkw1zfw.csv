@@ -1,0 +1,8 @@
+gene_accession_id,MGI:109128
+analysis_id,2che2lh3wkw1zfw
+parameter_name,BMC/Body weight
+parameter_id,IMPC_DXA_007_001
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.3705394
+gene_symbol,Hnf4a

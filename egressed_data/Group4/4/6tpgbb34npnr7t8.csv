@@ -1,0 +1,8 @@
+parameter_id,IMPC_CBC_025_001
+parameter_name,LDL-cholesterol
+gene_accession_id,MGI:88461
+analysis_id,6tpgbb34npnr7t8
+mouse_life_stage,Early adult
+gene_symbol,Col6a3
+mouse_strain,C57BL
+pvalue,0.7831507

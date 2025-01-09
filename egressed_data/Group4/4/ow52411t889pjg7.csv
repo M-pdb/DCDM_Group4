@@ -1,0 +1,8 @@
+parameter_name,Naive CD8+ T cells - % of CD45+
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,ow52411t889pjg7
+gene_accession_id,MGI:1915033
+gene_symbol,Ahctf1
+parameter_id,MGP_MLN_076_001
+pvalue,0.1177696

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914515
+parameter_name,Resting CD4- NKT cells - % of CD4- NKT cells
+mouse_strain,C57BL
+parameter_id,MGP_IMM_027_001
+analysis_id,ffh7yv4vj69gkdv
+mouse_life_stage,E9.5
+pvalue,0.6739667
+gene_symbol,Slc39a10

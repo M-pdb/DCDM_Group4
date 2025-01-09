@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_006_001
+parameter_name,PR
+mouse_life_stage,Early adult
+analysis_id,60k44f3z8455py8
+pvalue,0.2609169
+gene_symbol,Stk35
+mouse_strain,C57BL
+gene_accession_id,MGI:1914583

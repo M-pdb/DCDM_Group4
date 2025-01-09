@@ -1,0 +1,8 @@
+parameter_id,IMPC_GEO_011_001
+analysis_id,gt55o7255l8jx7l
+parameter_name,Blood Vessel Morphology
+gene_symbol,Nanp
+gene_accession_id,MGI:1914561
+mouse_life_stage,E18.5
+mouse_strain,C57BL
+pvalue,0.6566604

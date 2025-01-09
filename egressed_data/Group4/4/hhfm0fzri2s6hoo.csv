@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2385156
+parameter_name,Resting NK cells - % of CD45+
+analysis_id,hhfm0fzri2s6hoo
+gene_symbol,Sdcbp2
+parameter_id,MGP_IMM_100_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.6847676

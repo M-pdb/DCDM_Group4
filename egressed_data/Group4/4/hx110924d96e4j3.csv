@@ -1,0 +1,8 @@
+gene_symbol,Trim46
+analysis_id,hx110924d96e4j3
+parameter_name,Conditioning Baseline % Freezing Time
+parameter_id,IMPC_FEA_003_001
+mouse_strain,C57BL
+pvalue,0.5785855
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2673000

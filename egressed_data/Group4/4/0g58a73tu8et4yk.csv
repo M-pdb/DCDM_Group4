@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Forelimb grip strength normalised against body weight
+gene_symbol,Il1r1
+pvalue,0.2565354
+gene_accession_id,MGI:96545
+mouse_life_stage,Early adult
+analysis_id,0g58a73tu8et4yk
+parameter_id,JAXLA_GRS_010_001

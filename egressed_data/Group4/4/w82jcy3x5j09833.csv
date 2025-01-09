@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_symbol,Amigo1
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells
+parameter_id,MGP_IMM_006_001
+gene_accession_id,MGI:2653612
+analysis_id,w82jcy3x5j09833
+pvalue,0.9422915
+mouse_life_stage,Early adult

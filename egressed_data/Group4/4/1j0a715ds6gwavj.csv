@@ -1,0 +1,8 @@
+gene_accession_id,MGI:106100
+mouse_strain,C57BL
+analysis_id,1j0a715ds6gwavj
+gene_symbol,Etfdh
+parameter_name,Latency to first transition into dark
+pvalue,0.9319584
+mouse_life_stage,Early adult
+parameter_id,IMPC_LDT_006_001

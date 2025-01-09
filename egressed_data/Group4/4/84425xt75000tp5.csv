@@ -1,0 +1,8 @@
+analysis_id,84425xt75000tp5
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_002_001
+gene_accession_id,MGI:1917810
+parameter_name,Click-evoked ABR threshold
+mouse_life_stage,E12.5
+gene_symbol,Wars2
+pvalue,0.6120187

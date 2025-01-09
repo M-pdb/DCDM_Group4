@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Resting Treg cells - % of Treg
+gene_accession_id,MGI:1922855
+analysis_id,2kln8151ya45fbt
+parameter_id,MGP_IMM_011_001
+gene_symbol,Kdm5b
+mouse_life_stage,Early adult
+pvalue,0.8617102

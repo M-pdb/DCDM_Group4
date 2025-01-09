@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_010_001
+parameter_name,Iris/Pupil
+mouse_strain,C57BL
+gene_accession_id,MGI:1915889
+analysis_id,3nc44823e39t7mq
+gene_symbol,Smyd2
+mouse_life_stage,Early adult
+pvalue,0.1783096

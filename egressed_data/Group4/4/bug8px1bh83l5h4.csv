@@ -1,0 +1,8 @@
+gene_symbol,Cds2
+gene_accession_id,MGI:1332236
+pvalue,0.303065
+mouse_life_stage,Early adult
+parameter_name,CV
+mouse_strain,129SV
+analysis_id,bug8px1bh83l5h4
+parameter_id,IMPC_ECG_003_001

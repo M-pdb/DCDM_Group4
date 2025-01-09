@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+gene_symbol,Atf3
+parameter_name,Resting CD8+ T cells - % of CD45+
+gene_accession_id,MGI:109384
+analysis_id,95tud357bt386ry
+pvalue,0.1780245
+parameter_id,MGP_IMM_082_001
+mouse_strain,C57BL

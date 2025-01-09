@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:3045306
+analysis_id,38nz597486877pg
+pvalue,0.1274083
+parameter_name,B cell percentage
+parameter_id,MGP_PBI_014_001
+gene_symbol,Exd1

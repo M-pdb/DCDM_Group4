@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+parameter_id,IMPC_ABR_012_001
+pvalue,0.1429339
+parameter_name,30kHz-evoked ABR Threshold
+gene_accession_id,MGI:2444554
+mouse_life_stage,E15.5
+analysis_id,gw027eucr022l33
+mouse_strain,C57BL

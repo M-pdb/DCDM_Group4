@@ -1,0 +1,8 @@
+gene_symbol,Smyd2
+parameter_name,% Freezing duration habituation-1
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915889
+analysis_id,9x7tw7m48583i2e
+parameter_id,ICS_FEA_016_001
+mouse_strain,129SV
+pvalue,0.3632375

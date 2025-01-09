@@ -1,0 +1,8 @@
+parameter_name,Neutrophils
+analysis_id,838f0fz44rn01r0
+parameter_id,IMPC_IMM_050_001
+gene_symbol,Nanp
+gene_accession_id,MGI:1914561
+mouse_life_stage,E18.5
+mouse_strain,C57BL
+pvalue,0.1410291

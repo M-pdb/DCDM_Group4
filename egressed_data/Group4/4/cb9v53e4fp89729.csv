@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97601
+gene_symbol,Prkcq
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_005_001
+pvalue,0.3429476
+parameter_name,Mean cell volume
+analysis_id,cb9v53e4fp89729

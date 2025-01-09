@@ -1,0 +1,8 @@
+gene_symbol,Bach2
+mouse_strain,C57BL
+gene_accession_id,MGI:894679
+pvalue,0.6664276
+analysis_id,enn533r7c110325
+mouse_life_stage,Early adult
+parameter_id,IMPC_EYE_056_001
+parameter_name,Mean left eye lens density

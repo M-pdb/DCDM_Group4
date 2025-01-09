@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88174
+gene_symbol,Bmi1
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_id,IMPC_ABR_002_001
+pvalue,0.955235
+parameter_name,Click-evoked ABR threshold
+analysis_id,6w2y9y644q8s4f8

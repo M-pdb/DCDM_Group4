@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_011_001
+analysis_id,r29bizbl3068e21
+gene_symbol,Hspa5
+pvalue,0.617009
+mouse_life_stage,E12.5
+gene_accession_id,MGI:95835
+mouse_strain,C57BL
+parameter_name,Resting Treg cells - % of Treg

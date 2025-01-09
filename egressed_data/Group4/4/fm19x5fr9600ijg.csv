@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_007_001
+mouse_strain,C57BL
+gene_accession_id,MGI:2446274
+gene_symbol,Frmpd1
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+pvalue,0.1055871
+analysis_id,fm19x5fr9600ijg
+mouse_life_stage,Early adult

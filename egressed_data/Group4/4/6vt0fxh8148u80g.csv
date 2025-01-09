@@ -1,0 +1,8 @@
+parameter_id,IMPC_CBC_001_001
+mouse_strain,C57BL
+parameter_name,Sodium
+analysis_id,6vt0fxh8148u80g
+gene_symbol,Tiprl
+gene_accession_id,MGI:1915087
+pvalue,0.1292231
+mouse_life_stage,E12.5

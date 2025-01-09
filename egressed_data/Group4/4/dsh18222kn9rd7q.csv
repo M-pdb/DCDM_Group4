@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1929242
+parameter_id,JAX_LDT_008_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+analysis_id,dsh18222kn9rd7q
+pvalue,0.7068079
+parameter_name,Percent time in dark
+gene_symbol,Ivd

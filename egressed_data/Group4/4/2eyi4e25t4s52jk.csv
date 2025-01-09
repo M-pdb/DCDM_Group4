@@ -1,0 +1,8 @@
+gene_accession_id,MGI:104738
+parameter_name,White blood cell count
+analysis_id,2eyi4e25t4s52jk
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.5899167
+parameter_id,IMPC_HEM_001_001
+gene_symbol,Cdkn2a

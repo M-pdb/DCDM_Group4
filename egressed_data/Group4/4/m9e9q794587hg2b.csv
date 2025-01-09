@@ -1,0 +1,8 @@
+gene_symbol,Psd4
+gene_accession_id,MGI:2674093
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+analysis_id,m9e9q794587hg2b
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell percentage
+pvalue,0.9795054
+parameter_id,MGP_PBI_009_001

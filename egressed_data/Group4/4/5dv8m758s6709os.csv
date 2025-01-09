@@ -1,0 +1,8 @@
+gene_symbol,Pum1
+mouse_strain,C57BL
+parameter_name,CD8+ KLRG1+ alpha beta T cell number
+pvalue,0.2694021
+parameter_id,MGP_PBI_033_001
+analysis_id,5dv8m758s6709os
+gene_accession_id,MGI:1931749
+mouse_life_stage,Early adult

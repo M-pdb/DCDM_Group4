@@ -1,0 +1,8 @@
+gene_symbol,Smyd2
+gene_accession_id,MGI:1915889
+parameter_id,MGP_PBI_031_001
+parameter_name,KLRG1+ mature NK cell number
+analysis_id,m42okez33958a0z
+mouse_strain,129SV
+mouse_life_stage,Early adult
+pvalue,0.6879043

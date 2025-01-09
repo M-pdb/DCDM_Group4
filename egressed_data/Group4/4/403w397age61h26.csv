@@ -1,0 +1,8 @@
+parameter_id,IMPC_GEL_011_001
+mouse_strain,C57BL
+gene_accession_id,MGI:2651854
+parameter_name,Embryo turning
+analysis_id,403w397age61h26
+pvalue,0.2504866
+mouse_life_stage,Early adult
+gene_symbol,Atg4c

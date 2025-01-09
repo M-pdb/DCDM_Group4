@@ -1,0 +1,8 @@
+gene_symbol,Arnt
+mouse_life_stage,Early adult
+pvalue,0.562288
+parameter_name,Mean right eye lens density
+parameter_id,IMPC_EYE_059_001
+analysis_id,tk6m409w575726j
+mouse_strain,C57BL
+gene_accession_id,MGI:88071

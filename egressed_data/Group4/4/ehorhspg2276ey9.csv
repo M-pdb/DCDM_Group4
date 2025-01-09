@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_029_001
+mouse_life_stage,Early adult
+analysis_id,ehorhspg2276ey9
+parameter_name,Neutrophil differential count
+mouse_strain,C57BL
+pvalue,0.5215093
+gene_accession_id,MGI:106100
+gene_symbol,Etfdh

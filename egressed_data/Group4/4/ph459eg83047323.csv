@@ -1,0 +1,8 @@
+mouse_strain,129SV
+parameter_name,Corneal vascularization
+parameter_id,IMPC_EYE_009_001
+mouse_life_stage,Early adult
+gene_symbol,Bpifa3
+analysis_id,ph459eg83047323
+pvalue,0.6186727
+gene_accession_id,MGI:1920638

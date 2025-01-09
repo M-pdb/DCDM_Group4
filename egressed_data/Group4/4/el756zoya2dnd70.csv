@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,CD103+ CD11b-low cDC - % of CD45+
+pvalue,0.8396921
+gene_accession_id,MGI:97054
+gene_symbol,Mov10
+analysis_id,el756zoya2dnd70
+parameter_id,MGP_IMM_131_001

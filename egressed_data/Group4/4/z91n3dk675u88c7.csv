@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_005_001
+mouse_life_stage,Early adult
+analysis_id,z91n3dk675u88c7
+parameter_name,PQ
+gene_symbol,Tiprl
+pvalue,0.08077091
+gene_accession_id,MGI:1915087
+mouse_strain,C57BL

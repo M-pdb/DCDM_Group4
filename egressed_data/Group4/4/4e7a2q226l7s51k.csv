@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+analysis_id,4e7a2q226l7s51k
+gene_symbol,Jun
+parameter_name,Cue Baseline % Freezing Time
+parameter_id,HRWLLA_FEA_015_001
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+pvalue,0.8325245

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915889
+mouse_strain,C57BL
+parameter_name,Resting CD4+ T helper cells - % of CD45+
+analysis_id,eh2348f3dg542o9
+pvalue,0.1558196
+mouse_life_stage,Early adult
+parameter_id,MGP_MLN_067_001
+gene_symbol,Smyd2

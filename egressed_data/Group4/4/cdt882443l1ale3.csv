@@ -1,0 +1,8 @@
+gene_symbol,Rab17
+mouse_strain,C57BL
+parameter_name,Mean left eye lens density
+gene_accession_id,MGI:104640
+analysis_id,cdt882443l1ale3
+parameter_id,IMPC_EYE_056_001
+mouse_life_stage,Early adult
+pvalue,0.5320814

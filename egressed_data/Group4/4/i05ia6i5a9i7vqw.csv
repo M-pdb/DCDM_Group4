@@ -1,0 +1,8 @@
+gene_symbol,Slc39a10
+parameter_name,Naive CD8+ T cells - % of CD8+
+mouse_life_stage,E9.5
+parameter_id,MGP_MLN_015_001
+analysis_id,i05ia6i5a9i7vqw
+pvalue,0.2597087
+mouse_strain,C57BL
+gene_accession_id,MGI:1914515

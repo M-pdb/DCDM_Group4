@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3026886
+parameter_name,Fat/Body weight
+parameter_id,IMPC_DXA_009_001
+analysis_id,fxsp8918ma40720
+mouse_life_stage,E9.5
+mouse_strain,C57BL
+pvalue,0.2480039
+gene_symbol,Cdin1

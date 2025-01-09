@@ -1,0 +1,8 @@
+parameter_name,12kHz-evoked ABR Threshold
+mouse_strain,C57BL
+gene_symbol,Lpgat1
+analysis_id,25jq69sn94bh145
+gene_accession_id,MGI:2446186
+mouse_life_stage,Late adult
+parameter_id,IMPC_ABR_006_001
+pvalue,0.9138052

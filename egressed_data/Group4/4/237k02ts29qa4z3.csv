@@ -1,0 +1,8 @@
+parameter_name,Resting CD8+ T cells - % of CD8+
+parameter_id,MGP_MLN_014_001
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+analysis_id,237k02ts29qa4z3
+gene_symbol,Tiprl
+gene_accession_id,MGI:1915087
+pvalue,0.2454843

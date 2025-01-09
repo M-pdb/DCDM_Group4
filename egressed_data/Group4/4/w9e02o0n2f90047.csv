@@ -1,0 +1,8 @@
+gene_symbol,Hnf4a
+mouse_life_stage,Late adult
+gene_accession_id,MGI:109128
+mouse_strain,C57BL
+analysis_id,w9e02o0n2f90047
+parameter_id,MGP_IMM_001_001
+pvalue,0.6172369
+parameter_name,Total T cells - % of CD45+

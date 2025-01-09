@@ -1,0 +1,8 @@
+gene_symbol,Hspa5
+gene_accession_id,MGI:95835
+parameter_name,White blood cell count
+analysis_id,6pv9373q31172v3
+pvalue,0.1896668
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,IMPC_HEM_001_001

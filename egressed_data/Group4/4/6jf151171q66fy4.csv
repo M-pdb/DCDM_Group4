@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+analysis_id,6jf151171q66fy4
+mouse_strain,129SV
+parameter_id,MGP_IMM_066_001
+mouse_life_stage,Early adult
+parameter_name,CD11b-high cDC - % of cDC
+gene_symbol,Cntfr
+pvalue,0.9676124

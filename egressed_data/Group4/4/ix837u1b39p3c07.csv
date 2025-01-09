@@ -1,0 +1,8 @@
+parameter_id,JAXLA_ECG_002_001
+gene_accession_id,MGI:3033992
+analysis_id,ix837u1b39p3c07
+gene_symbol,Cldn19
+mouse_life_stage,Early adult
+pvalue,0.9923835
+mouse_strain,C57BL
+parameter_name,HR

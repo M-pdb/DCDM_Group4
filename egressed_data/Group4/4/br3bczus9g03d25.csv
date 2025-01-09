@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_001_001
+analysis_id,br3bczus9g03d25
+parameter_name,Total T cell percentage
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Ttc39b
+pvalue,0.2580992
+gene_accession_id,MGI:1917113

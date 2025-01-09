@@ -1,0 +1,8 @@
+gene_symbol,Zyg11b
+pvalue,0.5765786
+analysis_id,7i4n49gg1z19ieo
+gene_accession_id,MGI:2685277
+parameter_name,Click-evoked ABR threshold
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_002_001
+mouse_life_stage,E18.5

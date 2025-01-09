@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_005_001
+mouse_strain,C57BL
+parameter_name,PQ
+mouse_life_stage,Late adult
+analysis_id,9pia1dkak52r1rr
+gene_accession_id,MGI:2446274
+gene_symbol,Frmpd1
+pvalue,0.7978863

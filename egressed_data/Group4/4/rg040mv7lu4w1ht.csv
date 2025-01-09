@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_036_001
+gene_accession_id,MGI:105073
+parameter_name,Eosinophil cell count
+analysis_id,rg040mv7lu4w1ht
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.346259
+gene_symbol,Tnni1

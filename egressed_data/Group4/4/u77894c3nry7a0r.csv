@@ -1,0 +1,8 @@
+parameter_name,Eye Hemorrhage or Blood Presence
+parameter_id,IMPC_EYE_003_001
+gene_symbol,Mecom
+mouse_life_stage,E15.5
+analysis_id,u77894c3nry7a0r
+gene_accession_id,MGI:95457
+mouse_strain,C57BL
+pvalue,0.3948087

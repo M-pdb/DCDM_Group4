@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,UIBC (unsaturated iron binding capacity)
+parameter_id,IMPC_CBC_024_001
+analysis_id,07gh45zhojm5233
+gene_accession_id,MGI:97613
+gene_symbol,Plcb1
+pvalue,0.2823036

@@ -1,0 +1,8 @@
+parameter_name,Lymphocyte differential count
+mouse_strain,C57BL
+gene_symbol,Ola1
+analysis_id,7b6bi62jz1l170v
+gene_accession_id,MGI:1914309
+parameter_id,IMPC_HEM_031_001
+pvalue,0.1128855
+mouse_life_stage,E18.5

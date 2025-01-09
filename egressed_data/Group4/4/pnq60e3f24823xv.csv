@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+analysis_id,pnq60e3f24823xv
+mouse_life_stage,Early adult
+parameter_name,IgD+ mature B cell percentage
+parameter_id,MGP_PBI_015_001
+pvalue,0.1218146
+mouse_strain,C57BL

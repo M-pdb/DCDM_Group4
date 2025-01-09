@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88174
+parameter_id,MGP_IMM_076_001
+analysis_id,8k93b4tdc3i5vv4
+parameter_name,Total Treg cells - % of CD45+
+pvalue,0.3419971
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_symbol,Bmi1

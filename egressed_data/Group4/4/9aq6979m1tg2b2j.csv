@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Effector Treg cells - % of CD45+
+gene_symbol,Ola1
+gene_accession_id,MGI:1914309
+analysis_id,9aq6979m1tg2b2j
+parameter_id,MGP_MLN_070_001
+pvalue,0.7309909

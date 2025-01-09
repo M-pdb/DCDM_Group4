@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,KLRG1+ CD4- NKT cells - % of CD45+
+gene_accession_id,MGI:1915087
+analysis_id,s87718ky93d2ff5
+parameter_id,MGP_IMM_094_001
+pvalue,0.9207876
+mouse_life_stage,E12.5
+gene_symbol,Tiprl

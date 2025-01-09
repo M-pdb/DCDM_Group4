@@ -1,0 +1,8 @@
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells
+analysis_id,13c15hufg0i161x
+pvalue,0.3765439
+mouse_strain,C57BL
+gene_symbol,Ahcy
+mouse_life_stage,E9.5
+gene_accession_id,MGI:87968
+parameter_id,MGP_IMM_006_001

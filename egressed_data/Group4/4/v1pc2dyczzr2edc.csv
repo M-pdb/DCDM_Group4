@@ -1,0 +1,8 @@
+parameter_name,Basophil differential count
+mouse_life_stage,E18.5
+parameter_id,IMPC_HEM_038_001
+mouse_strain,C57BL
+gene_symbol,Fsd1l
+gene_accession_id,MGI:2442443
+pvalue,0.2208842
+analysis_id,v1pc2dyczzr2edc

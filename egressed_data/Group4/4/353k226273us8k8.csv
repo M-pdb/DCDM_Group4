@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,353k226273us8k8
+parameter_name,Effector CD8+ T cells - % of CD8+
+parameter_id,MGP_MLN_013_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915107
+pvalue,0.459116
+gene_symbol,Ppp6c

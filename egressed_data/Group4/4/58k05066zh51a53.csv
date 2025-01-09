@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,IMPC_DXA_003_001
+parameter_name,Lean mass
+gene_symbol,Slc39a10
+analysis_id,58k05066zh51a53
+gene_accession_id,MGI:1914515
+pvalue,0.9349541

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1344367
+gene_symbol,Grem2
+analysis_id,e7335d2zrqc7buu
+pvalue,0.5087154
+mouse_life_stage,E18.5
+parameter_name,Naive CD8+ T cells - % of CD8+
+mouse_strain,C57BL
+parameter_id,MGP_IMM_016_001

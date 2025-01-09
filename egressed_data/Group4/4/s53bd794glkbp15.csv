@@ -1,0 +1,8 @@
+parameter_name,Initial response to glucose challenge
+parameter_id,IMPC_IPG_011_001
+analysis_id,s53bd794glkbp15
+mouse_life_stage,E15.5
+pvalue,0.4204392
+mouse_strain,C57BL
+gene_accession_id,MGI:99501
+gene_symbol,Fgb

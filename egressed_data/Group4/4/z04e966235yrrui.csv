@@ -1,0 +1,8 @@
+analysis_id,z04e966235yrrui
+mouse_strain,C57BL
+parameter_name,Prepulse inhibition - PP4
+gene_accession_id,MGI:2444554
+gene_symbol,Mapkap1
+parameter_id,ESLIM_011_001_704
+mouse_life_stage,E15.5
+pvalue,0.756226

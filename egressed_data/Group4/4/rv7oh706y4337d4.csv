@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,ESLIM_007_001_012
+gene_symbol,HNF4A
+analysis_id,rv7oh706y4337d4
+pvalue,0.8509069
+gene_accession_id,MGI:109128
+parameter_name,Centre permanence time

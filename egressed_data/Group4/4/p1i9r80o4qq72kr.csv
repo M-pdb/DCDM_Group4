@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_029_001
+mouse_strain,C50BL
+gene_symbol,Wars2
+analysis_id,p1i9r80o4qq72kr
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell number
+gene_accession_id,MGI:1917810
+mouse_life_stage,E12.5
+pvalue,0.2605931

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,lspcg77kq548x4s
+parameter_id,IMPC_ECG_005_001
+gene_accession_id,MGI:2442443
+pvalue,0.4179015
+parameter_name,PQ
+mouse_life_stage,Early adult
+gene_symbol,Fsd1l

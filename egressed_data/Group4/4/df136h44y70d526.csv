@@ -1,0 +1,8 @@
+parameter_id,IMPC_IMM_046_001
+analysis_id,df136h44y70d526
+mouse_strain,C57BL
+gene_accession_id,MGI:1328306
+pvalue,0.2909022
+mouse_life_stage,E9.5
+parameter_name,DN CD44+CD62L- NKT cells
+gene_symbol,Orc2

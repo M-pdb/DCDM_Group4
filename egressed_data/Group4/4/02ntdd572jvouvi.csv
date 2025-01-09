@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:99605
+parameter_name,Periphery resting time
+parameter_id,ESLIM_007_001_007
+analysis_id,02ntdd572jvouvi
+pvalue,0.9483907
+gene_symbol,Cntfr

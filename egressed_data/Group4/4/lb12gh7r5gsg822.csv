@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Eosinophil cell count
+parameter_id,IMPC_HEM_036_001
+pvalue,0.9383479
+gene_symbol,Stk35
+analysis_id,lb12gh7r5gsg822
+gene_accession_id,MGI:1914583

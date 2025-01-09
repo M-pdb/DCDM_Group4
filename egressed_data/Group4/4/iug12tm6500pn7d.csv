@@ -1,0 +1,8 @@
+analysis_id,iug12tm6500pn7d
+parameter_name,Bone Mineral Density (excluding skull)
+gene_accession_id,MGI:104640
+mouse_strain,C57BL
+gene_symbol,Rab17
+pvalue,0.2577106
+mouse_life_stage,Early adult
+parameter_id,IMPC_DXA_004_001

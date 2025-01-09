@@ -1,0 +1,8 @@
+gene_symbol,Ufc1
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,cx3wg483opd569z
+parameter_name,Effector CD8+ T cells - % of CD8+
+pvalue,0.7244624
+gene_accession_id,MGI:1913405
+parameter_id,MGP_IMM_014_001

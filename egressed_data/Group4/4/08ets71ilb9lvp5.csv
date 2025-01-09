@@ -1,0 +1,8 @@
+gene_symbol,Il1r1
+gene_accession_id,MGI:96545
+parameter_name,Naive CD8+ T cells - % of CD45+
+mouse_life_stage,Early adult
+analysis_id,08ets71ilb9lvp5
+mouse_strain,C57BL
+parameter_id,MGP_MLN_076_001
+pvalue,0.2892973

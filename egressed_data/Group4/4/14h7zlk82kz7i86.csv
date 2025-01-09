@@ -1,0 +1,8 @@
+gene_symbol,Ilkap
+parameter_name,Latency to first transition into dark
+analysis_id,14h7zlk82kz7i86
+parameter_id,IMPC_LDT_006_001
+mouse_life_stage,Early adult
+pvalue,0.06623303
+mouse_strain,C57BL
+gene_accession_id,MGI:1914694

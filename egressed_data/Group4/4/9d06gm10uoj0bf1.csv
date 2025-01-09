@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_004_001
+gene_symbol,Mapkap1
+parameter_name,RR
+analysis_id,9d06gm10uoj0bf1
+mouse_strain,C57BL
+pvalue,0.3700607
+gene_accession_id,MGI:2444554
+mouse_life_stage,E15.5

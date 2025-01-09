@@ -1,0 +1,8 @@
+parameter_name,Conditioning Baseline % Freezing Time
+analysis_id,1e3z4v09h73898z
+mouse_strain,C55BL
+parameter_id,IMPC_FEA_003_001
+gene_accession_id,MGI:3588214
+gene_symbol,Rufy4
+mouse_life_stage,Early adult
+pvalue,0.8575532

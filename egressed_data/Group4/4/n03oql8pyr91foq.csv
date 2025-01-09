@@ -1,0 +1,8 @@
+parameter_name,Neutrophil cell count
+parameter_id,IMPC_HEM_030_001
+gene_accession_id,MGI:2685053
+pvalue,0.3577336
+mouse_life_stage,Early adult
+analysis_id,n03oql8pyr91foq
+mouse_strain,C57BL
+gene_symbol,Ntmt2

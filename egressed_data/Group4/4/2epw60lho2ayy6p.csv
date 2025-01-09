@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_001_001
+parameter_name,White blood cell count
+mouse_strain,C57BL
+mouse_life_stage,Middle aged adult
+analysis_id,2epw60lho2ayy6p
+pvalue,0.8533476
+gene_accession_id,MGI:97613
+gene_symbol,Plcb1

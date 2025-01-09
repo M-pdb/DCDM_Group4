@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+parameter_id,MGP_IMM_004_001
+analysis_id,1g7960w6y9290p4
+parameter_name,Total CD4+ T cells - % of ab T cells
+pvalue,0.8649472
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+gene_symbol,Jun

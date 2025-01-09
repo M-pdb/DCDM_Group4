@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,hf17ypq10ad2k32
+gene_symbol,Tnfsf18
+parameter_name,DN CD25- NKT cells
+gene_accession_id,MGI:2673064
+parameter_id,IMPC_IMM_025_001
+mouse_life_stage,Early adult
+pvalue,0.08532636

@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_008_001
+mouse_strain,C57BL
+parameter_name,ST
+gene_accession_id,MGI:99501
+pvalue,0.5188988
+gene_symbol,Fgb
+analysis_id,o11o5u502kb4950
+mouse_life_stage,E12.5

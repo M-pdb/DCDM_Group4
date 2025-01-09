@@ -1,0 +1,8 @@
+parameter_name,Cholesterol ratio
+parameter_id,IMPC_CBC_058_001
+analysis_id,ngk2z08pad05hb0
+mouse_strain,C57BL
+gene_symbol,Cpa3
+mouse_life_stage,Early adult
+gene_accession_id,MGI:88479
+pvalue,0.4755371

@@ -1,0 +1,8 @@
+gene_symbol,Bcs1l
+gene_accession_id,MGI:1914071
+parameter_name,Mean-cell-volume
+mouse_strain,C57BL
+analysis_id,biw516l2lo5l94i
+parameter_id,M-G-P_016_001_005
+mouse_life_stage,E9.5
+pvalue,0.271621

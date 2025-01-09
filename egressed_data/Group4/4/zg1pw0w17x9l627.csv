@@ -1,0 +1,8 @@
+analysis_id,zg1pw0w17x9l627
+parameter_id,IMPC_ECG_004_001
+parameter_name,RR
+gene_accession_id,MGI:95835
+pvalue,0.4120061
+mouse_strain,C57BL
+gene_symbol,Hspa5
+mouse_life_stage,E9.5

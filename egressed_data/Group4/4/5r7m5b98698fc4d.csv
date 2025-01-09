@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1344367
+gene_symbol,Grem2
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_006_001
+pvalue,0.4677909
+parameter_name,12kHz-evoked ABR Threshold
+analysis_id,5r7m5b98698fc4d

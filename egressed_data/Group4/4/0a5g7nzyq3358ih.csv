@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E18.5
+gene_accession_id,MGI:2442443
+parameter_name,Bone Mineral Density (excluding skull)
+parameter_id,M-G-P_005_001_004
+gene_symbol,Fsd1l
+analysis_id,0a5g7nzyq3358ih
+pvalue,0.08328737

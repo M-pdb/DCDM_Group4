@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Initial response to glucose challenge
+parameter_id,IMPC_IPG_011_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1913506
+pvalue,0.4808919
+gene_symbol,Ssr2
+analysis_id,8wl897p052g3302

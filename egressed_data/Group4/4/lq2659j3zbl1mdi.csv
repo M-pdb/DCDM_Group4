@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1197019
+parameter_id,MGP_PBI_033_001
+parameter_name,CD8+ KLRG1+ alpha beta T cell number
+analysis_id,lq2659j3zbl1mdi
+mouse_strain,C57BL
+pvalue,0.3256474
+gene_symbol,Kcns1
+mouse_life_stage,Early adult

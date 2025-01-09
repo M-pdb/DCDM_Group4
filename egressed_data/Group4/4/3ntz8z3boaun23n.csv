@@ -1,0 +1,8 @@
+analysis_id,3ntz8z3boaun23n
+parameter_id,IMPC_ABR_004_001
+mouse_strain,C57BL
+parameter_name,6kHz-evoked ABR Threshold
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1921895
+pvalue,0.9800277
+gene_symbol,Tent5c

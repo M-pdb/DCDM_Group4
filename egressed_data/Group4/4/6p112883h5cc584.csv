@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3616086
+gene_symbol,Kcng1
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_LDT_006_001
+pvalue,0.6108723
+parameter_name,Latency to first transition into dark
+analysis_id,6p112883h5cc584

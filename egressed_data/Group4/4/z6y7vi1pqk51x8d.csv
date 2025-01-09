@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_010_001
+analysis_id,z6y7vi1pqk51x8d
+parameter_name,Effector Treg cells - % of Treg
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:88461
+gene_symbol,Col6a3
+pvalue,0.4863568

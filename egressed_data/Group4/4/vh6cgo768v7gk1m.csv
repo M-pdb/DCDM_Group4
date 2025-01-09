@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_004_001
+gene_symbol,Ncaph
+mouse_strain,C57BL
+pvalue,0.9857766
+analysis_id,vh6cgo768v7gk1m
+gene_accession_id,MGI:2444777
+mouse_life_stage,Early adult
+parameter_name,RR

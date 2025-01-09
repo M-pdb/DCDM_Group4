@@ -1,0 +1,8 @@
+Gene_symbol,Lamb3
+Gene_accession_id,MGI:99915
+mouse_strain,C57BL
+analysis_id,y28094m8q5mmdc9
+mouse_life_stage,Early adult
+Parameter_name,KLRG1+ CD4- NKT cells - % of CD45+
+pvalue,0.5194293
+Parameter_id,MGP_IMM_094_001

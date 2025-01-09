@@ -1,0 +1,8 @@
+gene_symbol,MECOM
+mouse_life_stage,E12.5
+analysis_id,05v3lc4e11d1c65
+mouse_strain,C57BL
+parameter_name,Mean platelet volume
+gene_accession_id,MGI:95457
+parameter_id,IMPC_HEM_019_001
+pvalue,0.5853659

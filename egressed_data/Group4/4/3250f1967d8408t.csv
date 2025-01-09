@@ -1,0 +1,8 @@
+analysis_id,3250f1967d8408t
+parameter_id,JAXLA_CSD_023_001
+mouse_strain,C57BL
+parameter_name,Vibrissae - presence
+gene_accession_id,MGI:1914309
+gene_symbol,Ola1
+pvalue,0.3207712
+mouse_life_stage,E18.5

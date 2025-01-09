@@ -1,0 +1,8 @@
+parameter_name,White blood cell count
+parameter_id,IMPC_HEM_001_001
+gene_accession_id,MGI:1309468
+analysis_id,qy672731se2u577
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_symbol,Casq1
+pvalue,0.4794537

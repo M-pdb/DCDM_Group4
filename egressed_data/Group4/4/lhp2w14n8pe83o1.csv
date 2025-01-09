@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,JAX_LDT_009_001
+pvalue,0.8118252
+parameter_name,Percent time in light
+analysis_id,lhp2w14n8pe83o1

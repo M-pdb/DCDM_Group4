@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2181659
+gene_symbol,Tox
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_FEA_107_001
+pvalue,0.5791083
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+analysis_id,1w628kd7jbq760p

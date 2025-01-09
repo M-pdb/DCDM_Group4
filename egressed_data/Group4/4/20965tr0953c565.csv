@@ -1,0 +1,8 @@
+parameter_id,IMPC_LDT_006_001
+parameter_name,Latency to first transition into dark
+gene_accession_id,MGI:1915107
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,20965tr0953c565
+gene_symbol,Ppp6c
+pvalue,0.09767655

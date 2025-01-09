@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88174
+mouse_strain,C57BL
+parameter_name,Head coat/hair presence
+parameter_id,MGP_CSD_015_001
+analysis_id,i6bp4e609m4917x
+mouse_life_stage,Early adult
+pvalue,0.8197588
+gene_symbol,Bmi1

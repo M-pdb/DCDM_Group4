@@ -1,0 +1,8 @@
+parameter_id,IMPC_ACS_036_001
+parameter_name,% Pre-pulse inhibition - PPI4
+analysis_id,d1029w4wif4l70x
+pvalue,0.7346404
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:105072
+gene_symbol,Rab22a

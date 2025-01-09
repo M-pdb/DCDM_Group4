@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+mouse_life_stage,E15.5
+gene_accession_id,MGI:88174
+pvalue,0.1432635
+analysis_id,86t057663a005nn
+parameter_id,IMPC_FEA_107_001
+mouse_strain,C57BL
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing

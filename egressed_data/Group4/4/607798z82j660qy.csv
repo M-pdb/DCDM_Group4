@@ -1,0 +1,8 @@
+gene_symbol,Tox
+parameter_name,Latency to first transition into dark
+pvalue,0.5647615
+gene_accession_id,MGI:2181659
+mouse_strain,C57BL
+parameter_id,IMPC_LDT_006_001
+analysis_id,607798z82j660qy
+mouse_life_stage,Early adult

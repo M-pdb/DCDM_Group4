@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Sema6c
+parameter_id,MGP_PBI_029_001
+analysis_id,283m72vkq5w305t
+gene_accession_id,MGI:1338032
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell number
+pvalue,0.2221315

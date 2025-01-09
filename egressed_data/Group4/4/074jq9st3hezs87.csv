@@ -1,0 +1,8 @@
+gene_symbol,Eprs1
+gene_accession_id,MGI:97838
+mouse_strain,C57BL
+pvalue,0.9907354
+analysis_id,074jq9st3hezs87
+parameter_name,Resting Treg cells - % of Treg
+mouse_life_stage,E12.5
+parameter_id,MGP_MLN_010_001

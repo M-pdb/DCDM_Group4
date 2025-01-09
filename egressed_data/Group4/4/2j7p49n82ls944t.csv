@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_056_001
+analysis_id,2j7p49n82ls944t
+parameter_name,Mean left eye lens density
+gene_accession_id,MGI:1915087
+mouse_strain,C57BL
+pvalue,0.1184475
+gene_symbol,Tiprl
+mouse_life_stage,E12.5

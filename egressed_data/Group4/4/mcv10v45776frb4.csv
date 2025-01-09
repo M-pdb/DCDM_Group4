@@ -1,0 +1,8 @@
+gene_symbol,Ppp6c
+mouse_strain,C57BL
+gene_accession_id,MGI:1915107
+parameter_name,12kHz-evoked ABR Threshold
+pvalue,0.7471765
+mouse_life_stage,Early adult
+analysis_id,mcv10v45776frb4
+parameter_id,IMPC_ABR_006_001

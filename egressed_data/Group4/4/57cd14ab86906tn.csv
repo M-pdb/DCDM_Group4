@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,CD11b-high cDC - % of CD45+
+gene_accession_id,MGI:1919935
+parameter_id,MGP_IMM_129_001
+pvalue,0.3139095
+analysis_id,57cd14ab86906tn
+gene_symbol,Dnajc6
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_symbol,Inpp1
+analysis_id,j499d170b8649b1
+parameter_name,Eosinophil cell count
+gene_accession_id,MGI:104848
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_036_001
+mouse_strain,129SV
+pvalue,0.6496653

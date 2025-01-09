@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1917810
+gene_symbol,Wars2
+analysis_id,p9j19uzf7i6qnd2
+parameter_name,DN CD25- NKT cells
+parameter_id,IMPC_IMM_025_001
+mouse_strain,C57BL
+pvalue,0.3102801
+mouse_life_stage,E12.5

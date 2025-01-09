@@ -1,0 +1,8 @@
+gene_accession_id,MGI:87968
+parameter_id,IMPC_ECG_010_001
+parameter_name,HRV
+gene_symbol,Ahcy
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+analysis_id,f029f37953251lv
+pvalue,0.1539102

@@ -1,0 +1,8 @@
+gene_symbol,Ninl
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+gene_accession_id,MGI:1925427
+mouse_strain,C57BL
+parameter_id,MGP_MLN_006_001
+analysis_id,c0ah8i2y454dj89
+mouse_life_stage,Early adult
+pvalue,0.4728168

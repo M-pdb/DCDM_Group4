@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2673000
+pvalue,0.2763515
+analysis_id,jyai5a72f935o4v
+gene_symbol,Trim46
+parameter_name,18kHz-evoked ABR Threshold
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_008_001

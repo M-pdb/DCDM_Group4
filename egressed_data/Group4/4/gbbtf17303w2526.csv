@@ -1,0 +1,8 @@
+gene_symbol,Ap5s1
+parameter_name,Embryo turning
+gene_accession_id,MGI:1916846
+analysis_id,gbbtf17303w2526
+parameter_id,IMPC_GEL_011_001
+mouse_life_stage,Early adult
+pvalue,0.7293253
+mouse_strain,C57BL

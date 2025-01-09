@@ -1,0 +1,8 @@
+gene_accession_id,MGI:87968
+gene_symbol,Ahcy
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_id,IMPC_LDT_006_001
+pvalue,0.6342831
+parameter_name,Latency to first transition into dark
+analysis_id,ebp2q564g6bjska

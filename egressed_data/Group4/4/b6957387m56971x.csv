@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1918361
+parameter_name,White blood cell count
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_001_001
+mouse_strain,C57BL
+pvalue,0.8453681
+analysis_id,b6957387m56971x
+gene_symbol,Gpr39

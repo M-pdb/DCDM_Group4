@@ -1,0 +1,8 @@
+gene_symbol,Slc28a2
+parameter_id,IMPC_FEA_107_001
+gene_accession_id,MGI:1913105
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+analysis_id,3008f46q9985992
+pvalue,0.2475443
+mouse_strain,C57BL
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_symbol,Snap23
+mouse_life_stage,Late adult
+gene_accession_id,MGI:109356
+parameter_name,Breath rate during sleep standard deviation
+mouse_strain,C57BL
+analysis_id,875j6fhs06v2034
+parameter_id,JAX_SLW_014_001
+pvalue,0.1912405

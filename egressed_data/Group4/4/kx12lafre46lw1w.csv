@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_004_001
+parameter_name,Hematocrit
+gene_symbol,Ubxn11
+gene_accession_id,MGI:1914836
+mouse_strain,C57BL
+analysis_id,kx12lafre46lw1w
+mouse_life_stage,Early adult
+pvalue,0.3728784

@@ -1,0 +1,8 @@
+gene_symbol,Slc28a2
+mouse_strain,C57BL
+parameter_name,Click-evoked ABR threshold
+analysis_id,q29kt18w98h2ne0
+parameter_id,IMPC_ABR_002_001
+gene_accession_id,MGI:1913105
+pvalue,0.8518472
+mouse_life_stage,Early adult

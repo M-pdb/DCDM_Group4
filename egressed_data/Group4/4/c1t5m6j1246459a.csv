@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1925427
+mouse_strain,129SV
+analysis_id,c1t5m6j1246459a
+pvalue,0.1385045
+gene_symbol,Ninl
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+parameter_id,IMPC_FEA_107_001
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_symbol,Lamb3
+mouse_strain,C57BL
+analysis_id,93909061h3ojt1t
+parameter_id,ESLIM_004_001_701
+gene_accession_id,MGI:99915
+pvalue,0.1782192
+mouse_life_stage,Early adult
+parameter_name,Glucose response AUC

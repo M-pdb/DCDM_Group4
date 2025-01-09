@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_037_001
+parameter_name,Basophil cell count
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,hb543u633tiw1u0
+gene_accession_id,MGI:2446274
+pvalue,0.5475521
+gene_symbol,Frmpd1

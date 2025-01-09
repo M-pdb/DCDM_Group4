@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2181659
+gene_symbol,Tox
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_010_001
+pvalue,0.1323742
+parameter_name,Effector Treg cells - % of Treg
+analysis_id,cm1z5q662zs0hqa

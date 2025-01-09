@@ -1,0 +1,8 @@
+gene_symbol,Rgs20
+mouse_life_stage,Early adult
+parameter_name,NKT cells (panel A) - % of live leukocytes (Panel A)
+gene_accession_id,MGI:1929866
+parameter_id,IMPC_IMM_004_002
+mouse_strain,C57BL
+analysis_id,i88272ll1twq8uw
+pvalue,0.2010566

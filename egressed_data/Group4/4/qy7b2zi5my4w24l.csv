@@ -1,0 +1,8 @@
+parameter_name,Total CD4+ T cells - % of CD45+
+parameter_id,MGP_MLN_064_001
+analysis_id,qy7b2zi5my4w24l
+pvalue,0.3070834
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Ddx27
+gene_accession_id,MGI:2385884

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914583
+gene_symbol,Stk35
+analysis_id,pj20v5i9nvtf1f2
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing
+parameter_id,IMPC_FEA_106_001
+mouse_life_stage,Early adult
+pvalue,0.05886214
+mouse_strain,C57BL

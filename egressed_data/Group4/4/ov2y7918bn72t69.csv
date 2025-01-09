@@ -1,0 +1,8 @@
+parameter_name,CD4+ T helper cells - % of CD45+
+gene_symbol,Ilkap
+parameter_id,MGP_MLN_065_001
+mouse_strain,C57BL
+gene_accession_id,MGI:1914694
+pvalue,0.624059
+analysis_id,ov2y7918bn72t69
+mouse_life_stage,Early adult

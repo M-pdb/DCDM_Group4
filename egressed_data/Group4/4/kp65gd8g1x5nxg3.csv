@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_001_001
+mouse_life_stage,Early adult
+analysis_id,kp65gd8g1x5nxg3
+parameter_name,Total T cells - % of CD45+
+gene_symbol,Tnfsf18
+pvalue,0.4695694
+mouse_strain,C57BL
+gene_accession_id,MGI:2673064

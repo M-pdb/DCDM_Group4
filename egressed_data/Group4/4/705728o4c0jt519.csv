@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+gene_accession_id,MGI:95835
+analysis_id,705728o4c0jt519
+parameter_name,Mean cell hemoglobin concentration
+pvalue,0.5571326
+mouse_strain,C57BL
+gene_symbol,Hspa5
+mouse_life_stage,E12.5

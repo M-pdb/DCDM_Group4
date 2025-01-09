@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88461
+pvalue,0.7931041
+analysis_id,v43h7orf700m44k
+gene_symbol,Col6a3
+parameter_name,Click-evoked ABR threshold
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_002_001

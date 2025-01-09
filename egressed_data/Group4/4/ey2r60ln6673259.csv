@@ -1,0 +1,8 @@
+gene_symbol,Bcs1l
+analysis_id,ey2r60ln6673259
+mouse_life_stage,E12.5
+mouse_strain,C57BL
+gene_accession_id,MGI:1914071
+parameter_name,Light side time spent
+pvalue,0.9956242
+parameter_id,JAX_LDT_002_001

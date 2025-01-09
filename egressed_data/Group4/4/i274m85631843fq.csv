@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,i274m85631843fq
+gene_symbol,Car13
+gene_accession_id,MGI:1931322
+parameter_name,Percent time in dark
+parameter_id,JAX_LDT_008_001
+pvalue,0.08180719

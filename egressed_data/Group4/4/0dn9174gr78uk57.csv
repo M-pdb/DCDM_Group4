@@ -1,0 +1,8 @@
+parameter_name,Resting CD8+ T cells - % of CD8+
+gene_symbol,Cdin1
+parameter_id,MGP_IMM_015_001
+analysis_id,0dn9174gr78uk57
+gene_accession_id,MGI:3026886
+pvalue,0.1080491
+mouse_life_stage,E9.5
+mouse_strain,C57BL

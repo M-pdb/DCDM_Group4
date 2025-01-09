@@ -1,0 +1,8 @@
+parameter_id,IMPC_DXA_007_001
+mouse_strain,C57BL
+parameter_name,BMC/Body weight
+gene_accession_id,MGI:2673000
+analysis_id,11e5ps094393d33
+gene_symbol,Trim46
+pvalue,4.785318e-05
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+parameter_name,Neutrophil cell count
+parameter_id,IMPC_HEM_030_001
+gene_symbol,C8b
+gene_accession_id,MGI:88236
+mouse_strain,C57BL
+pvalue,0.5166964
+analysis_id,f7lx596j6vz71o6
+mouse_life_stage,Early adult

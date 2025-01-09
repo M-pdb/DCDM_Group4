@@ -1,0 +1,8 @@
+gene_symbol,Tmem14a
+parameter_id,IMPC_ABR_012_001
+analysis_id,jj92n905sp1ey9d
+gene_accession_id,MGI:1922962
+pvalue,0.3368174
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,30kHz-evoked ABR Threshold

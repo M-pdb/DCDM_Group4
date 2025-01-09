@@ -1,0 +1,8 @@
+gene_symbol,Tox
+mouse_strain,C57BL
+parameter_id,IMPC_HEM_006_001
+pvalue,0.8258854
+analysis_id,3v6hw51s1g15tx6
+parameter_name,Mean corpuscular hemoglobin
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2181659

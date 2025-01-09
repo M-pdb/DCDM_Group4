@@ -1,0 +1,8 @@
+gene_symbol,FRMPD1
+gene_accession_id,MGI:2446274
+parameter_name,KLRG1+ mature NK cell number
+mouse_strain,C57BL
+analysis_id,590i648g5287x64
+pvalue,0.7655021
+parameter_id,MGP_PBI_031_001
+mouse_life_stage,Early adult

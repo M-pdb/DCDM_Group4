@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_029_001
+parameter_name,Neutrophil differential count
+mouse_life_stage,E9.5
+analysis_id,q470jpdoa192731
+pvalue,0.939223
+mouse_strain,C57BL
+gene_symbol,Eprs1
+gene_accession_id,MGI:97838

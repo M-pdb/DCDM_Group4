@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_002_001
+mouse_strain,C57BL
+analysis_id,0w1yp60gzv7an10
+parameter_name,Red blood cell count
+mouse_life_stage,Early adult
+pvalue,0.7825574
+gene_symbol,Sgip1
+gene_accession_id,MGI:1920344

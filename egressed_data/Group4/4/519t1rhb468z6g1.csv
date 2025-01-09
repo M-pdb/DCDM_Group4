@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_007_001
+mouse_strain,C57BL
+parameter_name,Cornea
+gene_symbol,Tiprl
+gene_accession_id,MGI:1915087
+analysis_id,519t1rhb468z6g1
+mouse_life_stage,E9.5
+pvalue,0.180178

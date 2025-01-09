@@ -1,0 +1,8 @@
+parameter_name,Forebrain
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,x043k4b5v56dk38
+parameter_id,IMPC_GEL_028_001
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+pvalue,0.162107

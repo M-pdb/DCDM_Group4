@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECH_005_001
+parameter_name,Fractional Shortening
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,3cib5526012rc50
+gene_accession_id,MGI:1922082
+pvalue,0.7058408
+gene_symbol,Slc45a3

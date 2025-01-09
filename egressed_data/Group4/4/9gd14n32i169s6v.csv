@@ -1,0 +1,8 @@
+analysis_id,9gd14n32i169s6v
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_symbol,Eprs1
+parameter_name,Initial response to glucose challenge
+gene_accession_id,MGI:97838
+pvalue,0.8021911
+parameter_id,IMPC_IPG_011_001

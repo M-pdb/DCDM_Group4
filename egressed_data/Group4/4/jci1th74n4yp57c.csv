@@ -1,0 +1,8 @@
+gene_symbol,Traf6
+parameter_name,Forelimb grip strength normalised against body weight
+parameter_id,JAXLA_GRS_010_001
+pvalue,0.2192237
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+analysis_id,jci1th74n4yp57c
+gene_accession_id,MGI:108072

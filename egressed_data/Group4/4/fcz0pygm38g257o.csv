@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_004_001
+analysis_id,fcz0pygm38g257o
+mouse_strain,C57BL
+gene_accession_id,MGI:1860103
+pvalue,0.1133678
+gene_symbol,Slc2a8
+mouse_life_stage,Early adult
+parameter_name,Total CD4+ T cells - % of ab T cells

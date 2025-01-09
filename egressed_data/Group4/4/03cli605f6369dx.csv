@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,03cli605f6369dx
+gene_symbol,Mroh9
+mouse_strain,C57BL
+gene_accession_id,MGI:1925508
+mouse_life_stage,Early adult
+pvalue,0.1808882

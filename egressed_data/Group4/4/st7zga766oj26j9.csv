@@ -1,0 +1,8 @@
+gene_symbol,Tox
+parameter_name,DN CD44+CD62L+ NKT cells
+mouse_life_stage,Early adult
+analysis_id,st7zga766oj26j9
+pvalue,0.8964635
+gene_accession_id,MGI:2181659
+parameter_id,IMPC_IMM_047_001
+mouse_strain,C57BL

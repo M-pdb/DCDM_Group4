@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1922745
+gene_symbol,Morn5
+mouse_strain,C57BL
+pvalue,0.8056904
+analysis_id,s392u65nxl742ti
+parameter_name,Latency to first transition into dark
+mouse_life_stage,Early adult
+parameter_id,IMPC_LDT_006_001

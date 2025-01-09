@@ -1,0 +1,8 @@
+parameter_name,PP3 + pulse startle magnitude
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,ESLIM_011_001_009
+analysis_id,a0g02z14vr45705
+pvalue,0.5709723
+gene_accession_id,MGI:109128
+gene_symbol,Hnf4a

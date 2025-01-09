@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:1915889
+gene_symbol,Smyd2
+analysis_id,5p0h6drk731z407
+parameter_name,CD8+ KLRG1+ alpha beta T cell number
+parameter_id,MGP_PBI_033_001
+mouse_life_stage,Early adult
+pvalue,0.1191496

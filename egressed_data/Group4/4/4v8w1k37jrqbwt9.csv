@@ -1,0 +1,8 @@
+gene_symbol,Ahcy
+parameter_name,Forelimb and hindlimb grip strength normalised against body weight
+gene_accession_id,MGI:87968
+parameter_id,IMPC_GRS_011_001
+mouse_life_stage,E12.5
+mouse_strain,C57BL
+analysis_id,4v8w1k37jrqbwt9
+pvalue,0.5621211

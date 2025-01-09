@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,MGP_MLN_075_001
+pvalue,0.1255996
+parameter_name,Resting CD8+ T cells - % of CD45+
+analysis_id,7k2sc0a5kc8a322

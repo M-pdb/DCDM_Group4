@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,MGP_PBI_003_001
+pvalue,0.9302305
+parameter_name,CD4+ alpha beta T cell percentage
+analysis_id,ga4h13ts9l1l0yg

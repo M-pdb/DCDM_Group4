@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_006_001
+pvalue,0.224384
+mouse_life_stage,Early adult
+parameter_name,PR
+gene_accession_id,MGI:99605
+mouse_strain,C57BL
+analysis_id,cytv09657bp62n8
+gene_symbol,Cntfr

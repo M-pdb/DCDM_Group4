@@ -1,0 +1,8 @@
+parameter_id,IMPC_LDT_006_001
+parameter_name,Latency to first transition into dark
+gene_symbol,Mecom
+pvalue,0.2098756
+mouse_life_stage,E15.5
+mouse_strain,C57BL
+analysis_id,x6tbb10h1038625
+gene_accession_id,MGI:95457

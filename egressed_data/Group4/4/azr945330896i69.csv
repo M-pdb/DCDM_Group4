@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2385884
+analysis_id,azr945330896i69
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_012_001
+pvalue,0.9024515
+mouse_strain,129SV
+parameter_name,30kHz-evoked ABR Threshold
+gene_symbol,Ddx27

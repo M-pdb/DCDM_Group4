@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Breath rate during sleep standard deviation
+analysis_id,6rxirp2a6l41v32
+parameter_id,JAX_SLW_014_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1922962
+gene_symbol,Tmem14a
+pvalue,0.05899198

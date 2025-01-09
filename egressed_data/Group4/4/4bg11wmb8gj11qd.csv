@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95835
+analysis_id,4bg11wmb8gj11qd
+pvalue,0.7901323
+mouse_life_stage,E12.5
+gene_symbol,Hspa5
+parameter_name,Percent time in light
+parameter_id,IMPC_LDT_008_001
+mouse_strain,C57BL

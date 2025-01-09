@@ -1,0 +1,8 @@
+gene_accession_id,MGI:103302
+parameter_name,Basophil differential count
+mouse_strain,C57BL
+parameter_id,IMPC_HEM_038_001
+analysis_id,gfm4364mx6479c3
+pvalue,0.5088213
+mouse_life_stage,Early adult
+gene_symbol,Bmp7

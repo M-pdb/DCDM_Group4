@@ -1,0 +1,8 @@
+gene_symbol,Lpgat1
+gene_accession_id,MGI:2446186
+pvalue,0.6112844
+analysis_id,lp6zeq1065712c7
+parameter_id,IMPC_IPG_012_001
+parameter_name,Area under glucose response curve
+mouse_strain,C57BL
+mouse_life_stage,Early adult

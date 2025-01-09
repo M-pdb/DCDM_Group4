@@ -1,0 +1,8 @@
+gene_symbol,Tnfsf8
+mouse_life_stage,Early adult
+gene_accession_id,MGI:88328
+analysis_id,vhqj185xayuu38z
+pvalue,0.8583668
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell percentage
+parameter_id,MGP_PBI_009_001
+mouse_strain,C54BL

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923959
+gene_symbol,Arpc2
+parameter_name,Forelimb grip strength normalised against body weight
+parameter_id,HRWLLA_GRS_010_001
+analysis_id,dwm1x48a7030x38
+mouse_strain,C57BL
+pvalue,0.7160003
+mouse_life_stage,Early adult

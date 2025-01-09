@@ -1,0 +1,8 @@
+gene_symbol,Fpgs
+gene_accession_id,MGI:95576
+pvalue,0.8972408
+analysis_id,1lqj86r956i02cw
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_002_001
+parameter_name,Click-evoked ABR threshold

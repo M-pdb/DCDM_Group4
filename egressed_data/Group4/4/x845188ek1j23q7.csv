@@ -1,0 +1,8 @@
+gene_symbol,Hpca
+analysis_id,x845188ek1j23q7
+parameter_id,IMPC_ABR_006_001
+mouse_strain,C57BL
+pvalue,0.18446
+mouse_life_stage,Late adult
+parameter_name,12kHz-evoked ABR Threshold
+gene_accession_id,MGI:1336200

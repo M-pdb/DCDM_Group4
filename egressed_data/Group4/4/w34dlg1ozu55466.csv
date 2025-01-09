@@ -1,0 +1,8 @@
+gene_symbol,Abo
+parameter_name,DN CD44+CD62L+ NKT cells
+gene_accession_id,MGI:2135738
+pvalue,0.8615769
+mouse_life_stage,Early adult
+parameter_id,IMPC_IMM_047_001
+mouse_strain,C57BL
+analysis_id,w34dlg1ozu55466

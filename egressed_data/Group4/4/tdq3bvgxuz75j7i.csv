@@ -1,0 +1,8 @@
+gene_symbol,KIF24
+gene_accession_id,MGI:1918345
+analysis_id,tdq3bvgxuz75j7i
+pvalue,0.8874169
+parameter_name,Mean right eye lens density
+parameter_id,IMPC_EYE_059_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL

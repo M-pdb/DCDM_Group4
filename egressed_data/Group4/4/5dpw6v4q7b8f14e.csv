@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_089_001
+analysis_id,5dpw6v4q7b8f14e
+pvalue,0.8453184
+gene_accession_id,MGI:104738
+parameter_name,KLRG1+ gd T cells - % of CD45+
+gene_symbol,Cdkn2a

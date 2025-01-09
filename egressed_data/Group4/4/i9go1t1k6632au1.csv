@@ -1,0 +1,8 @@
+parameter_name,CD11b-low cDC - % of cDC
+gene_accession_id,MGI:99915
+gene_symbol,LAMB3
+mouse_strain,C57BL
+analysis_id,i9go1t1k6632au1
+parameter_id,MGP_IMM_067_001
+pvalue,0.1145075
+mouse_life_stage,Early adult

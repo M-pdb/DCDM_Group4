@@ -1,0 +1,8 @@
+gene_accession_id,MGI:107414
+gene_symbol,Tnfsf10
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_012_001
+pvalue,0.3783228
+parameter_name,30kHz-evoked ABR Threshold
+analysis_id,ds0x85v4so2dt5u

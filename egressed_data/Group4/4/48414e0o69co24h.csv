@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,CD4+ T helper cells - % of CD45+
+gene_symbol,Zcchc2
+parameter_id,MGP_MLN_065_001
+pvalue,0.1725204
+analysis_id,48414e0o69co24h
+mouse_strain,C57BL
+gene_accession_id,MGI:2444114

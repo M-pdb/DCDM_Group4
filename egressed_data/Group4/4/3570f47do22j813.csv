@@ -1,0 +1,8 @@
+gene_symbol,Ninl
+parameter_name,Large Unstained Cell (LUC) count
+parameter_id,IMPC_HEM_039_001
+analysis_id,3570f47do22j813
+pvalue,0.8126996
+mouse_life_stage,Early adult
+mouse_strain,129SV
+gene_accession_id,MGI:1925427

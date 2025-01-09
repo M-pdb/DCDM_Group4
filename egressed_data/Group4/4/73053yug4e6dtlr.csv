@@ -1,0 +1,8 @@
+gene_symbol,Tox
+gene_accession_id,MGI:2181659
+analysis_id,73053yug4e6dtlr
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell percentage
+pvalue,0.2306676
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_id,MGP_PBI_010_001

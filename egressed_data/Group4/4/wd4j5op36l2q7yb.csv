@@ -1,0 +1,8 @@
+gene_symbol,Nemp2
+gene_accession_id,MGI:2444113
+parameter_id,MGP_MLN_005_001
+pvalue,0.1655333
+mouse_life_stage,Early adult
+analysis_id,wd4j5op36l2q7yb
+mouse_strain,C57BL
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells

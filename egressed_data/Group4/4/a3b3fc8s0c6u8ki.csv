@@ -1,0 +1,8 @@
+parameter_name,Corneal opacity
+parameter_id,IMPC_EYE_008_001
+analysis_id,a3b3fc8s0c6u8ki
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1925427
+mouse_strain,129SV
+pvalue,0.7460563
+gene_symbol,Ninl

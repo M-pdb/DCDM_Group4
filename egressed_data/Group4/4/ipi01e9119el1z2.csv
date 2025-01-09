@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_012_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,KLRG1+ Treg cells - % of Treg
+gene_symbol,Ifi44
+pvalue,0.3157567
+gene_accession_id,MGI:2443016
+analysis_id,ipi01e9119el1z2

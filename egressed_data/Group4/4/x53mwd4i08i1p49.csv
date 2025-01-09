@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_083_001
+parameter_name,Naive CD8+ T cells - % of CD45+
+gene_symbol,Hnf4a
+mouse_strain,C57BL
+pvalue,0.4018049
+mouse_life_stage,Early adult
+analysis_id,x53mwd4i08i1p49
+gene_accession_id,MGI:109128

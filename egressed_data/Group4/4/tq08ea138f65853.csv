@@ -1,0 +1,8 @@
+gene_symbol,Lcn2
+analysis_id,tq08ea138f65853
+pvalue,0.8962415
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:96757
+parameter_name,Area under glucose response curve
+parameter_id,IMPC_IPG_012_001

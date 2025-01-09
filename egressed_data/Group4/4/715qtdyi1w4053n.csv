@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921895
+analysis_id,715qtdyi1w4053n
+parameter_id,MGP_BMI_019_001
+gene_symbol,Tent5c
+parameter_name,T cells - % of CD45+
+mouse_strain,C57BL
+pvalue,0.9482329
+mouse_life_stage,Early adult

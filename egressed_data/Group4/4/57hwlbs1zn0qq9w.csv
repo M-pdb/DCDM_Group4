@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95835
+parameter_id,IMPC_EYE_006_001
+mouse_strain,C57BL
+analysis_id,57hwlbs1zn0qq9w
+parameter_name,Narrow eye opening
+mouse_life_stage,E9.5
+pvalue,0.6339745
+gene_symbol,Hspa5

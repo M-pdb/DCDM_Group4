@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,2372951upc1odsl
+parameter_name,Time mobile light side
+mouse_life_stage,E18.5
+parameter_id,JAX_LDT_003_001
+gene_accession_id,MGI:1334458
+pvalue,0.3253407
+gene_symbol,Pex19

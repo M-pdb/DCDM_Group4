@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+analysis_id,l977morpu03ub9c
+parameter_name,Percent time in light
+parameter_id,JAX_LDT_009_001
+pvalue,0.8078259

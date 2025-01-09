@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_039_001
+gene_symbol,Lpgat1
+mouse_life_stage,E18.5
+parameter_name,Large Unstained Cell (LUC) count
+analysis_id,qr78dk43po9ypq9
+gene_accession_id,MGI:2446186
+mouse_strain,C57BL
+pvalue,0.109537

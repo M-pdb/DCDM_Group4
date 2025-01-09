@@ -1,0 +1,8 @@
+gene_symbol,Hspa5
+parameter_name,Percent time in light
+parameter_id,JAX_LDT_009_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:95835
+analysis_id,eu7v28875q7985c
+pvalue,0.324843
+mouse_strain,C57BL

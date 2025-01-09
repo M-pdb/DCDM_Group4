@@ -1,0 +1,8 @@
+parameter_name,Right total retinal thickness
+parameter_id,IMPC_EYE_062_001
+analysis_id,o3l6ybp89s375cu
+mouse_life_stage,E18.5
+gene_accession_id,MGI:2685277
+mouse_strain,C57BL
+pvalue,0.455288
+gene_symbol,Zyg11b

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923959
+parameter_name,Immature B cells (Hardy fraction E) - % of B220+
+mouse_life_stage,Early adult
+analysis_id,vnes4q4xmqfs949
+parameter_id,MGP_BMI_006_001
+gene_symbol,Arpc2
+pvalue,0.442708
+mouse_strain,129SV

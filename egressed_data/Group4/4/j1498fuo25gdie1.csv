@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,IgD+ mature B cell number
+gene_accession_id,MGI:1346088
+parameter_id,MGP_PBI_035_001
+gene_symbol,Cd52
+analysis_id,j1498fuo25gdie1
+pvalue,0.378656

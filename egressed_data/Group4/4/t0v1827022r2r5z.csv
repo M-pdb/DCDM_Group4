@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+mouse_life_stage,E15.5
+parameter_name,CD8 CD44-CD62L+ T cells
+gene_accession_id,MGI:2444554
+parameter_id,IMPC_IMM_034_001
+mouse_strain,C57BL
+analysis_id,t0v1827022r2r5z
+pvalue,0.4207551

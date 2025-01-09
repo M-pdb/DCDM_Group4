@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,dx8tmr1gv4q224i
+parameter_id,IMPC_ECG_003_001
+parameter_name,CV
+gene_accession_id,MGI:2139447
+gene_symbol,Galnt13
+mouse_life_stage,Middle aged adult
+pvalue,0.1919996

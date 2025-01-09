@@ -1,0 +1,8 @@
+gene_symbol,Pld1
+gene_accession_id,MGI:109585
+parameter_name,KLRG1+ gd T cells - % of gd T cells
+parameter_id,MGP_IMM_022_001
+analysis_id,0n669k6yo610200
+pvalue,0.8056885
+mouse_strain,C57BL
+mouse_life_stage,Early adult

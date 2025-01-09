@@ -1,0 +1,8 @@
+parameter_name,Lymphocyte differential count
+gene_symbol,Psd4
+gene_accession_id,MGI:2674093
+parameter_id,IMPC_HEM_031_001
+mouse_life_stage,Early adult
+analysis_id,c05h1y08voz6qp6
+pvalue,0.6730405
+mouse_strain,C57BL

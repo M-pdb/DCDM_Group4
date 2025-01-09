@@ -1,0 +1,8 @@
+analysis_id,64p1o3402ahw0g1
+parameter_id,IMPC_ECG_010_001
+gene_accession_id,MGI:2674093
+mouse_strain,C57BL
+pvalue,0.2458463
+gene_symbol,Psd4
+parameter_name,HRV
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+parameter_name,Glucose response AUC
+analysis_id,apl2lv87sp0f556
+parameter_id,ESLIM_004_001_701
+Mouse_strain,C57BL
+mouse_life_stage,Early adult
+Gene_symbol,Cd52
+Gene_accession_id,MGI:1346088
+pvalue,0.3079422

@@ -1,0 +1,8 @@
+parameter_id,IMPC_IMM_004_001
+mouse_strain,C57BL
+parameter_name,NKT cells (panel A)
+gene_accession_id,MGI:1921688
+analysis_id,k038x99ztv3s6u4
+mouse_life_stage,Early adult
+pvalue,0.7380864
+gene_symbol,Clvs1

@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,2uvd5norxys342e
+mouse_life_stage,Early adult
+gene_accession_id,MGI:95576
+mouse_strain,C56BL
+gene_symbol,Fpgs
+pvalue,0.1258672

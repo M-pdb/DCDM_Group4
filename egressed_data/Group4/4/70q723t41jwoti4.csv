@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1334458
+mouse_strain,C57BL
+analysis_id,70q723t41jwoti4
+parameter_name,Lean mass
+parameter_id,IMPC_DXA_003_001
+mouse_life_stage,Early adult
+pvalue,0.1058354
+gene_symbol,Pex19

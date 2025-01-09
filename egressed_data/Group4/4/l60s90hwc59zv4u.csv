@@ -1,0 +1,8 @@
+gene_symbol,Mecom
+parameter_id,IMPC_ECG_003_001
+parameter_name,CV
+analysis_id,l60s90hwc59zv4u
+mouse_strain,C57BL
+pvalue,0.6164061
+mouse_life_stage,E12.5
+gene_accession_id,MGI:95457

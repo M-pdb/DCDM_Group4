@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2181659
+analysis_id,a602k46zy30vi10
+gene_symbol,Tox
+pvalue,0.2995827
+parameter_id,JAX_LDT_008_001
+parameter_name,Percent time in dark
+mouse_strain,C57BL
+mouse_life_stage,Early adult

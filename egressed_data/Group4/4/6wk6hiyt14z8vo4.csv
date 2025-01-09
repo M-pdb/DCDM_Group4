@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_008_001
+mouse_strain,C57BL
+parameter_name,Platelet count
+gene_accession_id,MGI:1920026
+gene_symbol,Sass6
+analysis_id,6wk6hiyt14z8vo4
+pvalue,0.7357059
+mouse_life_stage,Early adult

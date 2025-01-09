@@ -1,0 +1,8 @@
+gene_symbol,Slc2a8
+gene_accession_id,MGI:1860103
+analysis_id,1k1q0ip73pzo569
+parameter_id,IMPC_ACS_036_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,% Pre-pulse inhibition - PPI4
+pvalue,0.2231516

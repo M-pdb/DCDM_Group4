@@ -1,0 +1,8 @@
+parameter_name,Mean corpuscular hemoglobin
+mouse_life_stage,Late adult
+parameter_id,IMPC_HEM_006_001
+mouse_strain,C57BL
+analysis_id,q85af4a6osc7qv1
+gene_accession_id,MGI:2446186
+gene_symbol,Lpgat1
+pvalue,0.5193767

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:109356
+parameter_name,Glucose response AUC
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,n51234k9456m97f
+parameter_id,ESLIM_004_001_701
+pvalue,0.474351
+gene_symbol,Snap23

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,MGP_PBI_030_001
+pvalue,0.8655334
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell number
+analysis_id,h0rd2wm2w705ah4

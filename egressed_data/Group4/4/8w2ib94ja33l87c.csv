@@ -1,0 +1,8 @@
+gene_symbol,Plcb1
+gene_accession_id,MGI:97613
+analysis_id,8w2ib94ja33l87c
+parameter_id,MGP_IMM_076_001
+mouse_strain,C52BL
+pvalue,0.142235
+mouse_life_stage,Middle aged adult
+parameter_name,Total Treg cells - % of CD45+

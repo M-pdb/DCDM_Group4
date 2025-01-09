@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:88479
+analysis_id,r851d403eq7986p
+gene_symbol,Cpa3
+parameter_id,MGP_IMM_076_001
+parameter_name,Total Treg cells - % of CD45+
+pvalue,0.5271677
+mouse_life_stage,Early adult

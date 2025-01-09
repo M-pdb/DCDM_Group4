@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1931749
+analysis_id,5q725k6la48u7nq
+parameter_id,MGP_IMM_016_001
+gene_symbol,Pum1
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Naive CD8+ T cells - % of CD8+
+pvalue,0.399759

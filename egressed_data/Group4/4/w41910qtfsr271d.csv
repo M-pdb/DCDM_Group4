@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_009_001
+mouse_life_stage,Early adult
+parameter_name,Effector Treg cells - % of Treg
+pvalue,0.6880576
+mouse_strain,C57BL
+gene_symbol,Rap2b
+gene_accession_id,MGI:1921262
+analysis_id,w41910qtfsr271d

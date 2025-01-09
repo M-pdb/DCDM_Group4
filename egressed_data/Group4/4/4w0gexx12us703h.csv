@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,JAX_LDT_004_001
+mouse_life_stage,Early adult
+parameter_name,Dark side time spent
+analysis_id,4w0gexx12us703h
+gene_accession_id,MGI:1922855
+pvalue,0.3752272
+gene_symbol,Kdm5b

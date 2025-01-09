@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.5223997
+gene_symbol,Kdm4c
+analysis_id,87y1r7v39yp9iw6
+parameter_name,Latency to first transition into dark
+gene_accession_id,MGI:1924054
+parameter_id,IMPC_LDT_006_001

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,18kHz-evoked ABR Threshold
+pvalue,0.4582067
+gene_accession_id,MGI:1918764
+analysis_id,jq25lk090435a5k
+parameter_id,IMPC_ABR_008_001
+gene_symbol,Sfpq

@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+parameter_name,Fasted blood glucose concentration
+analysis_id,cmkr227g4805h1b
+parameter_id,IMPC_IPG_010_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:99501
+pvalue,0.8882356

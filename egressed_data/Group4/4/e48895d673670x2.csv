@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Percent time in light
+gene_accession_id,MGI:894679
+gene_symbol,Bach2
+analysis_id,e48895d673670x2
+pvalue,0.3446736
+parameter_id,IMPC_LDT_008_001
+mouse_strain,C57BL

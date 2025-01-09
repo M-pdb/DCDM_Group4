@@ -1,0 +1,8 @@
+parameter_name,% Pre-pulse inhibition - PPI4
+parameter_id,IMPC_ACS_036_001
+analysis_id,u981q32jkffa2bd
+pvalue,0.1073137
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Ola1
+gene_accession_id,MGI:1914309

@@ -1,0 +1,8 @@
+parameter_id,JAX_LDT_008_001
+mouse_strain,C57BL
+analysis_id,es3m1b1d5u6sb28
+pvalue,0.1251943
+gene_symbol,Fsd1l
+gene_accession_id,MGI:2442443
+mouse_life_stage,E18.5
+parameter_name,Percent time in dark

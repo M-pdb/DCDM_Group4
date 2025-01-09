@@ -1,0 +1,8 @@
+parameter_id,MGP_CSD_030_001
+analysis_id,65kmknmech1699p
+mouse_strain,C57BL
+parameter_name,Limb coat/hair presence
+mouse_life_stage,Late adult
+gene_accession_id,MGI:109128
+pvalue,0.7850932
+gene_symbol,Hnf4a

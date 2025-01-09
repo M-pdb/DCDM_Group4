@@ -1,0 +1,8 @@
+gene_symbol,Eprs1
+gene_accession_id,MGI:97838
+parameter_name,B cell number
+parameter_id,MGP_PBI_034_001
+analysis_id,t91ito426ke690l
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.0656783

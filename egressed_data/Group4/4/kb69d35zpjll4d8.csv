@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97613
+mouse_life_stage,Late adult
+analysis_id,kb69d35zpjll4d8
+parameter_name,IgD+ mature B cell percentage
+mouse_strain,C57BL
+parameter_id,MGP_PBI_015_001
+pvalue,0.805654
+gene_symbol,Plcb1

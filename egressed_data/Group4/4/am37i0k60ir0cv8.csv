@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915848
+gene_symbol,Dnajc8
+parameter_id,MGP_PBI_015_001
+analysis_id,am37i0k60ir0cv8
+mouse_life_stage,Early adult
+parameter_name,IgD+ mature B cell percentage
+mouse_strain,C57BL
+pvalue,0.6212347

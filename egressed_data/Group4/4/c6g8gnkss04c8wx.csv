@@ -1,0 +1,8 @@
+parameter_name,DN CD44+CD62L- NKT cells
+analysis_id,c6g8gnkss04c8wx
+parameter_id,IMPC_IMM_046_001
+gene_accession_id,MGI:1915889
+mouse_life_stage,Early adult
+gene_symbol,Smyd2
+pvalue,0.8646796
+mouse_strain,129SV

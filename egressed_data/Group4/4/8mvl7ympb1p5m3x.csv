@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_035_001
+analysis_id,8mvl7ympb1p5m3x
+parameter_name,Eosinophil differential count
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_symbol,Rap2b
+pvalue,0.905539
+gene_accession_id,MGI:1921262

@@ -1,0 +1,8 @@
+gene_symbol,Ubxn4
+mouse_strain,C57BL
+parameter_name,KLRG1+ Treg cells - % of Treg
+gene_accession_id,MGI:1915062
+parameter_id,MGP_MLN_011_001
+analysis_id,aaq1sd73043x89p
+mouse_life_stage,Late adult
+pvalue,0.5099919

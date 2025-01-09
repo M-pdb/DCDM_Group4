@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+gene_accession_id,MGI:109128
+pvalue,0.2086767
+parameter_name,QT
+mouse_strain,C57BL
+analysis_id,ru6n9r11e398ul6
+mouse_life_stage,Middle aged adult
+gene_symbol,Hnf4a

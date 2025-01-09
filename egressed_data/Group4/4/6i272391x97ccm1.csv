@@ -1,0 +1,8 @@
+parameter_id,IMPC_IPG_012_001
+analysis_id,6i272391x97ccm1
+mouse_strain,C57BL
+parameter_name,Area under glucose response curve
+gene_accession_id,MGI:1925508
+pvalue,0.6618884
+mouse_life_stage,Early adult
+gene_symbol,Mroh9

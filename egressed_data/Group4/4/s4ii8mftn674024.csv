@@ -1,0 +1,8 @@
+parameter_name,Anophthalmia
+parameter_id,IMPC_GEO_048_002
+gene_accession_id,MGI:95835
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+analysis_id,s4ii8mftn674024
+pvalue,0.3748607
+gene_symbol,Hspa5

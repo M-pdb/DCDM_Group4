@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921802
+mouse_strain,129SV
+analysis_id,zqu8c45gioujd56
+parameter_id,MGP_MLN_065_001
+gene_symbol,NIPAL3
+parameter_name,CD4+ T helper cells - % of CD45+
+pvalue,0.316147
+mouse_life_stage,Early adult

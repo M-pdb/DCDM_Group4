@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,25q9ak766e1lcc6
+parameter_id,MGP_BMI_013_001
+gene_accession_id,MGI:1913284
+pvalue,0.1143989
+mouse_life_stage,Early adult
+parameter_name,Immature B cells (Hardy fraction E) - % of CD45+
+gene_symbol,Psmd14

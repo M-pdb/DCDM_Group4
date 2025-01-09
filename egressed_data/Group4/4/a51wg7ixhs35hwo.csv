@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1916220
+mouse_life_stage,Early adult
+analysis_id,a51wg7ixhs35hwo
+mouse_strain,C57BL
+parameter_name,Resting Treg cells - % of Treg
+parameter_id,MGP_IMM_011_001
+pvalue,0.1536996
+gene_symbol,Dcaf12

@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_099_001
+mouse_strain,C57BL
+analysis_id,sy57y36iaem48g5
+gene_accession_id,MGI:97838
+gene_symbol,Eprs1
+pvalue,0.4357001
+parameter_name,Effector NK cells - % of CD45+
+mouse_life_stage,E12.5

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1925427
+mouse_strain,129SV
+mouse_life_stage,Early adult
+parameter_name,NK cells (Panel A) - % of live leukocytes (Panel A)
+parameter_id,IMPC_IMM_005_002
+pvalue,0.3446798
+analysis_id,5k42xks320rie8m
+gene_symbol,Ninl

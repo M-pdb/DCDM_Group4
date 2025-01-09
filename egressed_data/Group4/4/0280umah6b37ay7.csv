@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,0280umah6b37ay7
+gene_symbol,Smyd2
+parameter_name,Percent time in dark
+parameter_id,JAX_LDT_008_001
+mouse_life_stage,Early adult
+pvalue,0.652592
+gene_accession_id,MGI:1915889

@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_031_001
+parameter_name,Lymphocyte differential count
+analysis_id,qy98r0tbo7613c5
+mouse_strain,C57BL
+gene_symbol,Mecom
+pvalue,0.8751788
+mouse_life_stage,E12.5
+gene_accession_id,MGI:95457

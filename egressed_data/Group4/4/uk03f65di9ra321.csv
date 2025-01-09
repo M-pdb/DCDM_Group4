@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,uk03f65di9ra321
+gene_symbol,Sgip1
+gene_accession_id,MGI:1920344
+mouse_life_stage,Early adult
+pvalue,0.4360627
+parameter_name,Mean cell volume
+parameter_id,IMPC_HEM_005_001

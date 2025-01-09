@@ -1,0 +1,8 @@
+parameter_name,Resting Treg cells - % of CD45+
+mouse_life_stage,E9.5
+parameter_id,MGP_IMM_078_001
+mouse_strain,C57BL
+analysis_id,2w183y60a86o0b0
+gene_symbol,Wars2
+pvalue,0.3200682
+gene_accession_id,MGI:1917810

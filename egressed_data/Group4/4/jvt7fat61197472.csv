@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_029_001
+analysis_id,jvt7fat61197472
+parameter_name,Neutrophil differential count
+mouse_strain,C57BL
+pvalue,0.1125175
+gene_symbol,Inpp1
+gene_accession_id,MGI:104848

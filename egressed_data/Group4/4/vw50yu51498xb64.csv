@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923959
+mouse_strain,129SV
+analysis_id,vw50yu51498xb64
+parameter_name,DN NKT cells
+parameter_id,IMPC_IMM_013_001
+pvalue,0.6306003
+mouse_life_stage,Early adult
+gene_symbol,Arpc2

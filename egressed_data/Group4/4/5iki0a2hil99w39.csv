@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921262
+analysis_id,5iki0a2hil99w39
+pvalue,0.9796316
+parameter_name,24kHz-evoked ABR Threshold
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_010_001
+gene_symbol,Rap2b

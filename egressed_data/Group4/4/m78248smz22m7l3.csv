@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+parameter_name,Mean cell hemoglobin concentration
+gene_symbol,Fgb
+mouse_life_stage,E15.5
+analysis_id,m78248smz22m7l3
+pvalue,0.1337998
+mouse_strain,C57BL
+gene_accession_id,MGI:99501

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1276578
+parameter_name,Forelimb grip strength normalised against body weight
+analysis_id,8o693f352023bir
+parameter_id,JAXLA_GRS_010_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.3105901
+gene_symbol,Gfi1b

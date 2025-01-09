@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+gene_accession_id,MGI:99501
+analysis_id,k140b888r7ow0e7
+parameter_id,IMPC_GEL_060_001
+parameter_name,Neural tube morphology
+pvalue,0.2635697
+mouse_strain,C57BL
+mouse_life_stage,E15.5

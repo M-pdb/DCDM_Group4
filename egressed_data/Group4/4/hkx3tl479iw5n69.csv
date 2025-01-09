@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_006_001
+parameter_name,PR
+mouse_strain,C57BL
+analysis_id,hkx3tl479iw5n69
+gene_symbol,Nucks1
+gene_accession_id,MGI:1934811
+mouse_life_stage,Late adult
+pvalue,0.5637056

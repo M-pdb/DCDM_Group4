@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_082_001
+gene_accession_id,MGI:88328
+gene_symbol,Tnfsf8
+parameter_name,Resting CD8+ T cells - % of CD45+
+analysis_id,79e1j825e1p6068
+mouse_strain,C57BL
+pvalue,0.05572838
+mouse_life_stage,Early adult

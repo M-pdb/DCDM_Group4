@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,0948x7sf10skvph
+parameter_id,IMPC_OFD_020_001
+parameter_name,Distance travelled - total
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+pvalue,2.331266e-05

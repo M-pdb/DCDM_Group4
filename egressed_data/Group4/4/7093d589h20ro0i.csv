@@ -1,0 +1,8 @@
+parameter_id,IMPC_IPG_010_001
+parameter_name,Fasted blood glucose concentration
+gene_accession_id,MGI:95835
+analysis_id,7093d589h20ro0i
+mouse_strain,C57BL
+gene_symbol,Hspa5
+mouse_life_stage,Early adult
+pvalue,0.4518688

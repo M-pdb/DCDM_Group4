@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+gene_symbol,Mecom
+mouse_strain,C3H
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_004_001
+pvalue,0.1474519
+parameter_name,Total CD4+ T cells - % of ab T cells
+analysis_id,fqog6t8xc4l66zq

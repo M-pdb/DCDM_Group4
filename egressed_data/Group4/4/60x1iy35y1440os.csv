@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:99915
+mouse_life_stage,Early adult
+gene_symbol,Lamb3
+analysis_id,60x1iy35y1440os
+parameter_name,6kHz-evoked ABR Threshold
+pvalue,0.3050037
+parameter_id,IMPC_ABR_004_001

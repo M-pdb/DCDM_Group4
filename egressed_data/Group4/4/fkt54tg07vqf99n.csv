@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97054
+mouse_strain,C57BL
+gene_symbol,Mov10
+parameter_name,Resting NK cells - % of CD45+
+parameter_id,MGP_IMM_100_001
+pvalue,0.9333139
+analysis_id,fkt54tg07vqf99n
+mouse_life_stage,Early adult

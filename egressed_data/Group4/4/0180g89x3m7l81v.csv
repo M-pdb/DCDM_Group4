@@ -1,0 +1,8 @@
+parameter_name,Eosinophil differential count
+parameter_id,IMPC_HEM_035_001
+analysis_id,0180g89x3m7l81v
+mouse_strain,C57BL
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+mouse_life_stage,Early adult
+pvalue,0.596227

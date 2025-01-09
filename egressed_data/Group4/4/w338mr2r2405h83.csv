@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Prepulse inhibition - PP3
+gene_accession_id,MGI:95835
+analysis_id,w338mr2r2405h83
+gene_symbol,Hspa5
+parameter_id,ESLIM_011_001_703
+pvalue,0.7680248
+mouse_life_stage,E9.5

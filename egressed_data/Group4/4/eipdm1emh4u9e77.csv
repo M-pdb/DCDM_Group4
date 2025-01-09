@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+pvalue,0.927756
+parameter_name,Basophil differential count
+parameter_id,IMPC_HEM_038_001
+analysis_id,eipdm1emh4u9e77
+gene_accession_id,MGI:88174
+mouse_strain,C57BL
+mouse_life_stage,E12.5

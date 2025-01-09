@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_004_001
+parameter_name,CD8+ alpha beta T cell percentage
+gene_accession_id,MGI:109356
+gene_symbol,Snap23
+mouse_strain,C57BL
+analysis_id,0qg6k5dv2n62e34
+pvalue,0.8549807
+mouse_life_stage,Early adult

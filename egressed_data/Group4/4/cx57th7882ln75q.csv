@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_032_001
+gene_symbol,Mapkap1
+pvalue,0.1256958
+analysis_id,cx57th7882ln75q
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+mouse_life_stage,E15.5
+gene_accession_id,MGI:2444554
+mouse_strain,C57BL

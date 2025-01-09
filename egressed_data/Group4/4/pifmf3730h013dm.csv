@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1917810
+gene_symbol,Wars2
+mouse_strain,C57BL
+analysis_id,pifmf3730h013dm
+pvalue,0.1175932
+mouse_life_stage,E12.5
+parameter_name,Gait
+parameter_id,IMPC_CSD_033_001

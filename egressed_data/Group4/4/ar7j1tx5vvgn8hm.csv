@@ -1,0 +1,8 @@
+gene_accession_id,MGI:87968
+analysis_id,ar7j1tx5vvgn8hm
+mouse_life_stage,E12.5
+gene_symbol,Ahcy
+parameter_name,DN CD44+CD62L+ NKT cells
+mouse_strain,C57BL
+pvalue,0.8785058
+parameter_id,IMPC_IMM_047_001

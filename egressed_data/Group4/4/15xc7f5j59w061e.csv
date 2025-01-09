@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_020_001
+parameter_name,Effector gd T cells - % of gd T cells
+analysis_id,15xc7f5j59w061e
+gene_accession_id,MGI:1916363
+mouse_strain,C57BL
+pvalue,0.3950983
+gene_symbol,Alkbh3

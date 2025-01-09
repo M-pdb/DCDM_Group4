@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96545
+analysis_id,mhk59shh3q2b94g
+parameter_id,JAX_OFD_016_001
+gene_symbol,Il1r1
+parameter_name,Center permanence time
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.6368565

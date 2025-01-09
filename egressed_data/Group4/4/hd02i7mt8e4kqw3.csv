@@ -1,0 +1,8 @@
+analysis_id,hd02i7mt8e4kqw3
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_071_001
+gene_accession_id,MGI:1924054
+pvalue,0.1574509
+parameter_name,Total CD4+ T cells - % of CD45+
+gene_symbol,Kdm4c

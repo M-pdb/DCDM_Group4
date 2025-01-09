@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Startle Response
+gene_accession_id,MGI:95835
+mouse_life_stage,E12.5
+analysis_id,oycgi61d10d7xcp
+parameter_id,M-G-P_008_001_013
+pvalue,0.8628699
+gene_symbol,Hspa5

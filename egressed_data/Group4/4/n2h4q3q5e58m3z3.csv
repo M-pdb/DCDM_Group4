@@ -1,0 +1,8 @@
+gene_symbol,Amigo1
+analysis_id,n2h4q3q5e58m3z3
+parameter_name,Immature B cells (Hardy fraction E) - % of B220+
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2653612
+mouse_strain,C57BL
+parameter_id,MGP_BMI_006_001
+pvalue,0.8014047

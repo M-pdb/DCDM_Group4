@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_006_001
+gene_accession_id,MGI:2651854
+analysis_id,b2r32d5p2cjv501
+pvalue,0.3645235
+gene_symbol,Atg4c
+mouse_life_stage,Early adult
+parameter_name,PR
+mouse_strain,C57BL

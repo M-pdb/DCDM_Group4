@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_004_001
+gene_symbol,Nanp
+parameter_name,RR
+pvalue,0.8870191
+analysis_id,82f0c0s1j35w718
+gene_accession_id,MGI:1914561
+mouse_strain,C57BL
+mouse_life_stage,E18.5

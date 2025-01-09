@@ -1,0 +1,8 @@
+gene_symbol,Bmp7
+mouse_strain,C57BL
+analysis_id,y316298o1aqs5t9
+pvalue,0.556884
+parameter_name,Area under glucose response curve
+parameter_id,IMPC_IPG_012_001
+gene_accession_id,MGI:103302
+mouse_life_stage,Early adult

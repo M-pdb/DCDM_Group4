@@ -1,0 +1,8 @@
+gene_symbol,Ap5s1
+gene_accession_id,MGI:1916846
+parameter_name,Mean right eye lens density
+mouse_strain,C57BL
+analysis_id,9ls0jh031a4909c
+parameter_id,IMPC_EYE_059_001
+mouse_life_stage,Early adult
+pvalue,0.1162065

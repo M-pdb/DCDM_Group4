@@ -1,0 +1,8 @@
+gene_symbol,Cds2
+analysis_id,6848r07l688ilkr
+mouse_life_stage,Early adult
+parameter_name,Breath rate during sleep standard deviation
+mouse_strain,C57BL
+parameter_id,JAX_SLW_014_001
+pvalue,0.204603
+gene_accession_id,MGI:1332236

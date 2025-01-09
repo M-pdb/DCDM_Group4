@@ -1,0 +1,8 @@
+gene_symbol,Gja10
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1339969
+mouse_strain,C57BL
+analysis_id,wfh107x16w09h5y
+parameter_name,DN NKT cells
+parameter_id,IMPC_IMM_013_001
+pvalue,0.9665839

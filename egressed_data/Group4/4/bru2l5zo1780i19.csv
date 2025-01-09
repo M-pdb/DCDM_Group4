@@ -1,0 +1,8 @@
+gene_symbol,Tent5c
+parameter_name,Resting CD8+ T cells - % of CD45+
+mouse_strain,C57BL
+parameter_id,MGP_MLN_075_001
+analysis_id,bru2l5zo1780i19
+gene_accession_id,MGI:1921895
+pvalue,0.6145582
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1309468
+analysis_id,9zh7207iivj0k30
+gene_symbol,Casq1
+mouse_strain,C57BL
+parameter_id,MGP_IMM_004_001
+parameter_name,Total CD4+ T cells - % of ab T cells
+pvalue,0.159085
+mouse_life_stage,Early adult

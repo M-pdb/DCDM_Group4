@@ -1,0 +1,8 @@
+parameter_name,Resting Treg cells - % of Treg
+analysis_id,lf00556xf80788h
+parameter_id,MGP_IMM_011_001
+gene_symbol,Jun
+pvalue,0.8079642
+gene_accession_id,MGI:96646
+mouse_life_stage,E15.5
+mouse_strain,C57BL

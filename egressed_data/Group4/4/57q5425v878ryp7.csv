@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:99501
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+gene_symbol,Fgb
+pvalue,0.3963339
+analysis_id,57q5425v878ryp7
+parameter_id,MGP_PBI_032_001

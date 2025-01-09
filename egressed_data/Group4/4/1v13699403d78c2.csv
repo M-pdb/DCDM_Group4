@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+parameter_name,Effector CD8+ T cells - % of CD45+
+pvalue,0.4284434
+parameter_id,MGP_MLN_074_001
+gene_symbol,Hnf4a
+analysis_id,1v13699403d78c2
+gene_accession_id,MGI:109128

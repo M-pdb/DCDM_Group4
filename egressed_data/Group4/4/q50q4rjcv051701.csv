@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+analysis_id,q50q4rjcv051701
+parameter_id,MGP_MLN_067_001
+parameter_name,Resting CD4+ T helper cells - % of CD45+
+gene_symbol,Nucks1
+pvalue,0.5328873
+gene_accession_id,MGI:1934811

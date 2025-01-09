@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_071_001
+parameter_name,Total CD4+ T cells - % of CD45+
+analysis_id,0d7157jr2gk92ds
+mouse_life_stage,E18.5
+gene_accession_id,MGI:88446
+gene_symbol,Col11a1
+mouse_strain,C57BL
+pvalue,0.3707698

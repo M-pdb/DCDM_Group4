@@ -1,0 +1,8 @@
+parameter_id,JAXLA_DXA_008_001
+mouse_strain,C57BL
+parameter_name,Lean/Body weight
+mouse_life_stage,Early adult
+analysis_id,v25a07xgwpp2oz8
+gene_accession_id,MGI:109356
+gene_symbol,Snap23
+pvalue,0.397157

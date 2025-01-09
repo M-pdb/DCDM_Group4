@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_006_001
+mouse_strain,C57BL
+parameter_name,Narrow eye opening
+gene_accession_id,MGI:1921444
+analysis_id,6skd20l40e17lvr
+pvalue,0.5229721
+mouse_life_stage,Early adult
+gene_symbol,Rnd3

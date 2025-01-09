@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2444113
+gene_symbol,Nemp2
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_LDT_006_001
+pvalue,0.4629545
+parameter_name,Latency to first transition into dark
+analysis_id,lqlup21b513amle

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1338032
+analysis_id,9015s7i1jeu1fia
+parameter_name,Effector CD4- NKT cells - % of CD4- NKT cells
+parameter_id,MGP_IMM_026_001
+pvalue,0.8037259
+gene_symbol,Sema6c

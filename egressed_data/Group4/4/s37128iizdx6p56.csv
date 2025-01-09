@@ -1,0 +1,8 @@
+gene_symbol,Cldn19
+mouse_strain,C57BL
+parameter_name,Neutrophil cell count
+mouse_life_stage,Early adult
+gene_accession_id,MGI:3033992
+analysis_id,s37128iizdx6p56
+parameter_id,IMPC_HEM_030_001
+pvalue,0.5247224

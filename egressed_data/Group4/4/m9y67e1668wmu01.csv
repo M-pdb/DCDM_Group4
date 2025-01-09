@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1913284
+analysis_id,m9y67e1668wmu01
+parameter_id,M-G-P_016_001_005
+mouse_strain,C57BL
+parameter_name,Mean-cell-volume
+mouse_life_stage,Early adult
+pvalue,0.8816185
+gene_symbol,Psmd14

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+gene_symbol,Mecom
+mouse_strain,C3H
+mouse_life_stage,Early adult
+parameter_id,IMPC_FEA_107_001
+pvalue,0.1067406
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+analysis_id,d42mp0h3go82a52

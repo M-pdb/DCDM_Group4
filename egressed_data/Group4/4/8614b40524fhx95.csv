@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3033992
+parameter_id,MGP_IMM_016_001
+mouse_strain,C57BL
+analysis_id,8614b40524fhx95
+mouse_life_stage,Early adult
+pvalue,0.2528631
+parameter_name,Naive CD8+ T cells - % of CD8+
+gene_symbol,Cldn19

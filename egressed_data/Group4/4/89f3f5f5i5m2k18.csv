@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,89f3f5f5i5m2k18
+parameter_id,IMPC_IMM_050_001
+gene_symbol,Kdm4c
+parameter_name,Neutrophils
+pvalue,0.3033569
+gene_accession_id,MGI:1924054

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97838
+mouse_life_stage,E9.5
+parameter_name,Global prepulse inhibition
+gene_symbol,Eprs1
+parameter_id,ESLIM_011_001_705
+pvalue,0.1253307
+analysis_id,d77f746ec8tioc2
+mouse_strain,C51BL

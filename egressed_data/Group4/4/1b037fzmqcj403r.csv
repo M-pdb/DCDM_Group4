@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_011_001
+parameter_name,KLRG1+ Treg cells - % of Treg
+gene_symbol,Plcb1
+analysis_id,1b037fzmqcj403r
+mouse_life_stage,Early adult
+pvalue,0.08918599
+gene_accession_id,MGI:97613
+mouse_strain,C57BL

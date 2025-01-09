@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_006_001
+gene_symbol,Rab22a
+parameter_name,PR
+gene_accession_id,MGI:105072
+mouse_strain,C57BL
+pvalue,0.8496098
+mouse_life_stage,Early adult
+analysis_id,361j7p842978vm8

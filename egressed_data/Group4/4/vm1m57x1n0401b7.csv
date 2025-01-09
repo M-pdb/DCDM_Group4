@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+analysis_id,vm1m57x1n0401b7
+parameter_name,Red blood cell count
+pvalue,0.8856543
+mouse_life_stage,Early adult
+mouse_strain,129SV
+gene_symbol,Cntfr
+parameter_id,IMPC_HEM_002_001

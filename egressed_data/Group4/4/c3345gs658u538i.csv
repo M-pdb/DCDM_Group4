@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_071_001
+parameter_name,Resting Treg cells - % of CD45+
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+gene_accession_id,MGI:2139447
+gene_symbol,Galnt13
+analysis_id,c3345gs658u538i
+pvalue,0.6258471

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97613
+mouse_strain,C57BL
+analysis_id,sm709e4644u1ieb
+pvalue,0.8019678
+gene_symbol,Plcb1
+parameter_id,IMPC_ABR_002_001
+mouse_life_stage,Late adult
+parameter_name,Click-evoked ABR threshold

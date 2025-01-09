@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_031_001
+analysis_id,qp72rn81vjf654v
+parameter_name,Lymphocyte differential count
+gene_accession_id,MGI:2684980
+gene_symbol,Mms22l
+pvalue,0.7965314
+mouse_strain,C57BL
+mouse_life_stage,Early adult

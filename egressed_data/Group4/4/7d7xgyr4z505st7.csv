@@ -1,0 +1,8 @@
+parameter_id,IMPC_FEA_106_001
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing
+analysis_id,7d7xgyr4z505st7
+gene_symbol,Jun
+pvalue,0.5858951
+mouse_life_stage,E9.5
+mouse_strain,C57BL
+gene_accession_id,MGI:96646

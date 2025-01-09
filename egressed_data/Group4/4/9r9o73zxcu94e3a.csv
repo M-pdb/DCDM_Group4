@@ -1,0 +1,8 @@
+parameter_id,IMPC_IPG_012_001
+analysis_id,9r9o73zxcu94e3a
+mouse_strain,C57BL
+parameter_name,Area under glucose response curve
+gene_accession_id,MGI:2446274
+gene_symbol,Frmpd1
+mouse_life_stage,Middle aged adult
+pvalue,0.6859798

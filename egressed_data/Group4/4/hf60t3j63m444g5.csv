@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2685053
+parameter_id,JAX_LDT_009_001
+analysis_id,hf60t3j63m444g5
+mouse_life_stage,Early adult
+parameter_name,Percent time in light
+mouse_strain,C57BL
+pvalue,0.1824655
+gene_symbol,Ntmt2

@@ -1,0 +1,8 @@
+mouse_life_stage,E12.5
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+parameter_id,MGP_MLN_006_001
+gene_symbol,Bmi1
+mouse_strain,C57BL
+pvalue,0.542072
+analysis_id,v5096pwi6he8sfg
+gene_accession_id,MGI:88174

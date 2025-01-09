@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:1927232
+analysis_id,8b8r7k978y2c1nk
+gene_symbol,Rab13
+pvalue,0.5845061
+parameter_id,MGP_MLN_075_001
+mouse_life_stage,Early adult
+parameter_name,Resting CD8+ T cells - % of CD45+

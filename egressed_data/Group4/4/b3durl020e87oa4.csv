@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_030_001
+gene_accession_id,MGI:1922855
+analysis_id,b3durl020e87oa4
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell number
+gene_symbol,Kdm5b
+pvalue,0.08803185
+mouse_strain,C57BL
+mouse_life_stage,Early adult

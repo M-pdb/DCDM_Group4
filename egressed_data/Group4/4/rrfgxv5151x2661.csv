@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:894679
+analysis_id,rrfgxv5151x2661
+parameter_name,DN CD25- NKT cells
+pvalue,0.245855
+parameter_id,IMPC_IMM_025_001
+gene_symbol,Bach2

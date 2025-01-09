@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_035_001
+parameter_name,Eosinophil differential count
+gene_symbol,Inpp1
+mouse_life_stage,Early adult
+mouse_strain,129SV
+gene_accession_id,MGI:104848
+analysis_id,a8k83iv17kl5ges
+pvalue,0.4366841

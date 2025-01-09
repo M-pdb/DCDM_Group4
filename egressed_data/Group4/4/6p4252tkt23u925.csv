@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,6p4252tkt23u925
+parameter_name,HDL-cholesterol
+parameter_id,HMGULA_CBC_016_001
+gene_accession_id,MGI:1338849
+pvalue,0.2183296
+mouse_life_stage,Early adult
+gene_symbol,S100a3

@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_002_001
+parameter_name,HR
+mouse_strain,C57BL
+gene_accession_id,MGI:104805
+analysis_id,c60390z9crb0424
+pvalue,0.8843136
+gene_symbol,Snrpb2
+mouse_life_stage,Early adult

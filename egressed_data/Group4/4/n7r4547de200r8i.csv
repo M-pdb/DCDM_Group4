@@ -1,0 +1,8 @@
+parameter_name,% Pre-pulse inhibition - Global
+parameter_id,IMPC_ACS_037_001
+analysis_id,n7r4547de200r8i
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.5780142
+gene_accession_id,MGI:96545
+gene_symbol,Il1r1

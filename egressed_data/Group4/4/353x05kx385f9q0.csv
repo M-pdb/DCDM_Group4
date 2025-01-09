@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+parameter_name,LDL-cholesterol
+mouse_strain,129SV
+gene_accession_id,MGI:1923959
+analysis_id,353x05kx385f9q0
+mouse_life_stage,Early adult
+pvalue,0.914603
+parameter_id,IMPC_CBC_025_001

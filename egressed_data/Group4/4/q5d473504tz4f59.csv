@@ -1,0 +1,8 @@
+analysis_id,q5d473504tz4f59
+gene_symbol,Plcb1
+gene_accession_id,MGI:97613
+pvalue,0.5961549
+mouse_life_stage,Middle aged adult
+parameter_name,Latency to first transition into dark
+parameter_id,IMPC_LDT_006_001
+mouse_strain,C57BL

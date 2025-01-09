@@ -1,0 +1,8 @@
+gene_symbol,Sema6c
+mouse_strain,C57BL
+parameter_name,Neural tube morphology
+analysis_id,6c19jp5uc59kocf
+parameter_id,IMPC_GEL_060_001
+gene_accession_id,MGI:1338032
+mouse_life_stage,Early adult
+pvalue,0.06242986

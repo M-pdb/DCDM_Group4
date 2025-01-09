@@ -1,0 +1,8 @@
+gene_symbol,Plcb1
+parameter_id,IMPC_ECG_010_001
+mouse_strain,C57BL
+gene_accession_id,MGI:97613
+analysis_id,08nx123z9t1z1j7
+mouse_life_stage,Late adult
+parameter_name,HRV
+pvalue,0.7342014

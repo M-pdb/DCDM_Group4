@@ -1,0 +1,8 @@
+gene_symbol,Plcb1
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell percentage
+analysis_id,4f4d36yafp37tlk
+mouse_strain,C57BL
+pvalue,0.3852249
+parameter_id,MGP_PBI_009_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:97613

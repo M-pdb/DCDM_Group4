@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,93000xq23ji06mr
+gene_accession_id,MGI:95835
+parameter_name,KLRG1+ NK cells - % of CD45+
+parameter_id,MGP_IMM_101_001
+gene_symbol,Hspa5
+mouse_life_stage,E9.5
+pvalue,0.7665986

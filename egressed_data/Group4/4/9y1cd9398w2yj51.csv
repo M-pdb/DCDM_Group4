@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2446274
+analysis_id,9y1cd9398w2yj51
+parameter_name,Latency to first transition into dark
+pvalue,0.5853381
+gene_symbol,Frmpd1
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_LDT_006_001

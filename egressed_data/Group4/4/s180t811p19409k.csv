@@ -1,0 +1,8 @@
+parameter_name,Total B cells - % of CD45+
+parameter_id,MGP_IMM_041_001
+mouse_strain,C57BL
+mouse_life_stage,E18.5
+analysis_id,s180t811p19409k
+pvalue,0.6771367
+gene_accession_id,MGI:1914561
+gene_symbol,Nanp

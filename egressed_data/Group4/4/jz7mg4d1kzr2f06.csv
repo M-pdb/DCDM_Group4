@@ -1,0 +1,8 @@
+gene_symbol,Bdh2
+gene_accession_id,MGI:1917022
+parameter_name,6kHz-evoked ABR Threshold
+analysis_id,jz7mg4d1kzr2f06
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_004_001
+pvalue,0.8413565
+mouse_life_stage,Early adult

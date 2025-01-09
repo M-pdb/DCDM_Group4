@@ -1,0 +1,8 @@
+gene_symbol,Ddx27
+mouse_life_stage,Early adult
+parameter_name,Mean platelet volume
+analysis_id,bb7its126qzmr4d
+gene_accession_id,MGI:2385884
+parameter_id,IMPC_HEM_019_001
+mouse_strain,129SV
+pvalue,0.08062521

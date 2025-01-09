@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_002_001
+gene_accession_id,MGI:1915889
+parameter_name,HR
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,3r0483j3x2x0931
+pvalue,0.9661018
+gene_symbol,Smyd2

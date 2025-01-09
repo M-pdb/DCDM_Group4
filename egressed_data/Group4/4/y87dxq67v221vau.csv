@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Resting CD4- NKT cells - % of CD45+
+gene_symbol,Serinc3
+analysis_id,y87dxq67v221vau
+gene_accession_id,MGI:1349457
+parameter_id,MGP_IMM_093_001
+pvalue,0.55867

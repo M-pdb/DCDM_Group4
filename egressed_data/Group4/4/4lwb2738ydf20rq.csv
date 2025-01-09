@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,4lwb2738ydf20rq
+parameter_id,MGP_IMM_073_001
+gene_accession_id,MGI:109128
+gene_symbol,Hnf4a
+parameter_name,Effector CD4+ T helper cells - % of CD45+
+pvalue,0.60118
+mouse_life_stage,Early adult

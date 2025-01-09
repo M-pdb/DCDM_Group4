@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_041_001
+gene_symbol,Pex19
+mouse_strain,C57BL
+parameter_name,Total B cells - % of CD45+
+gene_accession_id,MGI:1334458
+analysis_id,tj55c088ke0a762
+pvalue,0.9806966
+mouse_life_stage,E18.5

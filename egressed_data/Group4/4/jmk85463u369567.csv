@@ -1,0 +1,8 @@
+parameter_id,IMPC_FEA_107_001
+gene_symbol,Dcaf12
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+gene_accession_id,MGI:1916220
+mouse_life_stage,Early adult
+pvalue,0.7328029
+analysis_id,jmk85463u369567
+mouse_strain,C57BL

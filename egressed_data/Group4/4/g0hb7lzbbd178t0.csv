@@ -1,0 +1,8 @@
+parameter_id,IMPC_GEL_063_001
+parameter_name,Delayed embryonic development
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:1917810
+analysis_id,g0hb7lzbbd178t0
+gene_symbol,Wars2
+pvalue,0.07478287

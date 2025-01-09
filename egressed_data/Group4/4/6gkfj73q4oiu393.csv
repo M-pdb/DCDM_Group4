@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_107_001
+mouse_strain,C57BL
+gene_accession_id,MGI:109128
+parameter_name,Total B2 cells - % of CD45+
+gene_symbol,Hnf4a
+mouse_life_stage,Late adult
+analysis_id,6gkfj73q4oiu393
+pvalue,0.3643015

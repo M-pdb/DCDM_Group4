@@ -1,0 +1,8 @@
+gene_symbol,Tiprl
+gene_accession_id,MGI:1915087
+parameter_name,Total T cells - % of CD45+
+analysis_id,o0q7y1mt21954er
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_id,MGP_MLN_001_001
+pvalue,0.340484

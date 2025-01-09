@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2677850
+gene_symbol,Abitram
+mouse_strain,C57BL
+parameter_id,MGP_IMM_066_001
+analysis_id,nf9507w12vmr247
+parameter_name,CD11b-high cDC - % of cDC
+pvalue,0.805998
+mouse_life_stage,Early adult

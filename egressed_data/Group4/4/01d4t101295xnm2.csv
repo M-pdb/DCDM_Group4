@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_007_001
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+analysis_id,01d4t101295xnm2
+pvalue,0
+gene_accession_id,MGI:894679
+gene_symbol,Bach2
+mouse_strain,C57BL

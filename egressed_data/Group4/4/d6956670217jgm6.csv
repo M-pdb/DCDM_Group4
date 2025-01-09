@@ -1,0 +1,8 @@
+parameter_id,IMPC_CBC_058_001
+mouse_strain,C57BL
+parameter_name,Cholesterol ratio
+gene_symbol,Prkcq
+gene_accession_id,MGI:97601
+pvalue,0.7598437
+analysis_id,d6956670217jgm6
+mouse_life_stage,Early adult

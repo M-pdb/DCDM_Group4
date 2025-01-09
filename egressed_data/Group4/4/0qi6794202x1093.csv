@@ -1,0 +1,8 @@
+gene_symbol,Trpa1
+gene_accession_id,MGI:3522699
+parameter_name,Click-evoked ABR threshold
+parameter_id,IMPC_ABR_002_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.3983944
+analysis_id,0qi6794202x1093

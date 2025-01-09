@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+gene_accession_id,MGI:96646
+parameter_name,Total CD4+ T cells - % of CD45+
+analysis_id,vt8663vw30xgx4j
+pvalue,0.9209733
+parameter_id,MGP_MLN_064_001
+gene_symbol,Jun

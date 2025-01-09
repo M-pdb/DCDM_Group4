@@ -1,0 +1,8 @@
+parameter_id,JAXLA_ECG_002_001
+mouse_strain,C57BL
+gene_symbol,Tiprl
+analysis_id,9477s4gw788zshe
+parameter_name,HR
+gene_accession_id,MGI:1915087
+pvalue,0.5665956
+mouse_life_stage,E12.5

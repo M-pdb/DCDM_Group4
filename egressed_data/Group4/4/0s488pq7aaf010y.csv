@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1917810
+analysis_id,0s488pq7aaf010y
+parameter_id,IMPC_HEM_029_001
+gene_symbol,Wars2
+mouse_life_stage,E12.5
+pvalue,0.2951061
+mouse_strain,C57BL
+parameter_name,Neutrophil differential count

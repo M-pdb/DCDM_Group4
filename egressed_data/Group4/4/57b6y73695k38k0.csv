@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1918025
+parameter_id,JAX_LDT_009_001
+analysis_id,57b6y73695k38k0
+pvalue,0.8729747
+gene_symbol,Zmynd8
+mouse_life_stage,Early adult
+mouse_strain,129SV
+parameter_name,Percent time in light

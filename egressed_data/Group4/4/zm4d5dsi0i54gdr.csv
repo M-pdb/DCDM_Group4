@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_005_001
+gene_accession_id,MGI:1341628
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+analysis_id,zm4d5dsi0i54gdr
+parameter_name,Mean cell volume
+pvalue,1.949346e-05
+gene_symbol,Atrn

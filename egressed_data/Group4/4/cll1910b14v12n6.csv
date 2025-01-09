@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_007_001
+mouse_strain,C57BL
+analysis_id,cll1910b14v12n6
+gene_symbol,Slc2a8
+pvalue,0.8218521
+parameter_name,Mean cell hemoglobin concentration
+gene_accession_id,MGI:1860103

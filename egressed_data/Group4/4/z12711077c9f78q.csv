@@ -1,0 +1,8 @@
+parameter_name,Latency to first transition into dark
+parameter_id,IMPC_LDT_006_001
+mouse_life_stage,Early adult
+gene_symbol,Toporsl
+mouse_strain,C57BL
+pvalue,0.1359357
+gene_accession_id,MGI:1915524
+analysis_id,z12711077c9f78q

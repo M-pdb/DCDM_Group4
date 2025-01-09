@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1888742
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,DN NKT cells
+parameter_id,IMPC_IMM_013_001
+analysis_id,80h6d6wf4719z82
+pvalue,0.3235485
+gene_symbol,Extl1

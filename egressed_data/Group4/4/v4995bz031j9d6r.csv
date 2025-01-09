@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,v4995bz031j9d6r
+parameter_id,IMPC_ECG_003_001
+gene_symbol,Tmem14a
+pvalue,0.9828603
+parameter_name,CV
+gene_accession_id,MGI:1922962

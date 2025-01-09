@@ -1,0 +1,8 @@
+gene_symbol,Galnt13
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell number
+analysis_id,fbsxpd897q39xt8
+mouse_strain,C57BL
+gene_accession_id,MGI:2139447
+parameter_id,MGP_PBI_029_001
+pvalue,0.9539754
+mouse_life_stage,Late adult

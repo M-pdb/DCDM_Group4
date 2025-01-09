@@ -1,0 +1,8 @@
+mouse_strain,129SV
+analysis_id,po992d2as5893bs
+parameter_name,Click-evoked ABR threshold
+pvalue,0.6095741
+gene_symbol,Cntfr
+parameter_id,IMPC_ABR_002_001
+gene_accession_id,MGI:99605
+mouse_life_stage,Early adult

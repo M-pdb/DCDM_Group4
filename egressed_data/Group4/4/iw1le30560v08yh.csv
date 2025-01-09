@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+analysis_id,iw1le30560v08yh
+parameter_name,HRV
+parameter_id,IMPC_ECG_010_001
+pvalue,0.6383571
+gene_symbol,Zcchc2
+gene_accession_id,MGI:2444114

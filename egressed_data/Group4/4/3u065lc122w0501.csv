@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,B1B Cells
+parameter_id,IMPC_IMM_064_001
+analysis_id,3u065lc122w0501
+pvalue,0.1667174
+gene_accession_id,MGI:1924054
+gene_symbol,Kdm4c

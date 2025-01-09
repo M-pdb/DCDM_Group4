@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_064_001
+analysis_id,o9n5vxt75osjy92
+parameter_name,Total CD4+ T cells - % of CD45+
+mouse_strain,C57BL
+gene_accession_id,MGI:88174
+gene_symbol,Bmi1
+pvalue,0.9229375
+mouse_life_stage,E15.5

@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Light side time spent
+gene_symbol,Dnajc5b
+gene_accession_id,MGI:1913576
+parameter_id,JAX_LDT_002_001
+mouse_strain,C57BL
+analysis_id,e2n84qx623059xp
+pvalue,0.1755887

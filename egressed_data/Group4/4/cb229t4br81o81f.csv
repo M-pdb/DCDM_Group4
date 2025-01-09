@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_030_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2444554
+gene_symbol,Mapkap1
+analysis_id,cb229t4br81o81f
+mouse_strain,C57BL
+pvalue,0.580915
+parameter_name,Neutrophil cell count

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1309468
+analysis_id,r4j5l72ot57co3t
+gene_symbol,Casq1
+mouse_life_stage,Early adult
+pvalue,0.1252216
+mouse_strain,C57BL
+parameter_id,JAX_LDT_009_001
+parameter_name,Percent time in light

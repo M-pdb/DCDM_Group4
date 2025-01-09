@@ -1,0 +1,8 @@
+parameter_name,Prepulse inhibition - PP4
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,ESLIM_011_001_704
+analysis_id,21517rfzd86w7bm
+gene_accession_id,MGI:97838
+pvalue,0.8375016
+gene_symbol,Eprs1

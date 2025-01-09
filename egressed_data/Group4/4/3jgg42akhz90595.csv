@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_008_001
+gene_symbol,Inpp1
+analysis_id,3jgg42akhz90595
+mouse_strain,129SV
+parameter_name,ST
+mouse_life_stage,Early adult
+pvalue,0.8513812
+gene_accession_id,MGI:104848

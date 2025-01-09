@@ -1,0 +1,8 @@
+parameter_name,PP1 + pulse startle magnitude
+gene_accession_id,MGI:99605
+analysis_id,lb819800jws5i5z
+gene_symbol,Cntfr
+mouse_life_stage,Early adult
+pvalue,0.79806
+mouse_strain,129SV
+parameter_id,ESLIM_011_001_007

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3616086
+gene_symbol,Kcng1
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ECG_010_001
+pvalue,0.120671
+parameter_name,HRV
+analysis_id,49sfe1x58oxsce5

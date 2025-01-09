@@ -1,0 +1,8 @@
+gene_symbol,Hspa5
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_name,Embryo Size
+analysis_id,remf1ad5vs967pg
+parameter_id,IMPC_GEO_019_001
+pvalue,0.8286482
+gene_accession_id,MGI:95835

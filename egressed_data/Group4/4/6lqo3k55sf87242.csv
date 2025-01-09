@@ -1,0 +1,8 @@
+gene_symbol,Bmp7
+mouse_strain,C57BL
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell percentage
+analysis_id,6lqo3k55sf87242
+parameter_id,MGP_PBI_010_001
+pvalue,0.2011927
+gene_accession_id,MGI:103302
+mouse_life_stage,Early adult

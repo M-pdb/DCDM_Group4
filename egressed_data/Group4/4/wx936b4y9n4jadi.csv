@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_019_001
+parameter_name,Neutrophil percentage
+gene_symbol,Lpgat1
+analysis_id,wx936b4y9n4jadi
+mouse_strain,C53BL
+gene_accession_id,MGI:2446186
+pvalue,0.8017226
+mouse_life_stage,E18.5

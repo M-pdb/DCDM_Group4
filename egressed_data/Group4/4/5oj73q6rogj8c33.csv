@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+analysis_id,5oj73q6rogj8c33
+gene_symbol,Fgb
+parameter_name,% Pre-pulse inhibition - PPI1
+pvalue,0.1760445
+mouse_life_stage,E12.5
+parameter_id,IMPC_ACS_033_001
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97613
+gene_symbol,Plcb1
+analysis_id,6es1ogsf65vqnx3
+mouse_life_stage,Middle aged adult
+parameter_name,DN CD44+CD62L+ NKT cells
+parameter_id,IMPC_IMM_047_001
+pvalue,0.6786915
+mouse_strain,C57BL

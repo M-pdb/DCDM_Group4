@@ -1,0 +1,8 @@
+gene_symbol,Cdk18
+analysis_id,150ha08w22g1kq9
+parameter_id,IMPC_ABR_006_001
+parameter_name,12kHz-evoked ABR Threshold
+gene_accession_id,MGI:97518
+mouse_life_stage,Early adult
+pvalue,0.5441896
+mouse_strain,C57BL

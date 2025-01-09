@@ -1,0 +1,8 @@
+gene_symbol,Smyd2
+gene_accession_id,MGI:1915889
+analysis_id,8463fu2161g12v1
+mouse_life_stage,Early adult
+mouse_strain,129SV
+parameter_name,DN CD25- NKT cells
+parameter_id,IMPC_IMM_025_001
+pvalue,0.1989508

@@ -1,0 +1,8 @@
+parameter_name,Effector CD4+ T helper cells - % of CD45+
+parameter_id,MGP_IMM_073_001
+gene_accession_id,MGI:96646
+analysis_id,9s47286qq1yu64z
+mouse_strain,C57BL
+pvalue,0.2750883
+gene_symbol,Jun
+mouse_life_stage,Early adult

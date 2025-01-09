@@ -1,0 +1,8 @@
+gene_symbol,Tnfsf18
+gene_accession_id,MGI:2673064
+parameter_name,Basophil cell count
+mouse_strain,C57BL
+analysis_id,a6rh8vp4gkibs5s
+parameter_id,IMPC_HEM_037_001
+mouse_life_stage,Early adult
+pvalue,0.3585259

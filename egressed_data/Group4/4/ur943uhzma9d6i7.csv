@@ -1,0 +1,8 @@
+parameter_name,Eosinophil differential count
+parameter_id,IMPC_HEM_035_001
+mouse_life_stage,E12.5
+mouse_strain,C57BL
+gene_accession_id,MGI:1913483
+gene_symbol,Dmap1
+analysis_id,ur943uhzma9d6i7
+pvalue,0.3410803

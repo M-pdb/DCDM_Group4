@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_012_001
+mouse_strain,C57BL
+analysis_id,57d061e740l99ac
+gene_symbol,Dnajc8
+parameter_name,CD4+ KLRG1+ alpha beta T cell percentage
+pvalue,0.9320411
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915848

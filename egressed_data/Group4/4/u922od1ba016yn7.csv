@@ -1,0 +1,8 @@
+parameter_name,Lymphocyte differential count
+parameter_id,IMPC_HEM_031_001
+mouse_life_stage,E18.5
+gene_accession_id,MGI:2446186
+analysis_id,u922od1ba016yn7
+gene_symbol,Lpgat1
+mouse_strain,C57BL
+pvalue,0.8628645

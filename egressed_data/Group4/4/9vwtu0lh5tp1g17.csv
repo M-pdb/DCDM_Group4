@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2140179
+analysis_id,9vwtu0lh5tp1g17
+parameter_id,IMPC_ACS_035_001
+mouse_strain,C57BL
+parameter_name,% Pre-pulse inhibition - PPI3
+mouse_life_stage,Early adult
+pvalue,0.6216374
+gene_symbol,Dcaf10

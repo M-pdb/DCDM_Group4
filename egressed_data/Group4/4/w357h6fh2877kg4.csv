@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Respiration Rate
+parameter_id,IMPC_ECH_018_001
+analysis_id,w357h6fh2877kg4
+gene_symbol,Dnajc8
+gene_accession_id,MGI:1915848
+pvalue,0.5676716

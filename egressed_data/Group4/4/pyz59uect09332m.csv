@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+parameter_name,HRV
+gene_symbol,Hnf4a
+pvalue,0.5106091
+gene_accession_id,MGI:109128
+analysis_id,pyz59uect09332m
+parameter_id,IMPC_ECG_010_001

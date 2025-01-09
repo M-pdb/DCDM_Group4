@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,5r82q300e42lg0n
+parameter_id,IMPC_HEM_008_001
+gene_symbol,Mapkap1
+gene_accession_id,MGI:2444554
+pvalue,0.076985
+mouse_life_stage,E15.5
+parameter_name,Platelet count

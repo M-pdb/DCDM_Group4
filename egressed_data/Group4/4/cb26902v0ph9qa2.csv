@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_006_001
+analysis_id,cb26902v0ph9qa2
+mouse_life_stage,Early adult
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+gene_symbol,Mecom
+gene_accession_id,MGI:95457
+mouse_strain,C57BL
+pvalue,0.8554684

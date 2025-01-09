@@ -1,0 +1,8 @@
+gene_symbol,Galnt13
+parameter_name,Effector NK cells - % of CD45+
+mouse_strain,C57BL
+analysis_id,dz4f93nu135mz0z
+parameter_id,MGP_MLN_091_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2139447
+pvalue,0.4774292

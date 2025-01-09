@@ -1,0 +1,8 @@
+analysis_id,tkhg69sg48l20a7
+mouse_strain,C57BL
+gene_accession_id,MGI:1344367
+parameter_id,IMPC_ABR_006_001
+gene_symbol,GREM2
+mouse_life_stage,E18.5
+parameter_name,12kHz-evoked ABR Threshold
+pvalue,0.760029

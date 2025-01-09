@@ -1,0 +1,8 @@
+gene_symbol,Atg4c
+gene_accession_id,MGI:2651854
+parameter_name,DN NKT cells
+analysis_id,afwx482m10k4481
+mouse_life_stage,Early adult
+parameter_id,IMPC_IMM_013_001
+mouse_strain,C57BL
+pvalue,0.5295475

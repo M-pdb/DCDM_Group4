@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+mouse_life_stage,E15.5
+gene_accession_id,MGI:99501
+analysis_id,a8p00t7545jw166
+parameter_id,IMPC_CBC_025_001
+pvalue,0.149505
+mouse_strain,C57BL
+parameter_name,LDL-cholesterol

@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_symbol,Snap23
+gene_accession_id,MGI:109356
+analysis_id,h79k200p188vt09
+pvalue,0.1869413
+parameter_name,Area under glucose response curve
+parameter_id,IMPC_IPG_012_001

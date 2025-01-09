@@ -1,0 +1,8 @@
+parameter_name,Basophil cell count
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,311sk68tn3sf8gm
+parameter_id,IMPC_HEM_037_001
+pvalue,0.5617202
+gene_accession_id,MGI:1922962
+gene_symbol,Tmem14a

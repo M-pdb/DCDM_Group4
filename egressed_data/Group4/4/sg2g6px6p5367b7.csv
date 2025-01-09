@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,IMPC_HEM_027_001
+pvalue,0.1067112
+parameter_name,Red blood cell distribution width
+analysis_id,sg2g6px6p5367b7

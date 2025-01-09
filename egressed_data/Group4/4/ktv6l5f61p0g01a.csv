@@ -1,0 +1,8 @@
+mouse_strain,129SV
+mouse_life_stage,Early adult
+gene_symbol,Smyd2
+gene_accession_id,MGI:1915889
+analysis_id,ktv6l5f61p0g01a
+parameter_name,Resting Treg cells - % of Treg
+pvalue,0.2387975
+parameter_id,MGP_IMM_011_001

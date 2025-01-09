@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+analysis_id,o74a46fd2zi4v17
+mouse_life_stage,E9.5
+pvalue,0.4551766
+parameter_id,IMPC_IPG_012_001
+parameter_name,Area under glucose response curve

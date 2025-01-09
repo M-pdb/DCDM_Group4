@@ -1,0 +1,8 @@
+gene_accession_id,MGI:106100
+parameter_id,MGP_IMM_020_001
+gene_symbol,Etfdh
+pvalue,0.6687402
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Effector gd T cells - % of gd T cells
+analysis_id,oq49py3zp13muz7

@@ -1,0 +1,8 @@
+gene_symbol,Ufc1
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1913405
+mouse_strain,C57BL
+parameter_name,CD8 CD44-CD62L+ T cells
+analysis_id,7n4339503n928d4
+parameter_id,IMPC_IMM_034_001
+pvalue,0.3930277

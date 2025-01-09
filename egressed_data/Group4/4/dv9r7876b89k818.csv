@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96545
+parameter_name,Breath rate during sleep standard deviation
+gene_symbol,Il1r1
+analysis_id,dv9r7876b89k818
+mouse_strain,C57BL
+parameter_id,JAX_SLW_014_001
+pvalue,0.8800302
+mouse_life_stage,Early adult

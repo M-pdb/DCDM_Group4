@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2139447
+mouse_life_stage,Late adult
+mouse_strain,C57BL
+parameter_name,Delayed embryonic development
+parameter_id,IMPC_GEL_063_001
+analysis_id,bqct8801897ciq2
+pvalue,0.4359086
+gene_symbol,Galnt13

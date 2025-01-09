@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1334458
+analysis_id,dd5328115221hs8
+parameter_id,ESLIM_011_001_705
+gene_symbol,Pex19
+mouse_strain,C57BL
+parameter_name,Global prepulse inhibition
+pvalue,0.6811815
+mouse_life_stage,E18.5

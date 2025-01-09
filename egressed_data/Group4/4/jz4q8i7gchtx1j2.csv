@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95835
+parameter_name,Basophil cell count
+parameter_id,IMPC_HEM_037_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+analysis_id,jz4q8i7gchtx1j2
+pvalue,0.3854128
+gene_symbol,Hspa5

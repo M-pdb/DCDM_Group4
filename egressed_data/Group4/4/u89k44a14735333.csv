@@ -1,0 +1,8 @@
+gene_symbol,Kcns1
+parameter_name,Effector Treg cells - % of CD45+
+parameter_id,MGP_MLN_070_001
+mouse_strain,C57BL
+analysis_id,u89k44a14735333
+gene_accession_id,MGI:1197019
+mouse_life_stage,Early adult
+pvalue,0.3422304

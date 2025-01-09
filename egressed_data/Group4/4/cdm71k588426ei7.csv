@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_015_001
+gene_symbol,Cntfr
+mouse_life_stage,Early adult
+parameter_name,Resting CD8+ T cells - % of CD8+
+pvalue,0.221
+gene_accession_id,MGI:99605
+mouse_strain,129SV
+analysis_id,cdm71k588426ei7

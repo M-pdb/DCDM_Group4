@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_081_001
+mouse_strain,129SV
+analysis_id,93d1z7v38l1eu13
+gene_accession_id,MGI:2385884
+mouse_life_stage,Early adult
+gene_symbol,Ddx27
+parameter_name,Effector CD8+ T cells - % of CD45+
+pvalue,0.6663912

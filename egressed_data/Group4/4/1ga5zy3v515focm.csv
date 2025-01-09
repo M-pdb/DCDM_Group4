@@ -1,0 +1,8 @@
+parameter_name,Mature B cells (Hardy fraction F) - % of CD45+
+analysis_id,1ga5zy3v515focm
+pvalue,0.1095303
+gene_symbol,Grem2
+gene_accession_id,MGI:1344367
+mouse_strain,C57BL
+parameter_id,MGP_BMI_014_001
+mouse_life_stage,E18.5

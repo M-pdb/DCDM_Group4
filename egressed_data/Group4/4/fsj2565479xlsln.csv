@@ -1,0 +1,8 @@
+Gene_accession_id,MGI:1344367
+Parameter_name,DN CD25- NKT cells
+parameter_id,IMPC_IMM_025_001
+mouse_life_stage,E18.5
+Gene_symbol,Grem2
+Pvalue,0.1165979
+analysis_id,fsj2565479xlsln
+mouse_strain,C57BL

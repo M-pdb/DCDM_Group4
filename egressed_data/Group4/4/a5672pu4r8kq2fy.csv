@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2181659
+gene_symbol,Tox
+mouse_life_stage,Early adult
+analysis_id,a5672pu4r8kq2fy
+parameter_id,JAXLA_ECG_002_001
+mouse_strain,C57BL
+parameter_name,HR
+pvalue,0.08423579

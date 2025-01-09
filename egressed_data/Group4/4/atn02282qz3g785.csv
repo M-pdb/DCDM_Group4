@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+parameter_name,BMC/Body weight
+analysis_id,atn02282qz3g785
+parameter_id,HRWLLA_DXA_007_001
+gene_accession_id,MGI:88174
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.3920295

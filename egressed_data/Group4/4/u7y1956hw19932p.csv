@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1334458
+gene_symbol,Pex19
+parameter_name,KLRG1+ CD4- NKT cells - % of CD4- NKT cells
+mouse_strain,C57BL
+parameter_id,MGP_IMM_028_001
+analysis_id,u7y1956hw19932p
+mouse_life_stage,E18.5
+pvalue,0.1840334

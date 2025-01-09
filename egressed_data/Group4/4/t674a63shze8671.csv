@@ -1,0 +1,8 @@
+parameter_name,PP3 + pulse startle magnitude
+pvalue,0.1139209
+mouse_strain,C57BL
+parameter_id,ESLIM_011_001_009
+gene_accession_id,MGI:1341628
+analysis_id,t674a63shze8671
+gene_symbol,Atrn
+mouse_life_stage,Early adult

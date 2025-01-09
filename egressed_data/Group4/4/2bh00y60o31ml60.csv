@@ -1,0 +1,8 @@
+parameter_id,ESLIM_008_001_013
+parameter_name,Startle response
+mouse_strain,C57BL
+gene_accession_id,MGI:88071
+analysis_id,2bh00y60o31ml60
+gene_symbol,Arnt
+mouse_life_stage,Early adult
+pvalue,0.6867158

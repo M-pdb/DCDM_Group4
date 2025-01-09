@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,gbs4kva7mfil3y7
+parameter_id,MGP_IMM_130_001
+gene_symbol,Nanp
+gene_accession_id,MGI:1914561
+parameter_name,CD11b-low cDC - % of CD45+
+mouse_life_stage,Early adult
+pvalue,0.2325907

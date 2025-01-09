@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1328306
+analysis_id,g32mbc5bkdtgw35
+parameter_name,Mean cell hemoglobin concentration
+pvalue,0.05164912
+parameter_id,IMPC_HEM_007_001
+mouse_strain,C57BL
+gene_symbol,Orc2
+mouse_life_stage,Early adult

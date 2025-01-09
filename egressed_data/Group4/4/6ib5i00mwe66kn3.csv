@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+analysis_id,6ib5i00mwe66kn3
+gene_symbol,Mecom
+parameter_name,DN CD25- NKT cells
+pvalue,0.3357201
+parameter_id,IMPC_IMM_025_001
+mouse_strain,C57BL
+mouse_life_stage,E12.5

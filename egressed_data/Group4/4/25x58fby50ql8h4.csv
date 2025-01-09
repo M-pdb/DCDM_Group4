@@ -1,0 +1,8 @@
+analysis_id,25x58fby50ql8h4
+parameter_name,Naive CD8+ T cells - % of CD8+
+gene_symbol,Fgb
+gene_accession_id,MGI:99501
+mouse_strain,C57BL
+pvalue,0.2502685
+parameter_id,MGP_MLN_015_001
+mouse_life_stage,E12.5

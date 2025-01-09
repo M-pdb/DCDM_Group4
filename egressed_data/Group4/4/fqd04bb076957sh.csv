@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2684980
+parameter_name,Lower teeth appearance
+parameter_id,IMPC_CSD_070_001
+analysis_id,fqd04bb076957sh
+mouse_strain,129SV
+mouse_life_stage,Early adult
+pvalue,0.1076601
+gene_symbol,Mms22l

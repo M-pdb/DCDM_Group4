@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+pvalue,0.3246033
+mouse_strain,C57BL
+parameter_name,Latency to first transition into dark
+parameter_id,IMPC_LDT_006_001
+gene_symbol,Abitram
+analysis_id,57h80848wkit184
+gene_accession_id,MGI:2677850

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,IMPC_CBC_009_001
+parameter_name,Calcium
+gene_accession_id,MGI:2444554
+gene_symbol,Mapkap1
+analysis_id,0f9845q68js2700
+pvalue,0.08830453

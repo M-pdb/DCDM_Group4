@@ -1,0 +1,8 @@
+parameter_id,JAXLA_ECG_002_001
+mouse_strain,C57BL
+gene_accession_id,MGI:96757
+gene_symbol,Lcn2
+analysis_id,p1c59322b14kshy
+pvalue,0.9079197
+mouse_life_stage,Early adult
+parameter_name,HR

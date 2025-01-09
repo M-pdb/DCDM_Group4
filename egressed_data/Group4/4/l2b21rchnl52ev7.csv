@@ -1,0 +1,8 @@
+parameter_id,M-G-P_005_001_001
+mouse_strain,C57BL
+parameter_name,Weight
+mouse_life_stage,Early adult
+analysis_id,l2b21rchnl52ev7
+gene_accession_id,MGI:1341628
+pvalue,0.192105
+gene_symbol,Atrn

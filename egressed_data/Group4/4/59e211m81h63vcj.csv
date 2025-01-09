@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1931322
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,30kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_012_001
+gene_symbol,Car13
+analysis_id,59e211m81h63vcj
+pvalue,0.2128409

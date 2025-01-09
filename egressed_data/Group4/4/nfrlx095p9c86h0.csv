@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Effector CD4- NKT cells - % of CD45+
+analysis_id,nfrlx095p9c86h0
+gene_symbol,Ddx27
+gene_accession_id,MGI:2385884
+mouse_strain,C57BL
+pvalue,0.2281702
+parameter_id,MGP_IMM_092_001

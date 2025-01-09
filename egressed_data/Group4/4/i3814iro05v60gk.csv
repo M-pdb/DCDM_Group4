@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,i3814iro05v60gk
+parameter_id,IMPC_ECG_028_001
+mouse_life_stage,Early adult
+parameter_name,QT
+pvalue,0.2270188
+gene_symbol,Kdm4c
+gene_accession_id,MGI:1924054

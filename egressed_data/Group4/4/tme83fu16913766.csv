@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+parameter_name,White blood cell count
+mouse_life_stage,Early adult
+parameter_id,HMGULA_HEM_001_001
+mouse_strain,C57BL
+gene_accession_id,MGI:1923959
+analysis_id,tme83fu16913766
+pvalue,0.2868208

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1925427
+parameter_name,CD8+ alpha beta T cell percentage
+analysis_id,cnrg95sk6pz4079
+mouse_strain,129SV
+gene_symbol,Ninl
+pvalue,0.9287563
+parameter_id,MGP_PBI_004_001
+mouse_life_stage,Early adult

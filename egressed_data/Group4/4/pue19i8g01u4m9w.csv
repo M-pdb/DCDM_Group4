@@ -1,0 +1,8 @@
+analysis_id,pue19i8g01u4m9w
+parameter_name,Macrophages - % of CD45+
+Parameter_id,MGP_IMM_121_001
+mouse_life_stage,Early adult
+Gene_accession_id,MGI:2442858
+gene_symbol,Rigi
+mouse_strain,C57BL
+pvalue,0.1839903

@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing
+analysis_id,482zl42y3xbypb6
+gene_accession_id,MGI:105073
+gene_symbol,Tnni1
+parameter_id,IMPC_FEA_106_001
+pvalue,0.1152279

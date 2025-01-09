@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1346088
+gene_symbol,Cd52
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_007_001
+pvalue,0.1178878
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,5zdqoq6cb89vhml

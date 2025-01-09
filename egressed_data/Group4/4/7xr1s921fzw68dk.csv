@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3026886
+analysis_id,7xr1s921fzw68dk
+gene_symbol,Cdin1
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_name,Total B cells - % of CD45+
+parameter_id,MGP_IMM_041_001
+pvalue,0.4656162

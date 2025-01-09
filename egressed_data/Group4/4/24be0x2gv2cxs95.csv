@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2385884
+mouse_life_stage,Early adult
+analysis_id,24be0x2gv2cxs95
+gene_symbol,Ddx27
+parameter_name,Glucose response AUC
+mouse_strain,129SV
+parameter_id,ESLIM_004_001_701
+pvalue,0.4886112

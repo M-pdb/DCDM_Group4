@@ -1,0 +1,8 @@
+gene_symbol,Trpa1
+gene_accession_id,MGI:3522699
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,NKT cells (panel A) - % of live leukocytes (Panel A)
+pvalue,0.7642024
+analysis_id,zi367sr0x5v00m0
+parameter_id,IMPC_IMM_004_002

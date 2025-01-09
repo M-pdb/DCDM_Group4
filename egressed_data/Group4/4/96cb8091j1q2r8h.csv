@@ -1,0 +1,8 @@
+parameter_name,Bone Mineral Density (excluding skull)
+gene_symbol,Ahcy
+parameter_id,IMPC_DXA_004_001
+mouse_strain,C57BL
+analysis_id,96cb8091j1q2r8h
+pvalue,0.9917271
+gene_accession_id,MGI:87968
+mouse_life_stage,E12.5

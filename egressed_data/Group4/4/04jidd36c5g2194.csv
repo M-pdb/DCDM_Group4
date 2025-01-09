@@ -1,0 +1,8 @@
+parameter_name,18kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_008_001
+pvalue,6.422847e-05
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Tox
+analysis_id,04jidd36c5g2194
+gene_accession_id,MGI:2181659

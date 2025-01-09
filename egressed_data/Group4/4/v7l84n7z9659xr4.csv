@@ -1,0 +1,8 @@
+gene_symbol,Serinc3
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing
+parameter_id,IMPC_FEA_106_001
+analysis_id,v7l84n7z9659xr4
+gene_accession_id,MGI:1349457
+mouse_strain,C57BL
+pvalue,0.8447036
+mouse_life_stage,Early adult

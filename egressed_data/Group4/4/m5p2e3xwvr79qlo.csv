@@ -1,0 +1,8 @@
+gene_symbol,GPR39
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1918361
+analysis_id,m5p2e3xwvr79qlo
+parameter_id,JAXLA_ECG_002_001
+parameter_name,HR
+pvalue,0.06527891
+mouse_strain,C57BL

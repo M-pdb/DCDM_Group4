@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99915
+gene_symbol,Lamb3
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_FEA_107_001
+pvalue,0.857063
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+analysis_id,zm170sdu57zhdwd

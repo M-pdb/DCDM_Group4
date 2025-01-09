@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:1915087
+parameter_id,IMPC_ACS_034_001
+gene_symbol,Tiprl
+parameter_name,% Pre-pulse inhibition - PPI2
+pvalue,0.1210122
+mouse_life_stage,E9.5
+analysis_id,nb25c059h1nr05r

@@ -1,0 +1,8 @@
+gene_symbol,Grem2
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1344367
+parameter_id,MGP_MLN_005_001
+analysis_id,7v1j423pu59v303
+pvalue,0.8574517

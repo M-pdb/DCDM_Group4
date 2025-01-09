@@ -1,0 +1,8 @@
+parameter_id,IMPC_DXA_005_001
+parameter_name,Bone Mineral Content (excluding skull)
+gene_symbol,Toporsl
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.5131358
+analysis_id,168h50koi0m04ny
+gene_accession_id,MGI:1915524

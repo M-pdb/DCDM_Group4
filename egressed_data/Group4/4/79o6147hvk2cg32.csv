@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+mouse_strain,129SV
+gene_accession_id,MGI:1923959
+analysis_id,79o6147hvk2cg32
+parameter_name,Neutrophil percentage
+mouse_life_stage,Early adult
+Pvalue,0.06584187
+parameter_id,MGP_PBI_019_001

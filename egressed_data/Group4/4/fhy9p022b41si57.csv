@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_003_001
+analysis_id,fhy9p022b41si57
+parameter_name,Eye Hemorrhage or Blood Presence
+pvalue,0.2464923
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:1933159
+gene_symbol,Rnf114

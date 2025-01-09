@@ -1,0 +1,8 @@
+parameter_id,ESLIM_008_001_013
+mouse_strain,129SV
+parameter_name,Startle response
+analysis_id,t56649d053msu1m
+pvalue,0.1810647
+gene_accession_id,MGI:1925427
+mouse_life_stage,Early adult
+gene_symbol,Ninl

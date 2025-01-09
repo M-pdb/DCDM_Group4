@@ -1,0 +1,8 @@
+analysis_id,52b4q57r9jgddo1
+gene_symbol,Fgb
+gene_accession_id,MGI:99501
+mouse_strain,C57BL
+parameter_name,Latency to first transition into dark
+parameter_id,IMPC_LDT_006_001
+mouse_life_stage,E12.5
+pvalue,0.9852098

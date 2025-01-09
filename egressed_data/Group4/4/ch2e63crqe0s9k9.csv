@@ -1,0 +1,8 @@
+gene_symbol,Tox
+parameter_name,CD8+ KLRG1+ alpha beta T cell percentage
+mouse_strain,C57BL
+pvalue,0.1723835
+analysis_id,ch2e63crqe0s9k9
+parameter_id,MGP_PBI_013_001
+gene_accession_id,MGI:2181659
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88236
+analysis_id,1xx06a43f5yz757
+gene_symbol,C8b
+mouse_life_stage,Early adult
+parameter_name,Dark side time spent
+parameter_id,JAX_LDT_004_001
+pvalue,0.8630862
+mouse_strain,C57BL

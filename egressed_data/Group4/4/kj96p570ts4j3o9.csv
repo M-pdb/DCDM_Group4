@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914061
+gene_symbol,Duoxa2
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_007_001
+pvalue,0.01553183
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,kj96p570ts4j3o9

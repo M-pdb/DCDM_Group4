@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914309
+parameter_id,IMPC_ECG_003_001
+analysis_id,7m5rr572b13h85y
+parameter_name,CV
+gene_symbol,Ola1
+mouse_strain,C57BL
+pvalue,0.2693338
+mouse_life_stage,E18.5

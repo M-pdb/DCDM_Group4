@@ -1,0 +1,8 @@
+gene_symbol,Tnfsf8
+mouse_strain,C57BL
+parameter_name,Resting Treg cells - % of CD45+
+analysis_id,99i56anj624vth2
+gene_accession_id,MGI:88328
+mouse_life_stage,Early adult
+pvalue,0.8287055
+parameter_id,MGP_MLN_071_001

@@ -1,0 +1,8 @@
+gene_symbol,Rhbg
+analysis_id,aphlu8x46fr47s1
+parameter_id,IMPC_LDT_006_001
+mouse_strain,C57BL
+gene_accession_id,MGI:1927379
+pvalue,0.5763464
+parameter_name,Latency to first transition into dark
+mouse_life_stage,Early adult

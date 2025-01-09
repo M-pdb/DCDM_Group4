@@ -1,0 +1,8 @@
+parameter_name,Urea (Blood Urea Nitrogen - BUN)
+parameter_id,IMPC_CBC_004_001
+gene_accession_id,MGI:97613
+gene_symbol,Plcb1
+mouse_life_stage,Early adult
+pvalue,0.2995751
+analysis_id,33bf49i60t73950
+mouse_strain,C57BL

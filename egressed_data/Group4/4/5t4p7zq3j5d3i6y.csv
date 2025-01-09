@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:1915087
+analysis_id,5t4p7zq3j5d3i6y
+gene_symbol,Tiprl
+parameter_id,MGP_IMM_012_001
+parameter_name,KLRG1+ Treg cells - % of Treg
+mouse_life_stage,E9.5
+pvalue,0.1500479

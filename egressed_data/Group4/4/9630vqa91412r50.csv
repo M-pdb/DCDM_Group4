@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1924054
+analysis_id,9630vqa91412r50
+gene_symbol,Kdm4c
+mouse_life_stage,Early adult
+parameter_name,Naive CD8+ T cells - % of CD45+
+pvalue,0.09394103
+mouse_strain,C57BL
+parameter_id,MGP_IMM_083_001

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2444554
+gene_symbol,Mapkap1
+analysis_id,4xl26a7ucy9229m
+parameter_name,Heart weight
+parameter_id,IMPC_HWT_008_001
+pvalue,0.2630805
+mouse_strain,C57BL
+mouse_life_stage,E12.5

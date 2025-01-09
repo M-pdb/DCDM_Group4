@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,s071wb95jw38vd2
+parameter_id,MGP_PBI_018_001
+parameter_name,Ly6Clow monocyte percentage
+gene_accession_id,MGI:95457
+mouse_life_stage,E12.5
+gene_symbol,Mecom
+pvalue,0.3316118

@@ -1,0 +1,8 @@
+gene_symbol,Trdmt1
+parameter_name,30kHz-evoked ABR Threshold
+gene_accession_id,MGI:1274787
+parameter_id,IMPC_ABR_012_001
+analysis_id,kpr4xn43id9c40u
+mouse_strain,C57BL
+pvalue,0.9500117
+mouse_life_stage,Early adult

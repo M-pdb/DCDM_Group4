@@ -1,0 +1,8 @@
+gene_symbol,Tox
+parameter_name,Eosinophil cell count
+parameter_id,IMPC_HEM_036_001
+pvalue,0.5729862
+mouse_strain,C57BL
+gene_accession_id,MGI:2181659
+analysis_id,7r8m44op7060852
+mouse_life_stage,Early adult

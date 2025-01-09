@@ -1,0 +1,8 @@
+gene_symbol,Alkbh3
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:1916363
+pvalue,0.3304049
+parameter_id,IMPC_ABR_002_001
+analysis_id,h29353vt0b03hz1
+parameter_name,Click-evoked ABR threshold

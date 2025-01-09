@@ -1,0 +1,8 @@
+gene_symbol,Golm2
+parameter_name,30kHz-evoked ABR Threshold
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_012_001
+gene_accession_id,MGI:2443129
+mouse_strain,C57BL
+analysis_id,5567278eu7312gl
+pvalue,0.6578822

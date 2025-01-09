@@ -1,0 +1,8 @@
+gene_symbol,Wars2
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:1917810
+parameter_name,Resting CD4- NKT cells - % of CD45+
+pvalue,0.1982969
+analysis_id,sci46q92op88845
+parameter_id,MGP_IMM_093_001

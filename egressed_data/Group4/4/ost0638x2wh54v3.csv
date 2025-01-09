@@ -1,0 +1,8 @@
+parameter_name,Red blood cell distribution width
+parameter_id,IMPC_HEM_027_001
+mouse_strain,C57BL
+gene_symbol,Prkcq
+mouse_life_stage,Early adult
+gene_accession_id,MGI:97601
+analysis_id,ost0638x2wh54v3
+pvalue,0.2834633

@@ -1,0 +1,8 @@
+parameter_name,Eosinophil percentage
+parameter_id,MGP_PBI_020_001
+analysis_id,0197l1382gq8xq7
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915889
+mouse_strain,129SV
+gene_symbol,Smyd2
+pvalue,0.3708021

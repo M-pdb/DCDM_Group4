@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2444554
+gene_symbol,Mapkap1
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,MGP_BMI_006_001
+pvalue,0.273094
+parameter_name,Immature B cells (Hardy fraction E) - % of B220+
+analysis_id,uxfou00880f4cgo

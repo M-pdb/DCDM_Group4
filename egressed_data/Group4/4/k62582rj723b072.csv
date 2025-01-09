@@ -1,0 +1,8 @@
+gene_symbol,Tmem14a
+parameter_name,Mean left eye lens density
+gene_accession_id,MGI:1922962
+parameter_id,IMPC_EYE_056_001
+analysis_id,k62582rj723b072
+mouse_strain,C57BL
+pvalue,0.9708996
+mouse_life_stage,Early adult

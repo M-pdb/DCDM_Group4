@@ -1,0 +1,8 @@
+gene_symbol,Tnni1
+mouse_strain,C57BL
+gene_accession_id,MGI:105073
+parameter_name,6kHz-evoked ABR Threshold
+mouse_life_stage,Early adult
+analysis_id,qljsqf77s74voh3
+pvalue,0.795768
+parameter_id,IMPC_ABR_004_001

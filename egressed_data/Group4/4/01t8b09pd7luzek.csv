@@ -1,0 +1,8 @@
+parameter_name,Resting Treg cells - % of Treg
+mouse_life_stage,Early adult
+parameter_id,MGP_MLN_010_001
+gene_accession_id,MGI:1918361
+mouse_strain,C57BL
+analysis_id,01t8b09pd7luzek
+gene_symbol,Gpr39
+pvalue,0.8984432

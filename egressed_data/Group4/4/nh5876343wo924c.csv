@@ -1,0 +1,8 @@
+gene_symbol,Hspa5
+parameter_name,Bone Mineral Content (excluding skull)
+parameter_id,IMPC_DXA_005_001
+mouse_strain,C57BL
+analysis_id,nh5876343wo924c
+pvalue,0.3474681
+gene_accession_id,MGI:95835
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915107
+parameter_id,IMPC_GEO_019_001
+analysis_id,74hcv150m39zx54
+gene_symbol,Ppp6c
+parameter_name,Embryo Size
+pvalue,0.07484703

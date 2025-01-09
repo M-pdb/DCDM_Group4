@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_008_001
+analysis_id,p7fakwq9k56c7c3
+mouse_life_stage,Early adult
+pvalue,0.9045894
+mouse_strain,C57BL
+parameter_name,ST
+gene_accession_id,MGI:1915472
+gene_symbol,Tubb4b

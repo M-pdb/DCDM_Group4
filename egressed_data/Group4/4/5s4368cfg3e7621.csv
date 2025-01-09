@@ -1,0 +1,8 @@
+parameter_id,HMGULA_HEM_001_001
+parameter_name,White blood cell count
+mouse_life_stage,Early adult
+analysis_id,5s4368cfg3e7621
+mouse_strain,C57BL
+gene_accession_id,MGI:2651854
+pvalue,0.5681969
+gene_symbol,Atg4c

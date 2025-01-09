@@ -1,0 +1,8 @@
+mouse_strain,129SV
+analysis_id,hhsn28yy610gl83
+gene_symbol,Zmynd8
+parameter_name,Effector CD8+ T cells - % of CD45+
+parameter_id,MGP_IMM_081_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1918025
+pvalue,0.9770641

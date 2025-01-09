@@ -1,0 +1,8 @@
+parameter_name,Global prepulse inhibition
+parameter_id,ESLIM_011_001_705
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_symbol,Tatdn3
+analysis_id,9q0hf15809x0af0
+gene_accession_id,MGI:1916222
+pvalue,0.7068066

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97601
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,1evp871y0dh7shf
+parameter_id,MGP_BMI_006_001
+parameter_name,Immature B cells (Hardy fraction E) - % of B220+
+gene_symbol,PRKCQ
+pvalue,0.3078444

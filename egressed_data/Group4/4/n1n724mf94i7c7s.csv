@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+mouse_strain,C57BL
+analysis_id,n1n724mf94i7c7s
+mouse_life_stage,E15.5
+gene_accession_id,MGI:88174
+parameter_name,Effector NK cells - % of CD45+
+parameter_id,MGP_MLN_091_001
+pvalue,0.2809024

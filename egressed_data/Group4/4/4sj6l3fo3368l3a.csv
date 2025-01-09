@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:894679
+analysis_id,4sj6l3fo3368l3a
+parameter_id,JAXLA_ECG_002_001
+pvalue,0.1427486
+mouse_life_stage,Early adult
+parameter_name,HR
+gene_symbol,Bach2

@@ -1,0 +1,8 @@
+gene_symbol,Nucks1
+mouse_strain,C57BL
+parameter_name,Bone Mineral Density (excluding skull)
+analysis_id,q9hslt18pr384p8
+pvalue,0.3630201
+parameter_id,IMPC_DXA_004_001
+gene_accession_id,MGI:1934811
+mouse_life_stage,Late adult

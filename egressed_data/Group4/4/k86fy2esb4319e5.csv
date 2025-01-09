@@ -1,0 +1,8 @@
+gene_symbol,Inpp1
+mouse_strain,129SV
+gene_accession_id,MGI:104848
+mouse_life_stage,Early adult
+analysis_id,k86fy2esb4319e5
+parameter_id,MGP_IMM_011_001
+pvalue,0.3568261
+parameter_name,Resting Treg cells - % of Treg

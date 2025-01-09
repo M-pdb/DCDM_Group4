@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+parameter_name,Effector Treg cells - % of Treg
+mouse_strain,C57BL
+parameter_id,MGP_MLN_009_001
+mouse_life_stage,E12.5
+analysis_id,6y00kmgkd68k67a
+gene_accession_id,MGI:88174
+pvalue,0.7855991

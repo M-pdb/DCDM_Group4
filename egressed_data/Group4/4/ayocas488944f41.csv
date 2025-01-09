@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1336200
+analysis_id,ayocas488944f41
+mouse_strain,C57BL
+parameter_name,DN CD44+CD62L+ NKT cells
+parameter_id,IMPC_IMM_047_001
+gene_symbol,Hpca
+mouse_life_stage,Late adult
+pvalue,0.623708

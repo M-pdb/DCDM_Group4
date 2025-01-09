@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+parameter_name,Retinal Blood Vessels Pattern
+gene_symbol,Fgb
+parameter_id,IMPC_EYE_026_001
+mouse_strain,C57BL
+analysis_id,5c8l098xnr0t348
+pvalue,0.9435577
+mouse_life_stage,E15.5

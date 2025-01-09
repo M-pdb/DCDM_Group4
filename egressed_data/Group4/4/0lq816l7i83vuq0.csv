@@ -1,0 +1,8 @@
+mouse_strain,129SV
+gene_accession_id,MGI:99605
+parameter_id,ESLIM_004_001_701
+analysis_id,0lq816l7i83vuq0
+gene_symbol,Cntfr
+pvalue,0.9802509
+mouse_life_stage,Early adult
+parameter_name,Glucose response AUC

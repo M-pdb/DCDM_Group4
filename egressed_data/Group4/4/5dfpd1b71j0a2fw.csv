@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3026886
+parameter_id,MGP_MLN_066_001
+gene_symbol,Cdin1
+parameter_name,Effector CD4+ T helper cells - % of CD45+
+mouse_life_stage,E9.5
+analysis_id,5dfpd1b71j0a2fw
+mouse_strain,C57BL
+pvalue,0.1329636

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88071
+parameter_id,IMPC_IMM_025_001
+analysis_id,74646st3f0d666h
+gene_symbol,Arnt
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,DN CD25- NKT cells
+pvalue,0.674708

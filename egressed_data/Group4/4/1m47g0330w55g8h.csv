@@ -1,0 +1,8 @@
+parameter_id,IMPC_LDT_008_001
+analysis_id,1m47g0330w55g8h
+pvalue,0.07816358
+gene_symbol,Jun
+gene_accession_id,MGI:96646
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_name,Percent time in light

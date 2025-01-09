@@ -1,0 +1,8 @@
+gene_symbol,Golm2
+mouse_strain,C57BL
+gene_accession_id,MGI:2443129
+mouse_life_stage,Early adult
+analysis_id,93uu58baen1h252
+parameter_name,Mature B cells (Hardy fraction F) - % of CD45+
+pvalue,0.1070413
+parameter_id,MGP_BMI_014_001

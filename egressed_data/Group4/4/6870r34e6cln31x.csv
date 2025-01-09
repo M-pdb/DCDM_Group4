@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,IMPC_ECG_028_001
+mouse_life_stage,Late adult
+parameter_name,QT
+gene_accession_id,MGI:1345282
+pvalue,0.244103
+analysis_id,6870r34e6cln31x
+gene_symbol,Slc30a4

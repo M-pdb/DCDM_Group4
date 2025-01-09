@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1339969
+mouse_strain,C51BL
+analysis_id,su119368629c66w
+parameter_name,Resting CD8+ T cells - % of CD45+
+pvalue,0.7103589
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_082_001
+gene_symbol,Gja10

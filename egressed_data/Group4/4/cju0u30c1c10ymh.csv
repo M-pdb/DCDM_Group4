@@ -1,0 +1,8 @@
+gene_symbol,Nucks1
+parameter_name,Neutrophil differential count
+parameter_id,IMPC_HEM_029_001
+mouse_life_stage,Late adult
+gene_accession_id,MGI:1934811
+analysis_id,cju0u30c1c10ymh
+mouse_strain,C57BL
+pvalue,0.7607011

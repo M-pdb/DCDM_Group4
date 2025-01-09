@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_005_001
+mouse_strain,C57BL
+gene_accession_id,MGI:1306822
+gene_symbol,Dnajb3
+analysis_id,8me59f599spu7qh
+mouse_life_stage,Early adult
+pvalue,0.4782548
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells

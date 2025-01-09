@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97601
+analysis_id,a0i99193k9va95a
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,CV
+pvalue,0.4372393
+parameter_id,IMPC_ECG_003_001
+gene_symbol,Prkcq

@@ -1,0 +1,8 @@
+parameter_name,% Pre-pulse inhibition - PPI3
+parameter_id,IMPC_ACS_035_001
+gene_accession_id,MGI:1860103
+analysis_id,057a3uj745724p0
+mouse_strain,C57BL
+pvalue,0.1812042
+gene_symbol,Slc2a8
+mouse_life_stage,Early adult

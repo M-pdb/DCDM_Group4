@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1920026
+parameter_name,Embryo Size
+mouse_strain,C57BL
+parameter_id,IMPC_GEP_022_001
+mouse_life_stage,E12.5
+analysis_id,zmgc6szx3i06x34
+pvalue,0.3346189
+gene_symbol,Sass6

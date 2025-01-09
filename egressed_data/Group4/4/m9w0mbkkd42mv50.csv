@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Mean cell hemoglobin concentration
+parameter_id,IMPC_HEM_007_001
+gene_symbol,Hpca
+gene_accession_id,MGI:1336200
+analysis_id,m9w0mbkkd42mv50
+mouse_strain,C57BL
+pvalue,0.5120328

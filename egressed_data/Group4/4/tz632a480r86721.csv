@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2135738
+analysis_id,tz632a480r86721
+mouse_strain,C57BL
+parameter_id,MGP_IMM_001_001
+gene_symbol,Abo
+mouse_life_stage,Early adult
+pvalue,0.1347726
+parameter_name,Total T cells - % of CD45+

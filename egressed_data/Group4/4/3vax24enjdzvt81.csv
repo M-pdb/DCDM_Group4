@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:95835
+parameter_name,30kHz-evoked ABR Threshold
+pvalue,0.5174159
+analysis_id,3vax24enjdzvt81
+gene_symbol,Hspa5
+parameter_id,IMPC_ABR_012_001
+mouse_life_stage,E12.5

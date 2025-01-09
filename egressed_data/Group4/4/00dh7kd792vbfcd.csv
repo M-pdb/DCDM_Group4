@@ -1,0 +1,8 @@
+parameter_name,% Freezing duration habituation-1
+parameter_id,ICS_FEA_016_001
+mouse_strain,C57BL
+pvalue,0.1784167
+mouse_life_stage,Early adult
+gene_symbol,Gpr39
+analysis_id,00dh7kd792vbfcd
+gene_accession_id,MGI:1918361

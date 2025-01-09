@@ -1,0 +1,8 @@
+parameter_id,IMPC_IMM_047_001
+analysis_id,2cao6tq036kw4cw
+gene_accession_id,MGI:109128
+parameter_name,DN CD44+CD62L+ NKT cells
+gene_symbol,Hnf4a
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.3780921

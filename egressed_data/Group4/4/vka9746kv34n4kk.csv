@@ -1,0 +1,8 @@
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+gene_symbol,Ints7
+analysis_id,vka9746kv34n4kk
+pvalue,0.9062074
+mouse_strain,C57BL
+gene_accession_id,MGI:1924315
+parameter_id,IMPC_FEA_107_001
+mouse_life_stage,E9.5

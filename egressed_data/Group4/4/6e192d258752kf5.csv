@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_id,IMPC_HEM_007_001
+parameter_name,Mean cell hemoglobin concentration
+gene_accession_id,MGI:88071
+pvalue,0.9980559
+analysis_id,6e192d258752kf5
+gene_symbol,Arnt

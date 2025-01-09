@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,DN CD44+CD62L- NKT cells
+mouse_life_stage,Early adult
+analysis_id,b81ql96h68jm0u4
+pvalue,0.1988686
+parameter_id,IMPC_IMM_046_001
+gene_accession_id,MGI:1918025
+gene_symbol,Zmynd8

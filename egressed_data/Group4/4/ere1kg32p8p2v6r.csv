@@ -1,0 +1,8 @@
+gene_symbol,Orc2
+gene_accession_id,MGI:1328306
+analysis_id,ere1kg32p8p2v6r
+mouse_strain,C57BL
+parameter_id,JAX_LDT_002_001
+pvalue,0.451513
+mouse_life_stage,E9.5
+parameter_name,Light side time spent

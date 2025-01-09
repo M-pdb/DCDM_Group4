@@ -1,0 +1,8 @@
+parameter_id,IMPC_FEA_107_001
+analysis_id,2chk86zz8b46zh5
+gene_accession_id,MGI:97613
+gene_symbol,Plcb1
+mouse_life_stage,Late adult
+pvalue,0.5193663
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+mouse_strain,C57BL

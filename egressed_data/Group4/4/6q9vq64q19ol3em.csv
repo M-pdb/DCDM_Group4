@@ -1,0 +1,8 @@
+parameter_name,Total CD8+ T cells - % of ab T cells
+gene_symbol,Tiprl
+mouse_life_stage,E9.5
+mouse_strain,C57BL
+analysis_id,6q9vq64q19ol3em
+parameter_id,MGP_IMM_013_001
+pvalue,0.3475822
+gene_accession_id,MGI:1915087

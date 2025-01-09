@@ -1,0 +1,8 @@
+parameter_name,Total cholesterol
+parameter_id,IMPC_CBC_015_001
+gene_symbol,Ppm1j
+gene_accession_id,MGI:1919137
+analysis_id,xugv928z73uid33
+mouse_strain,C57BL
+pvalue,0.6790021
+mouse_life_stage,Early adult

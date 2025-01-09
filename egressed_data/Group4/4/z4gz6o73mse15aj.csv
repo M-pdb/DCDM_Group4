@@ -1,0 +1,8 @@
+parameter_name,KLRG1+ Treg cells - % of CD45+
+mouse_life_stage,E18.5
+analysis_id,z4gz6o73mse15aj
+mouse_strain,C57BL
+parameter_id,MGP_IMM_079_001
+gene_symbol,Nanp
+gene_accession_id,MGI:1914561
+pvalue,0.524351

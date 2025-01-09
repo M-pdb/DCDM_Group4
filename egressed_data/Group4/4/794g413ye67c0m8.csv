@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_006_001
+gene_symbol,Tmem203
+parameter_name,Mean corpuscular hemoglobin
+gene_accession_id,MGI:2443597
+mouse_life_stage,Early adult
+analysis_id,794g413ye67c0m8
+mouse_strain,C57BL
+pvalue,0.3915326

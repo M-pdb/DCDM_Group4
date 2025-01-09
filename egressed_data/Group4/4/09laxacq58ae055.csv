@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_074_001
+parameter_name,Resting CD4+ T helper cells - % of CD45+
+mouse_life_stage,Early adult
+gene_symbol,Itln1
+analysis_id,09laxacq58ae055
+pvalue,0.8510862
+mouse_strain,C57BL
+gene_accession_id,MGI:1333831

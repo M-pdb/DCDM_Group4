@@ -1,0 +1,8 @@
+gene_symbol,Plcb1
+mouse_life_stage,Early adult
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,4un3sj5v0h219ay
+parameter_id,IMPC_HEM_007_001
+pvalue,0.4742103
+gene_accession_id,MGI:97613
+mouse_strain,C57BL

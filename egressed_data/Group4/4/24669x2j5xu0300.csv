@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96545
+gene_symbol,Il1r1
+mouse_life_stage,Early adult
+analysis_id,24669x2j5xu0300
+parameter_id,MGP_IMM_015_001
+mouse_strain,C57BL
+parameter_name,Resting CD8+ T cells - % of CD8+
+pvalue,0.4589939

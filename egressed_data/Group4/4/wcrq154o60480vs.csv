@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1913483
+mouse_strain,C57BL
+gene_symbol,Dmap1
+analysis_id,wcrq154o60480vs
+pvalue,0.5140469
+parameter_name,Mean cell volume
+mouse_life_stage,E12.5
+parameter_id,ESLIM_016_001_005

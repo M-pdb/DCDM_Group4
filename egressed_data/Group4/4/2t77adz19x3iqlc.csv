@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,2t77adz19x3iqlc
+parameter_id,MGP_PBI_034_001
+parameter_name,B cell number
+gene_symbol,Smyd2
+gene_accession_id,MGI:1915889
+pvalue,0.1138344

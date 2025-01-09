@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+parameter_name,Mean cell hemoglobin concentration
+gene_symbol,Galnt13
+mouse_strain,C57BL
+pvalue,0.280566
+mouse_life_stage,Late adult
+analysis_id,6mzkbjt2shqm03c
+gene_accession_id,MGI:2139447

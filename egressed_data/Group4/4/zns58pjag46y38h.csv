@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+mouse_strain,C57BL
+parameter_id,JAX_LDT_008_001
+analysis_id,zns58pjag46y38h
+mouse_life_stage,E15.5
+parameter_name,Percent time in dark
+pvalue,0.3348558
+gene_symbol,Jun

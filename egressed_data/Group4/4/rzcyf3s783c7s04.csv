@@ -1,0 +1,8 @@
+gene_symbol,Tox
+mouse_strain,C57BL
+parameter_name,Periphery permanence time
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2181659
+analysis_id,rzcyf3s783c7s04
+pvalue,0.41313
+parameter_id,JAX_OFD_012_001

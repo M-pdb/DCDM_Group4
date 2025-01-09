@@ -1,0 +1,8 @@
+gene_symbol,Bach2
+gene_accession_id,MGI:894679
+mouse_strain,C55BL
+parameter_id,IMPC_ECG_002_001
+mouse_life_stage,Early adult
+analysis_id,hfa05410t0f6243
+pvalue,0.5645778
+parameter_name,HR

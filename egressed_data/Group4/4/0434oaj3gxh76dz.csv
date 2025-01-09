@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2444554
+mouse_life_stage,E15.5
+analysis_id,0434oaj3gxh76dz
+parameter_name,Bone Mineral Density (excluding skull)
+parameter_id,IMPC_DXA_004_001
+mouse_strain,C57BL
+gene_symbol,Mapkap1
+pvalue,0.289886

@@ -1,0 +1,8 @@
+gene_symbol,Sla2
+gene_accession_id,MGI:1925049
+parameter_id,MGP_IMM_006_001
+analysis_id,g3xi09qhj3uuxgw
+mouse_strain,C57BL
+parameter_name,Effector CD4+ T helper cells - % of CD4+ T helper cells
+pvalue,0.4735025
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+analysis_id,r831u2ov31ysvy6
+parameter_id,IMPC_CBC_024_001
+mouse_strain,129SV
+parameter_name,UIBC (unsaturated iron binding capacity)
+mouse_life_stage,Early adult
+gene_symbol,Smyd2
+gene_accession_id,MGI:1915889
+pvalue,0.5115846

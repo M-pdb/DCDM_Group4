@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,rq9a46qt91m3o92
+gene_symbol,Toporsl
+gene_accession_id,MGI:1915524
+parameter_name,Center resting time
+parameter_id,JAX_OFD_015_001
+pvalue,0.1324987

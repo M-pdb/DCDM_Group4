@@ -1,0 +1,8 @@
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+gene_symbol,Plcb1
+parameter_id,MGP_PBI_032_001
+analysis_id,i32bs3wbv9s5w51
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.4920693
+gene_accession_id,MGI:97613

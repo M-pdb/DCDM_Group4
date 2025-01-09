@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+parameter_name,Total CD4+ T cells - % of ab T cells
+parameter_id,MGP_IMM_004_001
+pvalue,0.9478388
+mouse_strain,C57BL
+analysis_id,v6gv866g517me69
+mouse_life_stage,E15.5
+gene_symbol,Fgb

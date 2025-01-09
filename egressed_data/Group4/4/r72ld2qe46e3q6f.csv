@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+gene_symbol,Mecom
+analysis_id,r72ld2qe46e3q6f
+parameter_id,IMPC_HEM_007_001
+parameter_name,Mean cell hemoglobin concentration
+pvalue,0.09120296
+mouse_strain,C57BL
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921444
+parameter_id,IMPC_GEP_084_001
+mouse_life_stage,Early adult
+parameter_name,Limb morphology
+analysis_id,cl58n535unwl950
+mouse_strain,C57BL
+pvalue,0.2895026
+gene_symbol,Rnd3

@@ -1,0 +1,8 @@
+parameter_name,KLRG1+ NK cells - % of NK cells
+mouse_strain,C57BL
+parameter_id,MGP_IMM_036_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:88071
+analysis_id,67g0335cmxq6008
+pvalue,0.07079093
+gene_symbol,Arnt

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:109128
+analysis_id,6v4159934e09y10
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+parameter_id,MGP_IMM_007_001
+gene_symbol,Hnf4a
+mouse_life_stage,Middle aged adult
+mouse_strain,C57BL
+pvalue,0.3659548

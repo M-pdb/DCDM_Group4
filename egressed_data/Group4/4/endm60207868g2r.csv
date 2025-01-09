@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Resting Treg cells - % of Treg
+analysis_id,endm60207868g2r
+mouse_strain,C57BL
+parameter_id,MGP_IMM_011_001
+pvalue,0.0504005
+gene_symbol,Rab17
+gene_accession_id,MGI:104640

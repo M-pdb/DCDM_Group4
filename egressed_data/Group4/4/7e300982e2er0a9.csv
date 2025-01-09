@@ -1,0 +1,8 @@
+parameter_id,IMPC_ABR_012_001
+gene_accession_id,MGI:109356
+analysis_id,7e300982e2er0a9
+gene_symbol,Snap23
+mouse_life_stage,Middle aged adult
+parameter_name,30kHz-evoked ABR Threshold
+pvalue,0.278681
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Effector gd T cells - % of gd T cells
+gene_symbol,Jun
+mouse_life_stage,E15.5
+pvalue,0.733935
+gene_accession_id,MGI:96646
+parameter_id,MGP_IMM_020_001
+analysis_id,t785miz2d035h5v

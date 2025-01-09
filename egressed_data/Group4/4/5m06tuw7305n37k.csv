@@ -1,0 +1,8 @@
+analysis_id,5m06tuw7305n37k
+parameter_id,IMPC_ECG_006_001
+parameter_name,PR
+gene_accession_id,MGI:1860103
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.6115858
+gene_symbol,Slc2a8

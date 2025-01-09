@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+analysis_id,93b3206u9557c37
+parameter_id,IMPC_ECG_004_001
+gene_accession_id,MGI:104738
+parameter_name,RR
+mouse_strain,C57BL
+gene_symbol,Cdkn2a
+pvalue,0.9527347

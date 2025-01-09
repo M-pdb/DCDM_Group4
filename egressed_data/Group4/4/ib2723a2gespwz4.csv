@@ -1,0 +1,8 @@
+parameter_name,Light side time spent
+analysis_id,ib2723a2gespwz4
+pvalue,0.1032897
+mouse_strain,C57BL
+gene_symbol,Tox
+gene_accession_id,MGI:2181659
+parameter_id,JAX_LDT_002_001
+mouse_life_stage,Early adult

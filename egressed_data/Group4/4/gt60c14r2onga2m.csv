@@ -1,0 +1,8 @@
+gene_symbol,Col11a1
+gene_accession_id,MGI:88446
+mouse_strain,C57BL
+parameter_name,Heart weight
+parameter_id,HMGULA_HWT_008_001
+pvalue,0.5039806
+analysis_id,gt60c14r2onga2m
+mouse_life_stage,Early adult

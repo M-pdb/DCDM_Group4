@@ -1,0 +1,8 @@
+mouse_strain,129SV
+mouse_life_stage,Early adult
+parameter_name,Periphery average speed
+gene_symbol,Smyd2
+parameter_id,IMPC_OFD_013_001
+gene_accession_id,MGI:1915889
+analysis_id,c74fa9794644555
+pvalue,0.1076096

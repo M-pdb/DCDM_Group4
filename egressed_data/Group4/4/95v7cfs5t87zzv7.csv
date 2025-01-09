@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2685277
+mouse_life_stage,E18.5
+parameter_id,IMPC_HEM_006_001
+analysis_id,95v7cfs5t87zzv7
+mouse_strain,C57BL
+parameter_name,Mean corpuscular hemoglobin
+pvalue,0.999512
+gene_symbol,Zyg11b

@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+mouse_strain,C57BL
+gene_accession_id,MGI:2444554
+analysis_id,7z4ybh85r8y243p
+pvalue,0.3313755
+parameter_id,IMPC_FEA_107_001
+mouse_life_stage,E12.5
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing

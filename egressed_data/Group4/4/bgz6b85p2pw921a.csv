@@ -1,0 +1,8 @@
+gene_symbol,Hnf4a
+gene_accession_id,MGI:109128
+analysis_id,bgz6b85p2pw921a
+parameter_id,JAX_OFD_010_001
+mouse_strain,C57BL
+mouse_life_stage,Middle aged adult
+pvalue,0.9446385
+parameter_name,Periphery distance travelled

@@ -1,0 +1,8 @@
+gene_symbol,Jun
+mouse_strain,C57BL
+analysis_id,k412yu4phfb4271
+parameter_id,IMPC_ABR_012_001
+gene_accession_id,MGI:96646
+parameter_name,30kHz-evoked ABR Threshold
+mouse_life_stage,E15.5
+pvalue,0.2828587

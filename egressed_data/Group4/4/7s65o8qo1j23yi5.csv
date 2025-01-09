@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+analysis_id,7s65o8qo1j23yi5
+parameter_id,IMPC_OFD_012_001
+gene_symbol,Mecom
+parameter_name,Periphery permanence time
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+pvalue,0.1208481

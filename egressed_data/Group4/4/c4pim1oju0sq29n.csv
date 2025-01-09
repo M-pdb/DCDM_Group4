@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1346088
+parameter_name,Eosinophils
+parameter_id,IMPC_IMM_052_001
+mouse_strain,C57BL
+pvalue,0.260107
+analysis_id,c4pim1oju0sq29n
+mouse_life_stage,Early adult
+gene_symbol,Cd52

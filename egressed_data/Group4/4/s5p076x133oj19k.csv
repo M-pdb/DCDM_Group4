@@ -1,0 +1,8 @@
+parameter_name,Glucose response AUC
+mouse_strain,C57BL
+analysis_id,s5p076x133oj19k
+parameter_id,ESLIM_004_001_701
+gene_symbol,Bach2
+gene_accession_id,MGI:894679
+pvalue,0.4103637
+mouse_life_stage,Early adult

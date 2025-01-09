@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914309
+analysis_id,58mump54nsp7hb8
+mouse_strain,C57BL
+parameter_name,Effector CD4- NKT cells - % of CD45+
+gene_symbol,Ola1
+parameter_id,MGP_IMM_092_001
+mouse_life_stage,E18.5
+pvalue,0.1696427

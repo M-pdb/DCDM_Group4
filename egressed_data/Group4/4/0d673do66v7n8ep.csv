@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915806
+analysis_id,0d673do66v7n8ep
+parameter_id,MGP_IMM_094_001
+parameter_name,KLRG1+ CD4- NKT cells - % of CD45+
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.6487032
+gene_symbol,Uckl1

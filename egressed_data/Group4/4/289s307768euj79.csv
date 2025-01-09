@@ -1,0 +1,8 @@
+gene_symbol,Frmpd1
+parameter_name,Effector CD4+ T helper cells - % of CD45+
+mouse_strain,C57BL
+analysis_id,289s307768euj79
+gene_accession_id,MGI:2446274
+mouse_life_stage,Late adult
+parameter_id,MGP_IMM_073_001
+pvalue,0.252203

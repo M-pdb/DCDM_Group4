@@ -1,0 +1,8 @@
+gene_symbol,Hnf4a
+parameter_name,Neutrophil cell count
+parameter_id,IMPC_HEM_030_001
+mouse_life_stage,Late adult
+gene_accession_id,MGI:109128
+analysis_id,a81w6151z1rx3a3
+pvalue,0.1005001
+mouse_strain,C57BL

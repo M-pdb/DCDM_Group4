@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+parameter_id,IMPC_ECG_004_001
+mouse_life_stage,E12.5
+analysis_id,75834980cffa877
+parameter_name,RR
+gene_symbol,Fgb
+pvalue,0.5127074
+mouse_strain,C57BL

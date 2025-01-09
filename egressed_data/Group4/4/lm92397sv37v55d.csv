@@ -1,0 +1,8 @@
+parameter_name,HR
+parameter_id,IMPC_ECG_002_001
+analysis_id,lm92397sv37v55d
+pvalue,0.9787223
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1913284
+gene_symbol,Psmd14

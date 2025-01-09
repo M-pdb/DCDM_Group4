@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Total Treg cells - % of CD45+
+gene_symbol,Hnf4a
+gene_accession_id,MGI:109128
+analysis_id,u2580878k0apw2c
+pvalue,0.7399007
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_076_001

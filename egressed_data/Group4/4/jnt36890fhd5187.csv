@@ -1,0 +1,8 @@
+gene_symbol,Dmap1
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:1913483
+parameter_name,Area under glucose response curve
+analysis_id,jnt36890fhd5187
+pvalue,0.9167722
+parameter_id,IMPC_IPG_012_001

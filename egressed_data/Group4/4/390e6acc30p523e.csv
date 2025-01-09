@@ -1,0 +1,8 @@
+gene_symbol,Trpa1
+analysis_id,390e6acc30p523e
+pvalue,0.6180479
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell percentage
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:3522699
+parameter_id,MGP_PBI_010_001

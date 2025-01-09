@@ -1,0 +1,8 @@
+gene_symbol,Sla2
+mouse_strain,C57BL
+gene_accession_id,MGI:1925049
+analysis_id,8g701a936naghp7
+parameter_id,IMPC_FEA_106_001
+mouse_life_stage,Early adult
+pvalue,3.98939e-06
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing

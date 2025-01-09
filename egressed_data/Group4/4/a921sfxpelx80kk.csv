@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1925427
+gene_symbol,Ninl
+analysis_id,a921sfxpelx80kk
+mouse_strain,C57BL
+parameter_name,24kHz-evoked ABR Threshold
+pvalue,0.405292
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_010_001

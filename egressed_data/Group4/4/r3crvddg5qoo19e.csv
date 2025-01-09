@@ -1,0 +1,8 @@
+parameter_name,Mean platelet volume
+parameter_id,IMPC_HEM_019_001
+mouse_life_stage,Early adult
+mouse_strain,129SV
+analysis_id,r3crvddg5qoo19e
+gene_accession_id,MGI:1923959
+pvalue,0.7865039
+gene_symbol,Arpc2

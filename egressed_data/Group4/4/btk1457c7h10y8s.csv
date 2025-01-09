@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99915
+pvalue,0.9946422
+gene_symbol,Lamb3
+parameter_name,Naive CD8+ T cells - % of CD45+
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_id,MGP_IMM_083_001
+analysis_id,btk1457c7h10y8s

@@ -1,0 +1,8 @@
+analysis_id,xkm067776flu4jb
+parameter_id,IMPC_FEA_003_001
+mouse_strain,C57BL
+gene_symbol,Fgb
+gene_accession_id,MGI:99501
+mouse_life_stage,E12.5
+pvalue,0.7668074
+parameter_name,Conditioning Baseline % Freezing Time

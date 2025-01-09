@@ -1,0 +1,8 @@
+parameter_name,Naive CD8+ T cells - % of CD45+
+gene_accession_id,MGI:88446
+gene_symbol,Col11a1
+analysis_id,e987ca0et0n900h
+parameter_id,MGP_MLN_076_001
+mouse_strain,C57BL
+pvalue,0.4481119
+mouse_life_stage,E18.5

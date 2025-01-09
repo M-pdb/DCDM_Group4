@@ -1,0 +1,8 @@
+parameter_id,IMPC_ACS_036_001
+parameter_name,% Pre-pulse inhibition - PPI4
+mouse_strain,C57BL
+analysis_id,04t6gc561njm11b
+gene_accession_id,MGI:1917810
+gene_symbol,Wars2
+mouse_life_stage,E9.5
+pvalue,0.1567103

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2385884
+parameter_name,CD4+ CD25+ alpha beta regulatory T cell percentage
+parameter_id,MGP_PBI_008_001
+analysis_id,v5cd6689e91o835
+pvalue,0.3784179
+mouse_life_stage,Early adult
+gene_symbol,Ddx27
+mouse_strain,129SV

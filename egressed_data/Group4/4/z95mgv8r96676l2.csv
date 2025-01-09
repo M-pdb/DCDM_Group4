@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+analysis_id,z95mgv8r96676l2
+gene_symbol,Ninl
+parameter_id,IMPC_LDT_006_001
+gene_accession_id,MGI:1925427
+parameter_name,Latency to first transition into dark
+mouse_strain,129SV
+pvalue,0.9825354

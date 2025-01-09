@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_009_001
+analysis_id,wcl475335356hk8
+gene_accession_id,MGI:109356
+mouse_life_stage,Late adult
+mouse_strain,C57BL
+parameter_name,Corneal vascularization
+pvalue,0.105088
+gene_symbol,Snap23

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Tiprl
+gene_accession_id,MGI:1915087
+analysis_id,zmr4r065trebczp
+parameter_id,JAX_LDT_003_001
+parameter_name,Time mobile light side
+pvalue,0.2805473

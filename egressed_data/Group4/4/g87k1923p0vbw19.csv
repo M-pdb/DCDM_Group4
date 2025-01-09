@@ -1,0 +1,8 @@
+gene_symbol,Abo
+mouse_life_stage,Early adult
+parameter_name,Effector CD4+ T helper cells - % of CD45+
+analysis_id,g87k1923p0vbw19
+mouse_strain,C57BL
+pvalue,0.7517176
+gene_accession_id,MGI:2135738
+parameter_id,MGP_MLN_066_001

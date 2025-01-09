@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,JAXLA_ECG_002_001
+parameter_name,HR
+gene_symbol,Hpca
+mouse_life_stage,Late adult
+analysis_id,469uot338x4017h
+gene_accession_id,MGI:1336200
+pvalue,0.1792449

@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_065_001
+gene_accession_id,MGI:1922082
+gene_symbol,Slc45a3
+analysis_id,48kvgu9x58cjt2c
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,CD4+ T helper cells - % of CD45+
+pvalue,0.07027855

@@ -1,0 +1,8 @@
+gene_symbol,Wars2
+mouse_strain,C57BL
+parameter_name,Resting Treg cells - % of Treg
+parameter_id,MGP_MLN_010_001
+analysis_id,e3nl2elk2whtv15
+pvalue,0.2119147
+mouse_life_stage,E12.5
+gene_accession_id,MGI:1917810

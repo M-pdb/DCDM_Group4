@@ -1,0 +1,8 @@
+gene_symbol,Dhdds
+mouse_strain,C57BL
+analysis_id,3i1y03zs35c692o
+parameter_name,6kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_004_001
+pvalue,0.1315985
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1914672

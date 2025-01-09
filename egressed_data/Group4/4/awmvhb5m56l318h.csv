@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,awmvhb5m56l318h
+parameter_name,Transitional B Cells (CD21/35 low)
+gene_symbol,Dhdds
+gene_accession_id,MGI:1914672
+parameter_id,IMPC_IMM_069_001
+pvalue,0.5220192

@@ -1,0 +1,8 @@
+parameter_id,JAXLA_GRS_011_001
+mouse_strain,C57BL
+parameter_name,Forelimb and hindlimb grip strength normalised against body weight
+gene_accession_id,MGI:1921895
+analysis_id,g90x81khof4xg8y
+gene_symbol,Tent5c
+pvalue,0.08412967
+mouse_life_stage,Early adult

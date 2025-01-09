@@ -1,0 +1,8 @@
+parameter_name,Mean right eye lens density
+gene_accession_id,MGI:95835
+parameter_id,IMPC_EYE_059_001
+mouse_strain,C57BL
+analysis_id,ts4243c849a88dv
+pvalue,0.7092727
+mouse_life_stage,E9.5
+gene_symbol,Hspa5

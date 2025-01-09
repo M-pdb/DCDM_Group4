@@ -1,0 +1,8 @@
+parameter_name,Immature B cells (Hardy fraction E) - % of B220+
+mouse_strain,C57BL
+parameter_id,MGP_BMI_006_001
+gene_symbol,Abo
+mouse_life_stage,Early adult
+analysis_id,b1yb4tw62d5u8u5
+gene_accession_id,MGI:2135738
+pvalue,0.6791804

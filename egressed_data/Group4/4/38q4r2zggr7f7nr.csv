@@ -1,0 +1,8 @@
+gene_symbol,Stk35
+parameter_name,Total CD4+ T cells - % of ab T cells
+analysis_id,38q4r2zggr7f7nr
+pvalue,0.4695219
+gene_accession_id,MGI:1914583
+parameter_id,MGP_IMM_004_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL

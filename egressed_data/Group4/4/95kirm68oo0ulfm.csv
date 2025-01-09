@@ -1,0 +1,8 @@
+gene_accession_id,MGI:109128
+parameter_name,24kHz-evoked ABR Threshold
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_010_001
+gene_symbol,Hnf4a
+mouse_strain,C57BL
+analysis_id,95kirm68oo0ulfm
+pvalue,0.3586066

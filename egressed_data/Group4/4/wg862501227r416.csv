@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Vibrissae - presence
+parameter_id,JAXLA_CSD_023_001
+mouse_life_stage,Early adult
+analysis_id,wg862501227r416
+gene_accession_id,MGI:1915033
+pvalue,0.5666817
+gene_symbol,Ahctf1

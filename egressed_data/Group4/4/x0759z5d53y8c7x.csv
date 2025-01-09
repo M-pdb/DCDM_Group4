@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,x0759z5d53y8c7x
+parameter_name,Time immobile
+gene_accession_id,MGI:1922855
+parameter_id,JAX_TLS_001_001
+mouse_life_stage,Early adult
+pvalue,0.981265
+gene_symbol,Kdm5b

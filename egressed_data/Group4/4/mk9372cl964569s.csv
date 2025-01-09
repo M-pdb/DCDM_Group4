@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,MGP_IMM_079_001
+pvalue,0.2845892
+parameter_name,KLRG1+ Treg cells - % of CD45+
+analysis_id,mk9372cl964569s

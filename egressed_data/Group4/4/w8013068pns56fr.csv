@@ -1,0 +1,8 @@
+gene_symbol,Galnt13
+parameter_name,12kHz-evoked ABR Threshold
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2139447
+parameter_id,IMPC_ABR_006_001
+mouse_strain,C57BL
+analysis_id,w8013068pns56fr
+pvalue,0.5859239

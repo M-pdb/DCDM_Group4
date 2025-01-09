@@ -1,0 +1,8 @@
+parameter_id,IMPC_ABR_004_001
+gene_accession_id,MGI:95457
+analysis_id,yzcw1w76b8a9c53
+pvalue,0.9770446
+parameter_name,6kHz-evoked ABR Threshold
+mouse_strain,C3H
+mouse_life_stage,Early adult
+gene_symbol,Mecom

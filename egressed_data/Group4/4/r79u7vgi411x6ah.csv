@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1917113
+gene_symbol,Ttc39b
+analysis_id,r79u7vgi411x6ah
+parameter_name,18kHz-evoked ABR Threshold
+pvalue,0.4344427
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_008_001
+mouse_life_stage,Early adult

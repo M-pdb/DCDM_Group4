@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_015_001
+parameter_name,Naive CD8+ T cells - % of CD8+
+gene_accession_id,MGI:97838
+analysis_id,djr5cfxxq61wvq0
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.762997
+gene_symbol,Eprs1

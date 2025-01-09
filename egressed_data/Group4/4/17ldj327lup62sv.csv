@@ -1,0 +1,8 @@
+gene_symbol,Abitram
+mouse_life_stage,Early adult
+analysis_id,17ldj327lup62sv
+parameter_id,MGP_PBI_004_001
+parameter_name,CD8+ alpha beta T cell percentage
+gene_accession_id,MGI:2677850
+mouse_strain,C57BL
+pvalue,0.1442651

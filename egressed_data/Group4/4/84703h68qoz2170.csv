@@ -1,0 +1,8 @@
+parameter_name,Effector CD8+ T cells - % of CD45+
+gene_symbol,Hspa5
+parameter_id,MGP_IMM_081_001
+pvalue,0.1069237
+analysis_id,84703h68qoz2170
+mouse_strain,C57BL
+gene_accession_id,MGI:95835
+mouse_life_stage,E12.5

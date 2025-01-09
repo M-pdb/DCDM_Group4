@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914309
+parameter_id,JAX_LDT_002_001
+gene_symbol,Ola1
+mouse_strain,C57BL
+analysis_id,bsbi21s2w6sr4dn
+mouse_life_stage,Early adult
+pvalue,0.4111012
+parameter_name,Light side time spent

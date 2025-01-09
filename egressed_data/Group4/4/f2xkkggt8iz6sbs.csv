@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+mouse_strain,C57BL
+gene_symbol,Morn5
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1922745
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,f2xkkggt8iz6sbs
+pvalue,0.498607

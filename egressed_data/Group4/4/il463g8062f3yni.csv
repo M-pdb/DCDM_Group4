@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2444113
+analysis_id,il463g8062f3yni
+mouse_life_stage,Early adult
+pvalue,0.1704003
+parameter_id,IMPC_HEM_007_001
+gene_symbol,Nemp2
+mouse_strain,C57BL
+parameter_name,Mean cell hemoglobin concentration

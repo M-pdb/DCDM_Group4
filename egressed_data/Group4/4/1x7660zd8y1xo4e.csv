@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915889
+mouse_life_stage,Early adult
+mouse_strain,129SV
+parameter_id,MGP_IMM_129_001
+gene_symbol,Smyd2
+analysis_id,1x7660zd8y1xo4e
+parameter_name,CD11b-high cDC - % of CD45+
+pvalue,0.1786871

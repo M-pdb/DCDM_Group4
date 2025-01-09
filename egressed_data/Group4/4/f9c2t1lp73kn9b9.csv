@@ -1,0 +1,8 @@
+parameter_id,ESLIM_004_001_701
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Glucose response AUC
+gene_symbol,Dnajc6
+analysis_id,f9c2t1lp73kn9b9
+pvalue,0.4766179
+gene_accession_id,MGI:1919935

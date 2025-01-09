@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+mouse_life_stage,E15.5
+gene_symbol,Jun
+parameter_name,18kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_008_001
+analysis_id,j47b1mcd915kw4j
+mouse_strain,C57BL
+pvalue,0.7431652

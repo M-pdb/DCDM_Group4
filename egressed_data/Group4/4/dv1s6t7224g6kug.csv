@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1924054
+analysis_id,dv1s6t7224g6kug
+parameter_id,IMPC_GEP_022_001
+gene_symbol,Kdm4c
+parameter_name,Embryo Size
+mouse_life_stage,Early adult
+pvalue,0.3757936
+mouse_strain,C57BL

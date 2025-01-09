@@ -1,0 +1,8 @@
+gene_symbol,Cd52
+parameter_name,Neutrophil cell count
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_030_001
+pvalue,0.5078202
+mouse_strain,C57BL
+analysis_id,868d25051235768
+gene_accession_id,MGI:1346088

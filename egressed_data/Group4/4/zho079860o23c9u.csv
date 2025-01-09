@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+gene_accession_id,MGI:99501
+mouse_strain,C57BL
+analysis_id,zho079860o23c9u
+mouse_life_stage,E12.5
+pvalue,0.07818211
+parameter_name,Platelet count
+parameter_id,IMPC_HEM_008_001

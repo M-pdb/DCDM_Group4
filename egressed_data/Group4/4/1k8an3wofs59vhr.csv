@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Resting Treg cells - % of Treg
+gene_symbol,Serinc3
+parameter_id,MGP_MLN_010_001
+gene_accession_id,MGI:1349457
+pvalue,0.7127381
+analysis_id,1k8an3wofs59vhr

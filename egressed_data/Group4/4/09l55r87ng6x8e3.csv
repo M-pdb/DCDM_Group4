@@ -1,0 +1,8 @@
+gene_symbol,Tnfsf8
+parameter_name,Resting CD4+ T helper cells - % of CD45+
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,09l55r87ng6x8e3
+pvalue,0.4875399
+gene_accession_id,MGI:88328
+parameter_id,MGP_IMM_074_001

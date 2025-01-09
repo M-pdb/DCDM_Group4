@@ -1,0 +1,8 @@
+parameter_id,IMPC_IMM_034_001
+gene_symbol,Dnajc8
+analysis_id,kd8f28x61r2n8j7
+gene_accession_id,MGI:1915848
+parameter_name,CD8 CD44-CD62L+ T cells
+mouse_strain,C57BL
+pvalue,0.5407605
+mouse_life_stage,Early adult

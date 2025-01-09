@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:99915
+parameter_name,Area under glucose response curve
+parameter_id,IMPC_IPG_012_001
+gene_symbol,Lamb3
+mouse_life_stage,Early adult
+pvalue,0.4178061
+analysis_id,3gd7e6955r86pt4

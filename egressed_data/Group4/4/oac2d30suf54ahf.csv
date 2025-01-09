@@ -1,0 +1,8 @@
+gene_symbol,Usp37
+mouse_strain,C57BL
+analysis_id,oac2d30suf54ahf
+parameter_name,DN CD44+CD62L- NKT cells
+mouse_life_stage,Early adult
+parameter_id,IMPC_IMM_046_001
+gene_accession_id,MGI:2442483
+pvalue,0.9231193

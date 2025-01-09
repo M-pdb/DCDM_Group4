@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_009_001
+parameter_name,Effector Treg cells - % of Treg
+gene_symbol,Steap3
+gene_accession_id,MGI:1915678
+analysis_id,4s1vg82d188x6vi
+mouse_life_stage,Early adult
+pvalue,0.07031198
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2673000
+analysis_id,0vnc3wc213e2whs
+pvalue,0.6754464
+mouse_strain,C57BL
+parameter_id,IMPC_IMM_032_001
+mouse_life_stage,Early adult
+parameter_name,CD8 CD44+CD62L- T cells
+gene_symbol,Trim46

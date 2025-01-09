@@ -1,0 +1,8 @@
+parameter_name,30kHz-evoked ABR Threshold
+gene_symbol,Frmpd1
+gene_accession_id,MGI:2446274
+parameter_id,IMPC_ABR_012_001
+mouse_strain,C57BL
+analysis_id,xz93179bid7va58
+mouse_life_stage,Middle aged adult
+pvalue,0.7543041

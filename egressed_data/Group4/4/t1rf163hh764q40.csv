@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_001_001
+parameter_name,Total T cells - % of CD45+
+mouse_strain,C57BL
+pvalue,0.529365
+gene_accession_id,MGI:3026886
+gene_symbol,Cdin1
+mouse_life_stage,E9.5
+analysis_id,t1rf163hh764q40

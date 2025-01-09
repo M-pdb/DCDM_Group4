@@ -1,0 +1,8 @@
+parameter_name,Effector Treg cells - % of CD45+
+gene_symbol,Mapkap1
+mouse_strain,C57BL
+analysis_id,mcb190ow15c53wg
+gene_accession_id,MGI:2444554
+mouse_life_stage,E15.5
+parameter_id,MGP_IMM_077_001
+pvalue,0.41875

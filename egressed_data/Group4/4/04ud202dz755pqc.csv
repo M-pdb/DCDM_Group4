@@ -1,0 +1,8 @@
+parameter_name,Forelimb grip strength normalised against body weight
+gene_accession_id,MGI:2446186
+mouse_strain,C57BL
+mouse_life_stage,Middle aged adult
+analysis_id,04ud202dz755pqc
+pvalue,0.6402194
+parameter_id,HRWLLA_GRS_010_001
+gene_symbol,Lpgat1

@@ -1,0 +1,8 @@
+parameter_name,Bone Mineral Content (excluding skull)
+gene_symbol,Rigi
+parameter_id,IMPC_DXA_005_001
+mouse_strain,C59BL
+mouse_life_stage,Early adult
+analysis_id,v358p6i8j8h76si
+pvalue,0.9522654
+gene_accession_id,MGI:2442858

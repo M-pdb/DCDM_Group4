@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,a3qv53lx0063wv6
+gene_symbol,Lpgat1
+gene_accession_id,MGI:2446186
+parameter_name,Total Treg cells - % of CD45+
+parameter_id,MGP_IMM_076_001
+mouse_life_stage,Middle aged adult
+pvalue,0.3072554

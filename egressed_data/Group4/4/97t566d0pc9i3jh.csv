@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1341628
+gene_symbol,Atrn
+mouse_strain,C57BL
+parameter_name,NK cells (Panel A) - % of live leukocytes (Panel A)
+analysis_id,97t566d0pc9i3jh
+parameter_id,IMPC_IMM_005_002
+mouse_life_stage,Early adult
+pvalue,0.1582908

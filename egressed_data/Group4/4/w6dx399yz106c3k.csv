@@ -1,0 +1,8 @@
+gene_symbol,Uckl1
+parameter_name,Latency to first transition into dark
+gene_accession_id,MGI:1915806
+parameter_id,IMPC_LDT_006_001
+mouse_strain,C57BL
+pvalue,0.5395001
+analysis_id,w6dx399yz106c3k
+mouse_life_stage,Early adult

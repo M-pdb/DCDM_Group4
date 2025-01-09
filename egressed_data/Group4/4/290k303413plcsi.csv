@@ -1,0 +1,8 @@
+gene_symbol,Cds2
+gene_accession_id,MGI:1332236
+parameter_name,Limb coat/hair presence
+mouse_life_stage,Early adult
+pvalue,0.8180916
+parameter_id,MGP_CSD_030_001
+analysis_id,290k303413plcsi
+mouse_strain,C57BL

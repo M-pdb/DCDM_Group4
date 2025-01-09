@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Effector Treg cells - % of Treg
+parameter_id,MGP_MLN_009_001
+analysis_id,82wk9561kea50nv
+pvalue,0.7364654
+gene_accession_id,MGI:1921895
+gene_symbol,Tent5c

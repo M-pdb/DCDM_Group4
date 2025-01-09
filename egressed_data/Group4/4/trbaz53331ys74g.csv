@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_004_001
+mouse_life_stage,E18.5
+analysis_id,trbaz53331ys74g
+gene_accession_id,MGI:1334458
+parameter_name,RR
+gene_symbol,Pex19
+mouse_strain,C57BL
+pvalue,0.7783149

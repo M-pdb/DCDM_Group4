@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_001_001
+mouse_strain,C57BL
+analysis_id,vf18g920ph082bh
+parameter_name,Eye
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2385884
+gene_symbol,Ddx27
+pvalue,0.07619284

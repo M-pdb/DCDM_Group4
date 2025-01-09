@@ -1,0 +1,8 @@
+gene_symbol,Hspa5
+gene_accession_id,MGI:95835
+mouse_life_stage,E9.5
+parameter_id,IMPC_ECG_028_001
+parameter_name,QT
+mouse_strain,C57BL
+analysis_id,10lf2969btb674h
+pvalue,0.1722562

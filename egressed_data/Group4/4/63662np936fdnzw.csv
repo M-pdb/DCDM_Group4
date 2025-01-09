@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,CD8+ KLRG1+ alpha beta T cell number
+gene_accession_id,MGI:107414
+analysis_id,63662np936fdnzw
+gene_symbol,Tnfsf10
+parameter_id,MGP_PBI_033_001
+mouse_life_stage,Early adult
+pvalue,0.5413784

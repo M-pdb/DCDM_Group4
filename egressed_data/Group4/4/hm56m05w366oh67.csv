@@ -1,0 +1,8 @@
+analysis_id,hm56m05w366oh67
+parameter_id,IMPC_CBC_024_001
+mouse_strain,C57BL
+parameter_name,UIBC (unsaturated iron binding capacity)
+mouse_life_stage,E12.5
+gene_accession_id,MGI:95835
+pvalue,0.4390365
+gene_symbol,Hspa5

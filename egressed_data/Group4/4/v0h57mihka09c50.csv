@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914515
+gene_symbol,Slc39a10
+parameter_name,CD8 CD44-CD62L+ T cells
+analysis_id,v0h57mihka09c50
+parameter_id,IMPC_IMM_034_001
+mouse_life_stage,E9.5
+pvalue,0.4823162
+mouse_strain,C57BL

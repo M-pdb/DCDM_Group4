@@ -1,0 +1,8 @@
+gene_symbol,Abitram
+parameter_name,Forelimb grip strength normalised against body weight
+pvalue,0.2324465
+gene_accession_id,MGI:2677850
+analysis_id,82km1ga815u5251
+parameter_id,JAXLA_GRS_010_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL

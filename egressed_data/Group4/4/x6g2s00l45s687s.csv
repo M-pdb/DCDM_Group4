@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1934811
+mouse_life_stage,Late adult
+analysis_id,x6g2s00l45s687s
+parameter_name,DN CD44+CD62L+ NKT cells
+parameter_id,IMPC_IMM_047_001
+mouse_strain,C57BL
+pvalue,0.4526504
+gene_symbol,Nucks1

@@ -1,0 +1,8 @@
+analysis_id,s3j902zt3k5l1c3
+parameter_id,MGP_IMM_112_001
+mouse_strain,C57BL
+parameter_name,Follicular B cells - % of CD45+
+gene_accession_id,MGI:1276578
+Gene_symbol,Gfi1b
+mouse_life_stage,Early adult
+pvalue,0.146481

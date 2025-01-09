@@ -1,0 +1,8 @@
+gene_symbol,Eprs1
+mouse_strain,C57BL
+parameter_name,Effector CD8+ T cells - % of CD45+
+gene_accession_id,MGI:97838
+pvalue,0.9145401
+parameter_id,MGP_MLN_074_001
+analysis_id,kkb9941y0t1q143
+mouse_life_stage,Early adult

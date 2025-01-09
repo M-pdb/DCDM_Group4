@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923959
+gene_symbol,Arpc2
+analysis_id,569x7qcm3c8325s
+parameter_name,UIBC (unsaturated iron binding capacity)
+mouse_strain,129SV
+parameter_id,IMPC_CBC_024_001
+mouse_life_stage,Early adult
+pvalue,0.60698

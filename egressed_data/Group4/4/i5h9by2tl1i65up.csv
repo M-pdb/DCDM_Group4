@@ -1,0 +1,8 @@
+gene_symbol,Prkcq
+gene_accession_id,MGI:97601
+analysis_id,i5h9by2tl1i65up
+mouse_life_stage,Early adult
+parameter_name,NK cells (Panel A) - % of live leukocytes (Panel A)
+pvalue,0.617067
+mouse_strain,C57BL
+parameter_id,IMPC_IMM_005_002

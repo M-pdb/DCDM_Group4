@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,427e0ci4271j44n
+parameter_name,Neural tube closure
+gene_accession_id,MGI:2181659
+parameter_id,IMPC_GEL_027_001
+pvalue,0.1075324
+gene_symbol,Tox
+mouse_life_stage,Early adult

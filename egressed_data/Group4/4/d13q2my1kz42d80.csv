@@ -1,0 +1,8 @@
+parameter_name,Neutrophil percentage
+gene_accession_id,MGI:2444554
+parameter_id,MGP_PBI_019_001
+gene_symbol,Mapkap1
+analysis_id,d13q2my1kz42d80
+mouse_life_stage,E15.5
+mouse_strain,C57BL
+pvalue,0.1724431

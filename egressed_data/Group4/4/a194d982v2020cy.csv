@@ -1,0 +1,8 @@
+parameter_id,MGP_BMI_014_001
+gene_symbol,Pex19
+parameter_name,Mature B cells (Hardy fraction F) - % of CD45+
+gene_accession_id,MGI:1334458
+analysis_id,a194d982v2020cy
+pvalue,0.8654493
+mouse_life_stage,E18.5
+mouse_strain,C57BL

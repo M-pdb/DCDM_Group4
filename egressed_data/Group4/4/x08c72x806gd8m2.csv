@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1344367
+gene_symbol,Grem2
+parameter_name,Forelimb grip strength normalised against body weight
+mouse_strain,C57BL
+pvalue,0.1411304
+analysis_id,x08c72x806gd8m2
+parameter_id,IMPC_GRS_010_001
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_symbol,Tent5c
+gene_accession_id,MGI:1921895
+analysis_id,ga33r732s58wa7r
+mouse_strain,C57BL
+parameter_name,Basophil cell count
+pvalue,0.4346971
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_037_001

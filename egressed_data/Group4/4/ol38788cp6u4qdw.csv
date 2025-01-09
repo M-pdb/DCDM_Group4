@@ -1,0 +1,8 @@
+analysis_id,ol38788cp6u4qdw
+parameter_id,IMPC_HEM_007_001
+mouse_strain,C57BL
+parameter_name,Mean cell hemoglobin concentration
+gene_symbol,Mapkap1
+mouse_life_stage,Early adult
+pvalue,0.5082359
+gene_accession_id,MGI:2444554

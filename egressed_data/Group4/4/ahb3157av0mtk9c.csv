@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_130_001
+gene_accession_id,MGI:99501
+analysis_id,ahb3157av0mtk9c
+gene_symbol,Fgb
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+pvalue,0.3522875
+parameter_name,CD11b-low cDC - % of CD45+

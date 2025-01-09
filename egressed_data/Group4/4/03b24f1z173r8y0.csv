@@ -1,0 +1,8 @@
+parameter_name,Click-evoked ABR threshold
+parameter_id,IMPC_ABR_002_001
+mouse_strain,C57BL
+analysis_id,03b24f1z173r8y0
+gene_symbol,Rufy4
+mouse_life_stage,Early adult
+pvalue,0.2841956
+gene_accession_id,MGI:3588214

@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_014_001
+mouse_strain,C57BL
+analysis_id,hnbf44cpnv15860
+gene_accession_id,MGI:1921442
+gene_symbol,Arpc5l
+mouse_life_stage,Early adult
+pvalue,0.1474967
+parameter_name,B cell percentage

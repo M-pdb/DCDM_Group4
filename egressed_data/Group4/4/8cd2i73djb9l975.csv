@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Effector CD4+ T helper cells - % of CD45+
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1919949
+parameter_id,MGP_MLN_066_001
+analysis_id,8cd2i73djb9l975
+pvalue,0.4051137
+gene_symbol,Lime1

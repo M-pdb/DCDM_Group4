@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_030_001
+gene_symbol,Smyd2
+parameter_name,Neutrophil cell count
+mouse_life_stage,Early adult
+mouse_strain,129SV
+gene_accession_id,MGI:1915889
+analysis_id,4e7z4s60tj4av58
+pvalue,0.8613681

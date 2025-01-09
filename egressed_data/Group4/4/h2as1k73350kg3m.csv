@@ -1,0 +1,8 @@
+gene_symbol,Arnt
+gene_accession_id,MGI:88071
+mouse_strain,C57BL
+analysis_id,h2as1k73350kg3m
+parameter_id,MGP_PBI_003_001
+mouse_life_stage,Early adult
+pvalue,0.6203246
+parameter_name,CD4+ alpha beta T cell percentage

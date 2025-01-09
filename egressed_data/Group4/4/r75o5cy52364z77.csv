@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Resting CD8+ T cells - % of CD8+
+gene_accession_id,MGI:2673064
+analysis_id,r75o5cy52364z77
+gene_symbol,Tnfsf18
+parameter_id,MGP_IMM_015_001
+mouse_strain,C57BL
+pvalue,0.198993

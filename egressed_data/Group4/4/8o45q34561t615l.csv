@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_083_001
+parameter_name,Naive CD8+ T cells - % of CD45+
+gene_accession_id,MGI:106100
+analysis_id,8o45q34561t615l
+gene_symbol,Etfdh
+pvalue,0.697199
+mouse_strain,C57BL

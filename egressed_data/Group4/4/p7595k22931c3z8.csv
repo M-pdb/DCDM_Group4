@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:95835
+parameter_id,MGP_IMM_016_001
+gene_symbol,Hspa5
+analysis_id,p7595k22931c3z8
+mouse_life_stage,E9.5
+pvalue,0.8004968
+parameter_name,Naive CD8+ T cells - % of CD8+

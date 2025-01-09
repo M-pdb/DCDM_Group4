@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_076_001
+mouse_strain,C57BL
+gene_accession_id,MGI:2673064
+analysis_id,k2x31z84a0b535d
+gene_symbol,Tnfsf18
+parameter_name,Naive CD8+ T cells - % of CD45+
+pvalue,0.624509
+mouse_life_stage,Early adult

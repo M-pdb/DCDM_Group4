@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915889
+parameter_name,CD4+ KLRG1+ alpha beta T cell percentage
+parameter_id,MGP_PBI_012_001
+analysis_id,32io8ny39gew9co
+mouse_life_stage,Early adult
+gene_symbol,Smyd2
+pvalue,0.243137
+mouse_strain,C57BL

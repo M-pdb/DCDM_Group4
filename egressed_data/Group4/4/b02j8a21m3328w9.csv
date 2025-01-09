@@ -1,0 +1,8 @@
+gene_symbol,Bcs1l
+parameter_name,Breath rate during sleep standard deviation
+gene_accession_id,MGI:1914071
+parameter_id,JAX_SLW_014_001
+mouse_life_stage,Early adult
+analysis_id,b02j8a21m3328w9
+pvalue,0.7091604
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+parameter_name,CD11b-low cDC - % of cDC
+gene_symbol,Mecom
+analysis_id,j985a7dk3iju1n4
+mouse_strain,C57BL
+pvalue,0.1175805
+mouse_life_stage,E12.5
+parameter_id,MGP_IMM_067_001

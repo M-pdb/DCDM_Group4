@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,MGP_IMM_078_001
+parameter_name,Resting Treg cells - % of CD45+
+analysis_id,plh4x87vg7xl00h
+gene_symbol,Bmi1
+gene_accession_id,MGI:88174
+pvalue,0.7534319

@@ -1,0 +1,8 @@
+analysis_id,73pb4kg638sfg5z
+parameter_id,IMPC_ECG_010_001
+parameter_name,HRV
+mouse_strain,C57BL
+pvalue,0.8212511
+mouse_life_stage,E12.5
+gene_accession_id,MGI:1913483
+gene_symbol,Dmap1

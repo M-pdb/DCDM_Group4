@@ -1,0 +1,8 @@
+parameter_id,IMPC_ABR_012_001
+parameter_name,30kHz-evoked ABR Threshold
+analysis_id,u221800zm7g9685
+gene_accession_id,MGI:1915889
+gene_symbol,Smyd2
+mouse_life_stage,Early adult
+mouse_strain,129SV
+pvalue,0.09335524

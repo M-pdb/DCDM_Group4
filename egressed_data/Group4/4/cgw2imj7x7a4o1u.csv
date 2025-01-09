@@ -1,0 +1,8 @@
+gene_symbol,Hnf4a
+mouse_life_stage,Late adult
+parameter_name,Naive CD8+ T cells - % of CD8+
+analysis_id,cgw2imj7x7a4o1u
+parameter_id,MGP_MLN_015_001
+gene_accession_id,MGI:109128
+mouse_strain,C57BL
+pvalue,0.4682194

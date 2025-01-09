@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_OFD_011_001
+parameter_name,Periphery resting time
+gene_accession_id,MGI:1914515
+pvalue,0.242086
+analysis_id,293b859uf9wna17
+gene_symbol,Slc39a10

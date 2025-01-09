@@ -1,0 +1,8 @@
+gene_symbol,Cdk18
+gene_accession_id,MGI:97518
+analysis_id,vs0978a5g89nzv5
+pvalue,0.3010689
+mouse_life_stage,Early adult
+parameter_name,Neutrophil cell count
+mouse_strain,C57BL
+parameter_id,IMPC_HEM_030_001

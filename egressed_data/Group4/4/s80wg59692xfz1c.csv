@@ -1,0 +1,8 @@
+analysis_id,s80wg59692xfz1c
+mouse_strain,129SV
+mouse_life_stage,Early adult
+parameter_id,ESLIM_011_001_010
+gene_symbol,Arpc2
+pvalue,0.1723954
+parameter_name,PP4 + pulse startle magnitude
+gene_accession_id,MGI:1923959

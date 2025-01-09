@@ -1,0 +1,8 @@
+parameter_name,PP1 + pulse startle magnitude
+parameter_id,ESLIM_011_001_007
+gene_symbol,Rab17
+gene_accession_id,MGI:104640
+mouse_strain,C57BL
+analysis_id,5p4xc382ypxp062
+mouse_life_stage,Early adult
+pvalue,0.5963418

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E18.5
+analysis_id,ce97fe3zc7yky33
+parameter_name,Startle response
+pvalue,0.3752773
+gene_accession_id,MGI:1914561
+gene_symbol,Nanp
+parameter_id,MGP_CSD_008_001

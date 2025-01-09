@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_027_001
+analysis_id,u9y24287f1x1d38
+parameter_name,Red blood cell distribution width
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_accession_id,MGI:97838
+gene_symbol,Eprs1
+pvalue,0.9006291

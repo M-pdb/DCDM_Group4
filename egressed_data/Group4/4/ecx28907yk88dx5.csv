@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Center average speed
+parameter_id,IMPC_OFD_017_001
+gene_symbol,Tiprl
+gene_accession_id,MGI:1915087
+analysis_id,ecx28907yk88dx5
+pvalue,0.6411887

@@ -1,0 +1,8 @@
+parameter_name,Basophil cell count
+parameter_id,IMPC_HEM_037_001
+analysis_id,70b4276ojeo8voc
+mouse_strain,C57BL
+gene_symbol,Hpca
+mouse_life_stage,Late adult
+pvalue,0.6134875
+gene_accession_id,MGI:1336200

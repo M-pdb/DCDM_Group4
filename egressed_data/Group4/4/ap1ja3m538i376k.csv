@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_009_001
+parameter_name,Corneal vascularization
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,ap1ja3m538i376k
+pvalue,0.9187686
+gene_accession_id,MGI:2653612
+gene_symbol,Amigo1

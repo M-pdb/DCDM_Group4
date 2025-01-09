@@ -1,0 +1,8 @@
+parameter_id,IMPC_GEL_027_001
+parameter_name,Neural tube closure
+analysis_id,69i0p1v18ry0v12
+gene_symbol,Pdia3
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.8621845
+gene_accession_id,MGI:95834

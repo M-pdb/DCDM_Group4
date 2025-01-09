@@ -1,0 +1,8 @@
+gene_symbol,Ddx27
+mouse_strain,129SV
+parameter_name,Forelimb grip strength normalised against body weight
+analysis_id,k658gp781405879
+parameter_id,JAXLA_GRS_010_001
+mouse_life_stage,Early adult
+pvalue,0.6669484
+gene_accession_id,MGI:2385884

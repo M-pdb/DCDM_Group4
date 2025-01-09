@@ -1,0 +1,8 @@
+parameter_name,Forelimb grip strength measurement mean
+parameter_id,IMPC_GRS_008_001
+mouse_strain,C57BL
+pvalue,0.136418
+analysis_id,mx1i56ij7v32280
+gene_symbol,Mov10
+gene_accession_id,MGI:97054
+mouse_life_stage,Early adult

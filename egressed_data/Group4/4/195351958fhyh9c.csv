@@ -1,0 +1,8 @@
+mouse_strain,129SV
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_076_001
+parameter_name,Total Treg cells - % of CD45+
+gene_accession_id,MGI:1918025
+pvalue,0.4499495
+analysis_id,195351958fhyh9c
+gene_symbol,Zmynd8

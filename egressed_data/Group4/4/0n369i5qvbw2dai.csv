@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_008_001
+parameter_name,ST
+gene_symbol,Rab13
+gene_accession_id,MGI:1927232
+analysis_id,0n369i5qvbw2dai
+mouse_strain,C57BL
+pvalue,0.4175663
+mouse_life_stage,Early adult

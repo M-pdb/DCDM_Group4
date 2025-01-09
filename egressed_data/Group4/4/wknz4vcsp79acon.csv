@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_009_001
+mouse_life_stage,E18.5
+mouse_strain,C57BL
+analysis_id,wknz4vcsp79acon
+gene_symbol,Lpgat1
+parameter_name,Effector Treg cells - % of Treg
+gene_accession_id,MGI:2446186
+pvalue,0.3193005

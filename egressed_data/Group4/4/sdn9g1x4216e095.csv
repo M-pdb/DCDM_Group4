@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+gene_symbol,Mecom
+mouse_strain,C57BL
+parameter_name,CD103+ CD11b-low cDC - % of CD45+
+analysis_id,sdn9g1x4216e095
+parameter_id,MGP_IMM_131_001
+pvalue,0.4350007
+mouse_life_stage,E15.5

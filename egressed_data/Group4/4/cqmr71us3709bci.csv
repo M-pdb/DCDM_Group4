@@ -1,0 +1,8 @@
+gene_symbol,Extl1
+parameter_name,Mean left eye lens density
+analysis_id,cqmr71us3709bci
+parameter_id,IMPC_EYE_056_001
+gene_accession_id,MGI:1888742
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.9263339

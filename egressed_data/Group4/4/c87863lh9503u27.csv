@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_006_001
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Mean corpuscular hemoglobin
+pvalue,0.4904643
+analysis_id,c87863lh9503u27
+gene_accession_id,MGI:1916220
+gene_symbol,Dcaf12

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+gene_accession_id,MGI:97838
+gene_symbol,Eprs1
+pvalue,0.9362068
+analysis_id,oe5x506t23309j0
+parameter_id,MGP_MLN_076_001
+parameter_name,Naive CD8+ T cells - % of CD45+

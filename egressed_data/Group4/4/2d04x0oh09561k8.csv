@@ -1,0 +1,8 @@
+gene_symbol,Tiprl
+parameter_name,CD8+ KLRG1+ alpha beta T cell number
+mouse_life_stage,E9.5
+mouse_strain,C57BL
+parameter_id,MGP_PBI_033_001
+gene_accession_id,MGI:1915087
+pvalue,0.847612
+analysis_id,2d04x0oh09561k8

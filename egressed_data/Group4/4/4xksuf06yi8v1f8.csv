@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921442
+parameter_name,CD4+ T helper cells - % of CD45+
+gene_symbol,Arpc5l
+parameter_id,MGP_IMM_072_001
+analysis_id,4xksuf06yi8v1f8
+pvalue,0.3233404
+mouse_life_stage,Early adult
+mouse_strain,C57BL

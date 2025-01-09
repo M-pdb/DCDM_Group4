@@ -1,0 +1,8 @@
+gene_symbol,Mov10
+pvalue,0.6482396
+analysis_id,h758fjwu7031jxb
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Latency to first transition into dark
+parameter_id,IMPC_LDT_006_001
+gene_accession_id,MGI:97054

@@ -1,0 +1,8 @@
+parameter_name,Basophil cell count
+gene_accession_id,MGI:99501
+parameter_id,IMPC_HEM_037_001
+gene_symbol,Fgb
+analysis_id,6b5680t5229qnqt
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+pvalue,0.776929

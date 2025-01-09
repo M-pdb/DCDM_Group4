@@ -1,0 +1,8 @@
+gene_symbol,Mecom
+parameter_name,6kHz-evoked ABR Threshold
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_004_001
+gene_accession_id,MGI:95457
+pvalue,0.934806
+mouse_life_stage,E15.5
+analysis_id,wjqief973e126p5

@@ -1,0 +1,8 @@
+analysis_id,zz4000165bo1e50
+parameter_id,IMPC_ECG_003_001
+mouse_life_stage,E18.5
+mouse_strain,C57BL
+parameter_name,CV
+gene_accession_id,MGI:2446186
+gene_symbol,Lpgat1
+pvalue,0.2423965

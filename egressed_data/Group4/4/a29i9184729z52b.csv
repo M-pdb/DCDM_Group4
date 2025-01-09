@@ -1,0 +1,8 @@
+parameter_id,IMPC_GRS_010_001
+gene_accession_id,MGI:1338032
+parameter_name,Forelimb grip strength normalised against body weight
+analysis_id,a29i9184729z52b
+mouse_strain,C57BL
+pvalue,0.5805871
+mouse_life_stage,Early adult
+gene_symbol,Sema6c

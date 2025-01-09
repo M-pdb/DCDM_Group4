@@ -1,0 +1,8 @@
+parameter_name,Effector CD8+ T cells - % of CD8+
+gene_accession_id,MGI:97838
+gene_symbol,Eprs1
+analysis_id,ltceffn2mzfh06r
+parameter_id,MGP_IMM_014_001
+pvalue,0.5880549
+mouse_life_stage,E9.5
+mouse_strain,C57BL

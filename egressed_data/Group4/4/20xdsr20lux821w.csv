@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1914556
+gene_symbol,Zc2hc1a
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_019_001
+pvalue,0.9836078
+parameter_name,Mean platelet volume
+analysis_id,20xdsr20lux821w

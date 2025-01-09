@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,d460k57jie80p96
+gene_symbol,Galnt13
+gene_accession_id,MGI:2139447
+parameter_id,IMPC_OFD_007_001
+pvalue,0.2343376
+parameter_name,Whole arena resting time

@@ -1,0 +1,8 @@
+parameter_name,Neutrophil cell count
+parameter_id,IMPC_HEM_030_001
+gene_accession_id,MGI:1344367
+analysis_id,250gck7r1vp7kd5
+pvalue,0.6500729
+mouse_strain,C57BL
+gene_symbol,Grem2
+mouse_life_stage,E18.5

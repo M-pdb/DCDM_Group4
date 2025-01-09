@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Lean/Body weight
+gene_accession_id,MGI:1914556
+parameter_id,IMPC_DXA_008_001
+pvalue,0.7342471
+analysis_id,gsv7v027wnbpv0a
+gene_symbol,Zc2hc1a

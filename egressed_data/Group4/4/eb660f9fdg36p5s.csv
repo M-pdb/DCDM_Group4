@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_symbol,Lime1
+mouse_life_stage,Early adult
+analysis_id,eb660f9fdg36p5s
+gene_accession_id,MGI:1919949
+parameter_name,Effector CD8+ T cells - % of CD8+
+parameter_id,MGP_MLN_013_001
+pvalue,0.8206398

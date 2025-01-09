@@ -1,0 +1,8 @@
+parameter_name,NKT cells (panel A) - % of live leukocytes (Panel A)
+parameter_id,IMPC_IMM_004_002
+analysis_id,64a0f26257xeh61
+pvalue,0.7224961
+gene_accession_id,MGI:88174
+gene_symbol,Bmi1
+mouse_strain,C57BL
+mouse_life_stage,E15.5

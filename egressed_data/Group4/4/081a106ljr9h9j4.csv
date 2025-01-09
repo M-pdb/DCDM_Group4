@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,JAX_LDT_009_001
+parameter_name,Percent time in light
+mouse_life_stage,E18.5
+analysis_id,081a106ljr9h9j4
+pvalue,0.1558
+gene_symbol,Pex19
+gene_accession_id,MGI:1334458

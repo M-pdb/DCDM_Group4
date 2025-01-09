@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Middle aged adult
+parameter_name,% Pre-pulse inhibition - PPI2
+gene_symbol,Plcb1
+gene_accession_id,MGI:97613
+parameter_id,IMPC_ACS_034_001
+analysis_id,z1j44d09894bsnz
+pvalue,0.6340307

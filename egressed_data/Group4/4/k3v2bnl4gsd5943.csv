@@ -1,0 +1,8 @@
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell percentage
+parameter_id,MGP_PBI_010_001
+analysis_id,k3v2bnl4gsd5943
+gene_accession_id,MGI:1913483
+gene_symbol,Dmap1
+pvalue,0.3291821
+mouse_life_stage,E12.5
+mouse_strain,C57BL

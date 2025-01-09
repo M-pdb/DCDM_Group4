@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_003_001
+Mouse_strain,C57BL
+mouse_life_stage,Early adult
+Parameter_name,Hemoglobin
+Analysis_id,6240b0i0oqj7w2e
+Pvalue,0.9958718
+gene_accession_id,MGI:95457
+Gene_symbol,Mecom

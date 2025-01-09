@@ -1,0 +1,8 @@
+parameter_name,Mean right eye lens density
+analysis_id,r6q1cg0j5emgw2r
+parameter_id,IMPC_EYE_059_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.1546067
+gene_symbol,Opn3
+gene_accession_id,MGI:1338022

@@ -1,0 +1,8 @@
+parameter_name,Effector Treg cells - % of CD45+
+mouse_strain,C57BL
+gene_accession_id,MGI:2674093
+gene_symbol,Psd4
+analysis_id,t415kneu7iu935n
+pvalue,0.8663907
+parameter_id,MGP_MLN_070_001
+mouse_life_stage,Early adult

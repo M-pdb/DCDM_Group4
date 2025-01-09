@@ -1,0 +1,8 @@
+parameter_name,Effector CD4- NKT cells - % of CD4- NKT cells
+mouse_strain,C57BL
+gene_accession_id,MGI:2446274
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_026_001
+analysis_id,be2bx4l225j94ap
+gene_symbol,Frmpd1
+pvalue,0.3451569

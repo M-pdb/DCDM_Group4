@@ -1,0 +1,8 @@
+parameter_id,ESLIM_011_001_705
+parameter_name,Global prepulse inhibition
+mouse_strain,C57BL
+analysis_id,2g0w361f901y241
+mouse_life_stage,Early adult
+pvalue,0.5780433
+gene_accession_id,MGI:1923959
+gene_symbol,Arpc2

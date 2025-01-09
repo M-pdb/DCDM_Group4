@@ -1,0 +1,8 @@
+parameter_name,Neutrophil percentage
+analysis_id,glc81i40qxv7381
+parameter_id,MGP_PBI_019_001
+mouse_strain,129SV
+pvalue,0.319687
+gene_symbol,Mms22l
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2684980

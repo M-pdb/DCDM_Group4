@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,ldn79a4hfr96n65
+gene_accession_id,MGI:97838
+gene_symbol,Eprs1
+parameter_name,Immature B cells (Hardy fraction E) - % of B220+
+mouse_life_stage,E12.5
+pvalue,0.09455225
+parameter_id,MGP_BMI_006_001

@@ -1,0 +1,8 @@
+gene_symbol,Eprs1
+analysis_id,150lus1b40em2v4
+mouse_strain,C57BL
+parameter_name,KLRG1+ Treg cells - % of Treg
+parameter_id,MGP_MLN_011_001
+gene_accession_id,MGI:97838
+mouse_life_stage,E9.5
+pvalue,0.1802391

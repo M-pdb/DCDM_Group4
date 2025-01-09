@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+gene_accession_id,MGI:1923959
+analysis_id,1aw0b75050122p8
+parameter_id,IMPC_OFD_022_001
+pvalue,0.8315462
+mouse_life_stage,Early adult
+mouse_strain,129SV
+parameter_name,Percentage center time

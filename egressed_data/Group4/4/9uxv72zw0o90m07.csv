@@ -1,0 +1,8 @@
+parameter_name,CD4+ T helper cells - % of CD45+
+gene_symbol,Fsd1l
+mouse_strain,C57BL
+parameter_id,MGP_MLN_065_001
+analysis_id,9uxv72zw0o90m07
+mouse_life_stage,E18.5
+pvalue,0.7723994
+gene_accession_id,MGI:2442443

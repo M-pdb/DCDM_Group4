@@ -1,0 +1,8 @@
+parameter_id,IMPC_GEL_063_001
+parameter_name,Delayed embryonic development
+pvalue,0.7354433
+mouse_strain,C57BL
+analysis_id,21880o4313t725y
+mouse_life_stage,E12.5
+gene_symbol,Bmi1
+gene_accession_id,MGI:88174

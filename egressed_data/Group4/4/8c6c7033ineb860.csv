@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+mouse_strain,C57BL
+gene_symbol,Fgb
+analysis_id,8c6c7033ineb860
+pvalue,0.888506
+parameter_name,Breath rate during sleep mean
+parameter_id,JAX_SLW_013_001
+mouse_life_stage,E12.5

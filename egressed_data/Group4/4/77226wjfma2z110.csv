@@ -1,0 +1,8 @@
+gene_symbol,Tox
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:2181659
+analysis_id,77226wjfma2z110
+parameter_id,ICS_FEA_016_001
+parameter_name,% Freezing duration habituation-1
+pvalue,0.9715635

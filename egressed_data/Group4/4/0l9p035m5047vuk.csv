@@ -1,0 +1,8 @@
+gene_symbol,Casq1
+gene_accession_id,MGI:1309468
+mouse_strain,C57BL
+pvalue,0.9603995
+parameter_id,IMPC_HEM_007_001
+analysis_id,0l9p035m5047vuk
+parameter_name,Mean cell hemoglobin concentration
+mouse_life_stage,Early adult

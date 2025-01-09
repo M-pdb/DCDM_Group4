@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_063_001
+mouse_life_stage,Early adult
+parameter_name,Total ab T cells - % of CD45+
+analysis_id,p4kyj8p36533g6h
+pvalue,0.3129232
+mouse_strain,C57BL
+gene_accession_id,MGI:1915472
+gene_symbol,Tubb4b

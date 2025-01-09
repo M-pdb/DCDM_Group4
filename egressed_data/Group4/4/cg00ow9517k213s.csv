@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1341628
+gene_symbol,Atrn
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ECG_010_001
+pvalue,0.7242762
+parameter_name,HRV
+analysis_id,cg00ow9517k213s

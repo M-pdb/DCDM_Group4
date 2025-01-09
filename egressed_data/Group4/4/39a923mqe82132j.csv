@@ -1,0 +1,8 @@
+mouse_strain,129SV
+mouse_life_stage,Early adult
+gene_symbol,Zmynd8
+parameter_name,Naive CD8+ T cells - % of CD45+
+pvalue,0.8410975
+parameter_id,MGP_MLN_076_001
+analysis_id,39a923mqe82132j
+gene_accession_id,MGI:1918025

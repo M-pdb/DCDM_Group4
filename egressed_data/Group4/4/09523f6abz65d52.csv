@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:96646
+analysis_id,09523f6abz65d52
+gene_symbol,Jun
+mouse_life_stage,E15.5
+pvalue,0.5854299
+parameter_name,Effector NK cells - % of CD45+
+parameter_id,MGP_MLN_091_001

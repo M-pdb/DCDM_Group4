@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+parameter_name,Right kidney weight
+analysis_id,p23uk639v6q6o2f
+pvalue,0.312093
+mouse_life_stage,E15.5
+mouse_strain,C57BL
+parameter_id,IMPC_OWT_004_001
+gene_symbol,Fgb

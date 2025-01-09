@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,u8d3fpp3atfhw2j
+parameter_name,Left total retinal thickness
+parameter_id,IMPC_EYE_068_001
+mouse_life_stage,E12.5
+gene_symbol,Sass6
+pvalue,0.865914
+gene_accession_id,MGI:1920026

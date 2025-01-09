@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+parameter_name,Urea (Blood Urea Nitrogen - BUN)
+gene_accession_id,MGI:2444554
+pvalue,0.1832837
+analysis_id,30y58tqt1qucg7b
+parameter_id,IMPC_CBC_004_001
+mouse_strain,C57BL
+mouse_life_stage,E12.5

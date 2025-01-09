@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_006_001
+pvalue,0.4219779
+parameter_name,12kHz-evoked ABR Threshold
+analysis_id,r9w7lxfko54ev16

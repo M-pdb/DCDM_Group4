@@ -1,0 +1,8 @@
+gene_symbol,Hpca
+mouse_strain,C57BL
+gene_accession_id,MGI:1336200
+analysis_id,24oj26hb52dexg3
+pvalue,0.2623964
+parameter_name,NKT cells (panel A) - % of live leukocytes (Panel A)
+mouse_life_stage,Late adult
+parameter_id,IMPC_IMM_004_002

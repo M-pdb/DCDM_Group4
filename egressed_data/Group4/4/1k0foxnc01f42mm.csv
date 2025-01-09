@@ -1,0 +1,8 @@
+gene_symbol,Inpp1
+mouse_life_stage,Early adult
+gene_accession_id,MGI:104848
+analysis_id,1k0foxnc01f42mm
+mouse_strain,129SV
+parameter_id,M-G-P_007_001_010
+pvalue,0.7259628
+parameter_name,center - distance

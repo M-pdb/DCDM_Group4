@@ -1,0 +1,8 @@
+gene_symbol,Hspa5
+gene_accession_id,MGI:95835
+mouse_life_stage,Early adult
+analysis_id,h9549m9hc2z6xq1
+parameter_id,IMPC_ABR_010_001
+pvalue,0.09886822
+parameter_name,24kHz-evoked ABR Threshold
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+gene_symbol,Smyd2
+mouse_strain,129SV
+parameter_name,White blood cell count
+analysis_id,595v26ut5oj4jsl
+gene_accession_id,MGI:1915889
+parameter_id,IMPC_HEM_001_001
+pvalue,0.5754849
+mouse_life_stage,Early adult

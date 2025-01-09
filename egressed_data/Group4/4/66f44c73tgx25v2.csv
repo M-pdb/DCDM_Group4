@@ -1,0 +1,8 @@
+gene_symbol,Gpa33
+gene_accession_id,MGI:1891703
+analysis_id,66f44c73tgx25v2
+parameter_id,IMPC_OFD_018_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.1553168
+parameter_name,Latency to center entry

@@ -1,0 +1,8 @@
+analysis_id,i64v7797z628nf8
+mouse_strain,C57BL
+parameter_name,Light side time spent
+gene_accession_id,MGI:97601
+parameter_id,JAX_LDT_002_001
+pvalue,0.1990004
+mouse_life_stage,Early adult
+gene_symbol,Prkcq

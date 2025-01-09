@@ -1,0 +1,8 @@
+Mouse_strain,C57BL
+Mouse_life_stage,Early adult
+parameter_name,Urea (Blood Urea Nitrogen - BUN)
+parameter_id,IMPC_CBC_004_001
+analysis_id,295ss782z4pspsi
+Gene_symbol,Trp53rkb
+pvalue,0.5751391
+Gene_accession_id,MGI:1914050

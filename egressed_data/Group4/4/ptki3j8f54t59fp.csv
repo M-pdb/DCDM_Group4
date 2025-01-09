@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,MGP_IMM_066_001
+pvalue,0.5294593
+parameter_name,CD11b-high cDC - % of cDC
+analysis_id,ptki3j8f54t59fp

@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_007_001
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,z37u38y86p1fh74
+mouse_strain,C56BL
+mouse_life_stage,Early adult
+gene_symbol,Bach2
+pvalue,0.3292885
+gene_accession_id,MGI:894679

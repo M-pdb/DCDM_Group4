@@ -1,0 +1,8 @@
+gene_symbol,Bach2
+parameter_name,Bone Mineral Content (excluding skull)
+analysis_id,7592vy0sis47826
+parameter_id,IMPC_DXA_005_001
+pvalue,0.4911577
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:894679

@@ -1,0 +1,8 @@
+analysis_id,b3l76hs91z48nyp
+gene_accession_id,MGI:1915472
+pvalue,0.3988614
+gene_symbol,Tubb4b
+mouse_strain,C57BL
+parameter_name,6kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_004_001
+mouse_life_stage,Early adult

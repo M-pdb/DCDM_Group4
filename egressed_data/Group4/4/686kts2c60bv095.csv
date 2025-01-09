@@ -1,0 +1,8 @@
+gene_symbol,Tent5c
+parameter_name,Forelimb grip strength normalised against body weight
+pvalue,0.8730364
+gene_accession_id,MGI:1921895
+analysis_id,686kts2c60bv095
+parameter_id,JAXLA_GRS_010_001
+mouse_strain,C57BL
+mouse_life_stage,Early adult

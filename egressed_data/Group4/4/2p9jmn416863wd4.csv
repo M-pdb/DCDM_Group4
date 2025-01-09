@@ -1,0 +1,8 @@
+gene_symbol,AU040320
+parameter_name,Latency to first transition into dark
+analysis_id,2p9jmn416863wd4
+gene_accession_id,MGI:2140475
+mouse_strain,C59BL
+pvalue,0.2047717
+parameter_id,IMPC_LDT_006_001
+mouse_life_stage,Early adult

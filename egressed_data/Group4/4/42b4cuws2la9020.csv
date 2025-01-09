@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_010_001
+pvalue,0.2701212
+analysis_id,42b4cuws2la9020
+gene_accession_id,MGI:1915325
+gene_symbol,Lurap1
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,HRV

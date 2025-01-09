@@ -1,0 +1,8 @@
+parameter_name,Bone Mineral Content (excluding skull)
+parameter_id,IMPC_DXA_005_001
+analysis_id,g97h8oyd270l21f
+mouse_life_stage,Early adult
+pvalue,0.8708313
+mouse_strain,C57BL
+gene_accession_id,MGI:1917810
+gene_symbol,Wars2

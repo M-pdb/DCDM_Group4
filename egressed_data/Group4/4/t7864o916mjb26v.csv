@@ -1,0 +1,8 @@
+parameter_id,IMPC_IPG_011_001
+mouse_life_stage,Early adult
+gene_symbol,Rnd3
+parameter_name,Initial response to glucose challenge
+analysis_id,t7864o916mjb26v
+mouse_strain,C57BL
+gene_accession_id,MGI:1921444
+pvalue,0.2261929

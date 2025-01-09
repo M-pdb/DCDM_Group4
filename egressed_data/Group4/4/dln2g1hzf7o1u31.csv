@@ -1,0 +1,8 @@
+gene_symbol,Plcb1
+mouse_life_stage,Late adult
+parameter_name,PP1 + pulse startle magnitude
+gene_accession_id,MGI:97613
+parameter_id,ESLIM_011_001_007
+analysis_id,dln2g1hzf7o1u31
+pvalue,0.5062999
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E18.5
+analysis_id,70vw09b386ck2v6
+parameter_id,HMGULA_HWT_008_001
+parameter_name,Heart weight
+gene_symbol,Nanp
+pvalue,0.596173
+gene_accession_id,MGI:1914561

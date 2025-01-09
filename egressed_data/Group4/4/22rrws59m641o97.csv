@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923959
+analysis_id,22rrws59m641o97
+parameter_name,Initial response to glucose challenge
+parameter_id,IMPC_IPG_011_001
+gene_symbol,Arpc2
+mouse_life_stage,Early adult
+pvalue,0.7000188
+mouse_strain,129SV

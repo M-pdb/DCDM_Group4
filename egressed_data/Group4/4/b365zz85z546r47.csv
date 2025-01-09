@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_031_001
+analysis_id,b365zz85z546r47
+mouse_strain,C57BL
+parameter_name,Lymphocyte differential count
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1918764
+pvalue,0.8262286
+gene_symbol,Sfpq

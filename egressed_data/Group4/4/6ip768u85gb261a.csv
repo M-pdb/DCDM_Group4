@@ -1,0 +1,8 @@
+gene_symbol,Eprs1
+gene_accession_id,MGI:97838
+mouse_strain,C57BL
+analysis_id,6ip768u85gb261a
+parameter_id,MGP_IMM_070_001
+pvalue,0.7946791
+mouse_life_stage,Early adult
+parameter_name,Total ab T cells - % of CD45+

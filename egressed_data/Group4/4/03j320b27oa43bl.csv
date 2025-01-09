@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Ubl4b
+gene_accession_id,MGI:1914841
+analysis_id,03j320b27oa43bl
+parameter_name,Macrophages - % of CD45+
+parameter_id,MGP_IMM_121_001
+pvalue,0.6818589

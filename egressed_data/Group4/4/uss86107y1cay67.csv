@@ -1,0 +1,8 @@
+gene_symbol,Cdin1
+mouse_strain,C57BL
+analysis_id,uss86107y1cay67
+gene_accession_id,MGI:3026886
+mouse_life_stage,E9.5
+pvalue,0.05750489
+parameter_id,IMPC_ECG_002_001
+parameter_name,HR

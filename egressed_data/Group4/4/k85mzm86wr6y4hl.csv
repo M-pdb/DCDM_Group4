@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+parameter_name,6kHz-evoked ABR Threshold
+mouse_life_stage,E12.5
+parameter_id,IMPC_ABR_004_001
+analysis_id,k85mzm86wr6y4hl
+pvalue,0.9796962
+gene_accession_id,MGI:88174
+mouse_strain,C57BL

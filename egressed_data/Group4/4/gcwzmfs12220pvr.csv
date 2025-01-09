@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Bone Area
+parameter_id,IMPC_DXA_010_001
+gene_symbol,Gpa33
+analysis_id,gcwzmfs12220pvr
+pvalue,0.9342694
+gene_accession_id,MGI:1891703

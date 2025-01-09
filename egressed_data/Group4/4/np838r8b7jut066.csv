@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_065_001
+parameter_name,CD4+ T helper cells - % of CD45+
+analysis_id,np838r8b7jut066
+mouse_strain,C57BL
+gene_accession_id,MGI:1917226
+gene_symbol,Galk2
+mouse_life_stage,Early adult
+pvalue,0.7986645

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,ESLIM_011_001_703
+parameter_name,Prepulse inhibition - PP3
+gene_symbol,Bcs1l
+gene_accession_id,MGI:1914071
+pvalue,0.4163691
+analysis_id,7p298d56u80op38

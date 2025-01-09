@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_035_001
+mouse_strain,C57BL
+parameter_name,Eosinophil differential count
+analysis_id,y9l41779g8w5x4p
+gene_accession_id,MGI:1344367
+mouse_life_stage,E18.5
+gene_symbol,Grem2
+pvalue,0.1146616

@@ -1,0 +1,8 @@
+gene_symbol,C8b
+parameter_name,Bone Mineral Content (excluding skull)
+analysis_id,5x8545s1ko87362
+parameter_id,IMPC_DXA_005_001
+mouse_strain,C57BL
+pvalue,0.562044
+mouse_life_stage,Early adult
+gene_accession_id,MGI:88236

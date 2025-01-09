@@ -1,0 +1,8 @@
+gene_symbol,Kdm4c
+pvalue,0.4082833
+parameter_name,24kHz-evoked ABR Threshold
+mouse_strain,C57BL
+analysis_id,38fsal7h30m5nf6
+parameter_id,IMPC_ABR_010_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1924054

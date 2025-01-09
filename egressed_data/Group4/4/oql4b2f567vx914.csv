@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_015_001
+analysis_id,oql4b2f567vx914
+mouse_strain,C57BL
+gene_accession_id,MGI:1913483
+gene_symbol,Dmap1
+parameter_name,Resting CD8+ T cells - % of CD8+
+pvalue,0.493383
+mouse_life_stage,E9.5

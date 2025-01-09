@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+analysis_id,kyh254t97fm261s
+gene_accession_id,MGI:2444554
+parameter_name,Latency to first transition into dark
+mouse_strain,C57BL
+pvalue,0.4800415
+mouse_life_stage,E15.5
+parameter_id,IMPC_LDT_006_001

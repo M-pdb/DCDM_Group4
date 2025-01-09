@@ -1,0 +1,8 @@
+gene_symbol,Dmap1
+parameter_name,Resting NK cells - % of NK cells
+gene_accession_id,MGI:1913483
+mouse_strain,C57BL
+analysis_id,4701bu1s75h90q2
+pvalue,0.8468513
+mouse_life_stage,E12.5
+parameter_id,MGP_MLN_033_001

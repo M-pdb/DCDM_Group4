@@ -1,0 +1,8 @@
+gene_symbol,ITLN1
+gene_accession_id,MGI:1333831
+parameter_name,CD8+ alpha beta T cell percentage
+analysis_id,99016i53hj55198
+mouse_life_stage,Early adult
+pvalue,0.6571086
+parameter_id,MGP_PBI_004_001
+mouse_strain,C57BL

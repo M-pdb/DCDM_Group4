@@ -1,0 +1,8 @@
+gene_symbol,Traf6
+parameter_name,Naive CD8+ T cells - % of CD8+
+analysis_id,2ywk0v02n5hfh5k
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_016_001
+pvalue,0.2560133
+gene_accession_id,MGI:108072

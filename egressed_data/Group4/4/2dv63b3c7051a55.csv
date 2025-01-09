@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2446186
+parameter_name,NKT cells (panel A) - % of live leukocytes (Panel A)
+parameter_id,IMPC_IMM_004_002
+gene_symbol,Lpgat1
+analysis_id,2dv63b3c7051a55
+mouse_strain,C57BL
+pvalue,0.7805391
+mouse_life_stage,Late adult

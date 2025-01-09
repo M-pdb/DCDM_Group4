@@ -1,0 +1,8 @@
+gene_accession_id,MGI:97838
+parameter_name,Forelimb and hindlimb grip strength normalised against body weight
+mouse_life_stage,E12.5
+gene_symbol,Eprs1
+analysis_id,5x9n4fpg65nhu96
+pvalue,0.1712362
+parameter_id,TCPLA_GRS_011_001
+mouse_strain,C57BL

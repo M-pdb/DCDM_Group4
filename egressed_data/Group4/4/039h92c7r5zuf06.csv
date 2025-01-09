@@ -1,0 +1,8 @@
+gene_symbol,Trpa1
+gene_accession_id,MGI:3522699
+analysis_id,039h92c7r5zuf06
+parameter_id,MGP_IMM_027_001
+mouse_life_stage,Early adult
+pvalue,0.5526397
+mouse_strain,C57BL
+parameter_name,Resting CD4- NKT cells - % of CD4- NKT cells

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1334458
+gene_symbol,Pex19
+analysis_id,6q5944t46d47a18
+parameter_name,Resting CD4+ T helper cells - % of CD4+ T helper cells
+pvalue,0.5315044
+mouse_life_stage,E18.5
+mouse_strain,C57BL
+parameter_id,MGP_IMM_007_001

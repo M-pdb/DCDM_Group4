@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Resting Treg cells - % of Treg
+gene_symbol,Tnni1
+mouse_strain,C57BL
+gene_accession_id,MGI:105073
+analysis_id,r25624pv55t99j0
+pvalue,0.1407018
+parameter_id,MGP_IMM_011_001

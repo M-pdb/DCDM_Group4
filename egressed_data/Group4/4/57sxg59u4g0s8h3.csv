@@ -1,0 +1,8 @@
+parameter_name,Startle response
+analysis_id,57sxg59u4g0s8h3
+pvalue,0.6032265
+mouse_strain,C57BL
+parameter_id,MGP_CSD_008_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:106100
+gene_symbol,Etfdh

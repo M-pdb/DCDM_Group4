@@ -1,0 +1,8 @@
+parameter_id,JAX_PLC_002_001
+mouse_strain,C57BL
+parameter_name,HDL cholesterol
+analysis_id,18s05049588ct31
+gene_symbol,Snrpb2
+gene_accession_id,MGI:104805
+pvalue,0.5005256
+mouse_life_stage,Early adult

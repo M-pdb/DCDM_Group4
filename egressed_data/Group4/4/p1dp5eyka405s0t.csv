@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95835
+parameter_id,JAX_SLW_013_001
+analysis_id,p1dp5eyka405s0t
+mouse_life_stage,Early adult
+parameter_name,Breath rate during sleep mean
+gene_symbol,Hspa5
+mouse_strain,C57BL
+pvalue,0.2192662

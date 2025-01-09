@@ -1,0 +1,8 @@
+parameter_name,% Pre-pulse inhibition - PPI1
+pvalue,0.075718
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915107
+gene_symbol,PPP6C
+analysis_id,n6wnb59318h35rh
+parameter_id,IMPC_ACS_033_001
+mouse_strain,C57BL

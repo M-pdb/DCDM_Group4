@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_013_001
+gene_accession_id,MGI:109128
+analysis_id,tn7rc2cx2619432
+mouse_life_stage,Late adult
+pvalue,0.2258498
+mouse_strain,C57BL
+parameter_name,Total CD8+ T cells - % of ab T cells
+gene_symbol,Hnf4a

@@ -1,0 +1,8 @@
+gene_symbol,Kif24
+parameter_name,Forelimb and hindlimb grip strength normalised against body weight
+analysis_id,293noden875495e
+gene_accession_id,MGI:1918345
+mouse_life_stage,Early adult
+parameter_id,IMPC_GRS_011_001
+mouse_strain,C57BL
+pvalue,0.5020383

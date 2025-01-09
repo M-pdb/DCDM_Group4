@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Shape of ribcage
+parameter_id,IMPC_XRY_059_001
+mouse_life_stage,Early adult
+analysis_id,fpm2t9d279ug452
+gene_accession_id,MGI:1915889
+pvalue,0.3372994
+gene_symbol,Smyd2

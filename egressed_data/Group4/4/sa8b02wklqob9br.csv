@@ -1,0 +1,8 @@
+gene_accession_id,MGI:104805
+pvalue,0.7791066
+analysis_id,sa8b02wklqob9br
+gene_symbol,Snrpb2
+mouse_life_stage,Early adult
+parameter_name,6kHz-evoked ABR Threshold
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_004_001

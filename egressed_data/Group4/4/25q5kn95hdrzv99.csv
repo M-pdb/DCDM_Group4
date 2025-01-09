@@ -1,0 +1,8 @@
+gene_symbol,Rigi
+parameter_name,Transitional 1 B cells - % of CD45+
+gene_accession_id,MGI:2442858
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_110_001
+analysis_id,25q5kn95hdrzv99
+pvalue,0.509091
+mouse_strain,C57BL

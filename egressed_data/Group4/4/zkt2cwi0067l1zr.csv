@@ -1,0 +1,8 @@
+parameter_name,Neutrophil differential count
+parameter_id,IMPC_HEM_029_001
+gene_accession_id,MGI:1914561
+pvalue,0.7198194
+mouse_strain,C57BL
+analysis_id,zkt2cwi0067l1zr
+mouse_life_stage,E18.5
+gene_symbol,Nanp

@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_033_001
+gene_symbol,Hspa5
+gene_accession_id,MGI:95835
+analysis_id,0ix55g5w446o61p
+parameter_name,Resting NK cells - % of NK cells
+mouse_strain,C57BL
+pvalue,0.2259597
+mouse_life_stage,E12.5

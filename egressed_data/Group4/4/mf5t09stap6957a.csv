@@ -1,0 +1,8 @@
+parameter_name,NKT cells (panel A) - % of live leukocytes (Panel A)
+analysis_id,mf5t09stap6957a
+mouse_strain,C57BL
+parameter_id,IMPC_IMM_004_002
+gene_symbol,Mov10
+pvalue,0.5870048
+gene_accession_id,MGI:97054
+mouse_life_stage,Early adult

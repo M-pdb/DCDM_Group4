@@ -1,0 +1,8 @@
+gene_symbol,Arpc5l
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Total ab T cells - % of CD45+
+parameter_id,MGP_IMM_070_001
+gene_accession_id,MGI:1921442
+analysis_id,165752244k42lg6
+pvalue,0.9401076

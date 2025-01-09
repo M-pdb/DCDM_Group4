@@ -1,0 +1,8 @@
+parameter_id,IMPC_FEA_106_001
+analysis_id,fgc74icz731x741
+mouse_strain,C57BL
+gene_symbol,Bach2
+mouse_life_stage,Early adult
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing
+gene_accession_id,MGI:894679
+pvalue,0.8228361

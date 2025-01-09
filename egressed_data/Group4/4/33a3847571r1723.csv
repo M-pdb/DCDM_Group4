@@ -1,0 +1,8 @@
+gene_symbol,Col11a1
+mouse_life_stage,E18.5
+analysis_id,33a3847571r1723
+gene_accession_id,MGI:88446
+parameter_id,IMPC_ABR_010_001
+pvalue,0.3045042
+parameter_name,24kHz-evoked ABR Threshold
+mouse_strain,C57BL

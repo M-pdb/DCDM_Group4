@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Hspa5
+gene_accession_id,MGI:95835
+parameter_id,MGP_PBI_013_001
+analysis_id,93epd089dtyl5o1
+pvalue,0.7516274
+parameter_name,CD8+ KLRG1+ alpha beta T cell percentage

@@ -1,0 +1,8 @@
+mouse_strain,129SV
+parameter_name,Neutrophil differential count
+parameter_id,IMPC_HEM_029_001
+pvalue,0.4639211
+gene_accession_id,MGI:1923959
+analysis_id,8408r47w1ze0131
+mouse_life_stage,Early adult
+gene_symbol,Arpc2

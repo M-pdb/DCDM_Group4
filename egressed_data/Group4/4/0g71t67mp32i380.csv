@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,0g71t67mp32i380
+parameter_name,Lymphocyte differential count
+parameter_id,IMPC_HEM_031_001
+gene_symbol,Lpgat1
+gene_accession_id,MGI:2446186
+pvalue,0.7178923
+mouse_life_stage,Late adult

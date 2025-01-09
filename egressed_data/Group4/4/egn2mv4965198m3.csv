@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Kcns1
+parameter_name,Neutrophil cell count
+parameter_id,IMPC_HEM_030_001
+gene_accession_id,MGI:1197019
+pvalue,0.3699121
+analysis_id,egn2mv4965198m3

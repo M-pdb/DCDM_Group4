@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+gene_accession_id,MGI:99501
+parameter_id,IMPC_FEA_106_001
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing
+mouse_life_stage,Early adult
+pvalue,0.772481
+mouse_strain,C57BL
+analysis_id,s02mp569425g1xi

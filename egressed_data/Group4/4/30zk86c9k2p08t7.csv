@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+parameter_id,MGP_IMM_004_001
+analysis_id,30zk86c9k2p08t7
+mouse_strain,C55BL
+gene_accession_id,MGI:88174
+parameter_name,Total CD4+ T cells - % of ab T cells
+pvalue,0.5306386
+mouse_life_stage,E15.5

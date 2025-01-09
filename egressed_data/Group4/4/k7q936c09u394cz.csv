@@ -1,0 +1,8 @@
+parameter_id,IMPC_FEA_107_001
+gene_accession_id,MGI:1332236
+gene_symbol,Cds2
+analysis_id,k7q936c09u394cz
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+mouse_life_stage,Early adult
+pvalue,0.09604152
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88174
+gene_symbol,Bmi1
+mouse_strain,C57BL
+analysis_id,a1lft84v17ch278
+parameter_name,Placenta Size
+parameter_id,IMPC_GPP_004_001
+mouse_life_stage,E12.5
+pvalue,0.392915

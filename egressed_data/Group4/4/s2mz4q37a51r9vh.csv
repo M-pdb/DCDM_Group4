@@ -1,0 +1,8 @@
+gene_symbol,Secisbp2l
+gene_accession_id,MGI:1917604
+pvalue,0.7231068
+analysis_id,s2mz4q37a51r9vh
+parameter_id,MGP_MLN_075_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,Resting CD8+ T cells - % of CD45+

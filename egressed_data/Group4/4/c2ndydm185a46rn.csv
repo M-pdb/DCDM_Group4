@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Total ab T cells - % of CD45+
+mouse_life_stage,Early adult
+parameter_id,MGP_MLN_063_001
+analysis_id,c2ndydm185a46rn
+gene_accession_id,MGI:2442443
+pvalue,0.7513875
+gene_symbol,Fsd1l

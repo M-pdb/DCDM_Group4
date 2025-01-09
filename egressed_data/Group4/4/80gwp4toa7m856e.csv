@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1860103
+gene_symbol,Slc2a8
+analysis_id,80gwp4toa7m856e
+parameter_id,MGP_IMM_017_001
+pvalue,0.1500908
+parameter_name,KLRG1+ CD8+ T cells - % of CD8+

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_IMM_051_001
+parameter_name,Monocytes
+gene_symbol,Lamb3
+pvalue,0.06619006
+gene_accession_id,MGI:99915
+analysis_id,tm9rwdd53l3e91v

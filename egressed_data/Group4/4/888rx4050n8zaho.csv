@@ -1,0 +1,8 @@
+gene_symbol,Arnt
+parameter_name,Basophil cell count
+analysis_id,888rx4050n8zaho
+parameter_id,IMPC_HEM_037_001
+mouse_life_stage,Early adult
+mouse_strain,C59BL
+pvalue,0.576247
+gene_accession_id,MGI:88071

@@ -1,0 +1,8 @@
+gene_symbol,AU040320
+gene_accession_id,MGI:2140475
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+analysis_id,ssesn6bh9211m84
+parameter_id,IMPC_ABR_012_001
+parameter_name,30kHz-evoked ABR Threshold
+pvalue,0.1614146

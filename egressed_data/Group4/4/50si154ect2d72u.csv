@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,IMPC_ECG_010_001
+analysis_id,50si154ect2d72u
+gene_symbol,Mapkap1
+gene_accession_id,MGI:2444554
+mouse_life_stage,Early adult
+parameter_name,HRV
+pvalue,0.5217694

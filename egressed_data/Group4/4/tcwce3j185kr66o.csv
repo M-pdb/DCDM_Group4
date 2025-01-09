@@ -1,0 +1,8 @@
+parameter_id,ICS_FEA_019_001
+mouse_strain,C57BL
+parameter_name,% Freezing duration pre-cue-2
+gene_symbol,Fgb
+analysis_id,tcwce3j185kr66o
+gene_accession_id,MGI:99501
+mouse_life_stage,E12.5
+pvalue,0.6292336

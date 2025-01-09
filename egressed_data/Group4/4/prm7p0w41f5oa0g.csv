@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_130_001
+gene_symbol,Kcng1
+analysis_id,prm7p0w41f5oa0g
+gene_accession_id,MGI:3616086
+parameter_name,CD11b-low cDC - % of CD45+
+mouse_strain,C57BL
+pvalue,0.7026591
+mouse_life_stage,Early adult

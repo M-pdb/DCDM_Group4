@@ -1,0 +1,8 @@
+gene_accession_id,MGI:107414
+analysis_id,kf71766tizsh2p6
+gene_symbol,Tnfsf10
+pvalue,0.4331403
+mouse_strain,C57BL
+parameter_id,IMPC_FEA_107_001
+mouse_life_stage,Early adult
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing

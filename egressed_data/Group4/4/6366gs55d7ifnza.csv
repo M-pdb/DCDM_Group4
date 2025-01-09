@@ -1,0 +1,8 @@
+gene_symbol,Cmpk1
+parameter_name,Initial response to glucose challenge
+pvalue,0.6547594
+gene_accession_id,MGI:1913838
+parameter_id,IMPC_IPG_011_001
+mouse_strain,C57BL
+analysis_id,6366gs55d7ifnza
+mouse_life_stage,Early adult

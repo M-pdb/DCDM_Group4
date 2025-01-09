@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+mouse_strain,C57BL
+parameter_name,Global prepulse inhibition
+mouse_life_stage,E15.5
+gene_accession_id,MGI:2444554
+analysis_id,yc9v1m7u8b82lz1
+parameter_id,ESLIM_011_001_705
+pvalue,0.4034355

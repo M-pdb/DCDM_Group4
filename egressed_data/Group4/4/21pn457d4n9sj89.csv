@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+analysis_id,21pn457d4n9sj89
+parameter_name,Effector Treg cells - % of Treg
+parameter_id,MGP_MLN_009_001
+mouse_life_stage,E12.5
+pvalue,0.5874244
+mouse_strain,C57BL

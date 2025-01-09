@@ -1,0 +1,8 @@
+gene_symbol,Psd4
+parameter_name,CD103+ CD11b-low cDC - % of CD45+
+analysis_id,v539w1l7x66h31q
+gene_accession_id,MGI:2674093
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_131_001
+pvalue,0.2680311
+mouse_strain,C57BL

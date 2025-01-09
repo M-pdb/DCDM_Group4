@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,0b64818fp8k5bz7
+mouse_life_stage,Early adult
+parameter_name,Total B cells - % of CD45+
+parameter_id,MGP_IMM_041_001
+gene_symbol,Plcb1
+pvalue,0.7602543
+gene_accession_id,MGI:97613

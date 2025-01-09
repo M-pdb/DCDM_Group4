@@ -1,0 +1,8 @@
+gene_symbol,Tox
+parameter_name,Naive CD8+ T cells - % of CD45+
+parameter_id,MGP_MLN_076_001
+analysis_id,atx3c923nyacf67
+pvalue,0.8001566
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:2181659

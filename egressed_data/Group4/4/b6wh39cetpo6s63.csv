@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_024_001
+parameter_name,Retinal Blood Vessels
+gene_accession_id,MGI:1920026
+analysis_id,b6wh39cetpo6s63
+pvalue,0.2184687
+gene_symbol,Sass6
+mouse_strain,C57BL
+mouse_life_stage,E9.5

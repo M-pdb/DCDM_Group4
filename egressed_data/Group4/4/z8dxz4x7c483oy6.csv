@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+parameter_id,MGP_PBI_004_001
+mouse_strain,C57BL
+parameter_name,CD8+ alpha beta T cell percentage
+analysis_id,z8dxz4x7c483oy6
+pvalue,0.5680151
+mouse_life_stage,Early adult

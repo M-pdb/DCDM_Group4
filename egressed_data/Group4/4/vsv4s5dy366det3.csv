@@ -1,0 +1,8 @@
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+mouse_strain,C57BL
+parameter_id,MGP_PBI_032_001
+analysis_id,vsv4s5dy366det3
+gene_symbol,Slc28a2
+gene_accession_id,MGI:1913105
+pvalue,0.1634724
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+gene_symbol,Stk35
+gene_accession_id,MGI:1914583
+analysis_id,2sdnkun59x43mga
+parameter_name,Resting Treg cells - % of Treg
+parameter_id,MGP_IMM_011_001
+mouse_strain,C57BL
+pvalue,0.6194356
+mouse_life_stage,Early adult

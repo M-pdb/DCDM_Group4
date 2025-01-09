@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+parameter_id,IMPC_HEM_019_001
+pvalue,0.388682
+parameter_name,Mean platelet volume
+analysis_id,2hi449866114g27

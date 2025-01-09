@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Dark side time spent
+analysis_id,hpo0063w2laspy4
+pvalue,0.5824497
+gene_symbol,Atf3
+gene_accession_id,MGI:109384
+mouse_strain,C57BL
+parameter_id,JAX_LDT_004_001

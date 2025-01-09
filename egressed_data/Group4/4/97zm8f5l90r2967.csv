@@ -1,0 +1,8 @@
+mouse_strain,129SV
+mouse_life_stage,Early adult
+pvalue,0.6831946
+parameter_name,Resting Treg cells - % of CD45+
+gene_accession_id,MGI:1923959
+analysis_id,97zm8f5l90r2967
+parameter_id,MGP_MLN_071_001
+gene_symbol,Arpc2

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2135738
+analysis_id,8bz56e29tdlofa5
+gene_symbol,Abo
+pvalue,0.1161312
+parameter_id,JAXLA_ECG_002_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_name,HR

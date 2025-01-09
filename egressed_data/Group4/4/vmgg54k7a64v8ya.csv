@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,vmgg54k7a64v8ya
+parameter_id,JAX_SLW_009_001
+gene_accession_id,MGI:2442483
+parameter_name,Dark sleep bout lengths mean
+pvalue,0.3805689
+gene_symbol,Usp37

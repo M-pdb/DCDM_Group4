@@ -1,0 +1,8 @@
+gene_symbol,Cldn19
+parameter_name,Resting CD8+ T cells - % of CD45+
+parameter_id,MGP_IMM_082_001
+gene_accession_id,MGI:3033992
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.3399162
+analysis_id,827jlg2q2wqu620

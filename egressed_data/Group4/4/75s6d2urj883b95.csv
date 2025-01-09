@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915087
+parameter_name,Resting CD4+ T helper cells - % of CD45+
+gene_symbol,Tiprl
+parameter_id,MGP_IMM_074_001
+analysis_id,75s6d2urj883b95
+mouse_strain,C57BL
+mouse_life_stage,E9.5
+pvalue,0.3221899

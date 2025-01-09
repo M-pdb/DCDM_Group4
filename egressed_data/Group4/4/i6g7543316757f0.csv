@@ -1,0 +1,8 @@
+parameter_id,UCD_OWT_008_001
+mouse_strain,C57BL
+gene_accession_id,MGI:1914071
+parameter_name,Liver weight
+gene_symbol,Bcs1l
+mouse_life_stage,E12.5
+pvalue,0.6145119
+analysis_id,i6g7543316757f0

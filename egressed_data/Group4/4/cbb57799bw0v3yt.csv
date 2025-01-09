@@ -1,0 +1,8 @@
+parameter_id,IMPC_DXA_005_001
+analysis_id,cbb57799bw0v3yt
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:2442443
+parameter_name,Bone Mineral Content (excluding skull)
+gene_symbol,Fsd1l
+pvalue,0.133783

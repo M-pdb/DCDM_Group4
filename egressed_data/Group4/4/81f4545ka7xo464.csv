@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1918025
+analysis_id,81f4545ka7xo464
+parameter_name,CD11b-high cDC - % of CD45+
+parameter_id,MGP_IMM_129_001
+pvalue,0.6741506
+mouse_strain,129SV
+mouse_life_stage,Early adult
+gene_symbol,Zmynd8

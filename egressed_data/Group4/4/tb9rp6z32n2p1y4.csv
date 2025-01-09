@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+analysis_id,tb9rp6z32n2p1y4
+parameter_id,HRWLLA_OFD_007_001
+gene_symbol,Lpgat1
+parameter_name,Whole arena resting time
+gene_accession_id,MGI:2446186
+pvalue,0.1403382

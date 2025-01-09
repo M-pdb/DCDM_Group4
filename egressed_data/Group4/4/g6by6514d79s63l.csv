@@ -1,0 +1,8 @@
+gene_symbol,Hnf4a
+mouse_strain,C57BL
+parameter_name,Time mobile light side
+gene_accession_id,MGI:109128
+analysis_id,g6by6514d79s63l
+mouse_life_stage,Late adult
+pvalue,0.4665616
+parameter_id,JAX_LDT_003_001

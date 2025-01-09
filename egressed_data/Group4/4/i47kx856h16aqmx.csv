@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:2139080
+parameter_name,Effector NK cells - % of CD45+
+analysis_id,i47kx856h16aqmx
+gene_symbol,Dzank1
+parameter_id,MGP_IMM_099_001
+pvalue,0.06109246
+mouse_life_stage,Early adult

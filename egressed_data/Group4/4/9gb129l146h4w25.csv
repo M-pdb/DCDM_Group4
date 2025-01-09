@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_001_001
+parameter_name,Total T cells - % of CD45+
+gene_symbol,Dnajc6
+gene_accession_id,MGI:1919935
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.07515382
+analysis_id,9gb129l146h4w25

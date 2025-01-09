@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_031_001
+gene_symbol,Casq1
+gene_accession_id,MGI:1309468
+parameter_name,Lymphocyte differential count
+analysis_id,yigpp87yc11l546
+pvalue,0.1569602
+mouse_strain,C57BL

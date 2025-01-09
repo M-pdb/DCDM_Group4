@@ -1,0 +1,8 @@
+analysis_id,eed26f2btab7701
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+gene_symbol,Mecom
+gene_accession_id,MGI:95457
+pvalue,0.8876127
+parameter_name,CD8+ alpha beta T cell percentage
+parameter_id,MGP_PBI_004_001

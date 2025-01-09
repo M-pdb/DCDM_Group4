@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,LDL-cholesterol
+parameter_id,IMPC_CBC_025_001
+analysis_id,r6mr9r192ex9897
+gene_accession_id,MGI:1920344
+gene_symbol,Sgip1
+pvalue,0.4113401
+mouse_strain,C57BL

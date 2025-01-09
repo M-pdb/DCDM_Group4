@@ -1,0 +1,8 @@
+parameter_name,White blood cell count
+parameter_id,IMPC_HEM_001_001
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+analysis_id,583g4c712p664o0
+pvalue,0.4258733
+gene_symbol,Ufc1
+gene_accession_id,MGI:1913405

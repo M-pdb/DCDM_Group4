@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,IMPC_HEM_007_001
+pvalue,0.6954809
+parameter_name,Mean cell hemoglobin concentration
+analysis_id,84q7p0idf83e2t6

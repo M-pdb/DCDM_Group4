@@ -1,0 +1,8 @@
+gene_symbol,Secisbp2l
+analysis_id,vov20k8u411a4o3
+parameter_id,IMPC_ABR_006_001
+pvalue,0.5772802
+gene_accession_id,MGI:1917604
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,12kHz-evoked ABR Threshold

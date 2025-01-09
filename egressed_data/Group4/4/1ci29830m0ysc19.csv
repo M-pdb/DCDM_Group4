@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:2446186
+parameter_id,IMPC_ECG_004_001
+analysis_id,1ci29830m0ysc19
+gene_symbol,Lpgat1
+parameter_name,RR
+pvalue,0.9351102
+mouse_life_stage,Late adult

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915889
+parameter_id,MGP_IMM_082_001
+analysis_id,3754j7976y98esy
+gene_symbol,Smyd2
+mouse_strain,129SV
+pvalue,0.6673017
+mouse_life_stage,Early adult
+parameter_name,Resting CD8+ T cells - % of CD45+

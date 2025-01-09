@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,CD4+ CD25+ alpha beta regulatory T cell percentage
+gene_symbol,Hspa5
+analysis_id,7ql1uwtequ8cx91
+mouse_life_stage,E9.5
+pvalue,0.5648
+gene_accession_id,MGI:95835
+parameter_id,MGP_PBI_008_001

@@ -1,0 +1,8 @@
+parameter_name,Spleen weight
+parameter_id,UCD_OWT_003_001
+gene_accession_id,MGI:88461
+gene_symbol,Col6a3
+analysis_id,812s1030hm84210
+mouse_life_stage,Early adult
+pvalue,0.7398499
+mouse_strain,C57BL

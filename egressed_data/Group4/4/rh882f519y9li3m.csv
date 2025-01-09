@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_038_001
+parameter_name,Basophil differential count
+mouse_life_stage,Late adult
+mouse_strain,C57BL
+gene_accession_id,MGI:2139447
+analysis_id,rh882f519y9li3m
+gene_symbol,Galnt13
+pvalue,0.3966234

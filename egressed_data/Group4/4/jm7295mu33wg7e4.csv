@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1917810
+gene_symbol,Wars2
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_id,MGP_IMM_016_001
+pvalue,0.2765109
+parameter_name,Naive CD8+ T cells - % of CD8+
+analysis_id,jm7295mu33wg7e4

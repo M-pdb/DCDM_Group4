@@ -1,0 +1,8 @@
+gene_symbol,Ddx27
+mouse_strain,129SV
+mouse_life_stage,Early adult
+pvalue,0.1334853
+parameter_name,Initial response to glucose challenge
+gene_accession_id,MGI:2385884
+parameter_id,IMPC_IPG_011_001
+analysis_id,447nmr944oten53

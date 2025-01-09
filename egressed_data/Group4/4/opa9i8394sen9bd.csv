@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_LDT_006_001
+parameter_name,Latency to first transition into dark
+gene_symbol,Smyd2
+mouse_strain,C57BL
+analysis_id,opa9i8394sen9bd
+gene_accession_id,MGI:1915889
+pvalue,0.3495855

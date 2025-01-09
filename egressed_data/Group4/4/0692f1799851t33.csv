@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+parameter_name,Effector CD8+ T cells - % of CD45+
+mouse_strain,C57BL
+pvalue,0.6293368
+mouse_life_stage,Early adult
+analysis_id,0692f1799851t33
+parameter_id,MGP_MLN_074_001
+gene_accession_id,MGI:1923959

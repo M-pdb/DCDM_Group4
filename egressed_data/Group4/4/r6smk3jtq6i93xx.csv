@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+analysis_id,r6smk3jtq6i93xx
+gene_symbol,Mapkap1
+gene_accession_id,MGI:2444554
+parameter_id,IMPC_ACS_035_001
+parameter_name,% Pre-pulse inhibition - PPI3
+pvalue,0.9838774

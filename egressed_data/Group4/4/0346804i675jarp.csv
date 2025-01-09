@@ -1,0 +1,8 @@
+parameter_name,Total cholesterol
+parameter_id,JAXLA_CBC_015_001
+analysis_id,0346804i675jarp
+gene_symbol,Trpa1
+gene_accession_id,MGI:3522699
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.8613687

@@ -1,0 +1,8 @@
+parameter_name,Neutrophil cell count
+parameter_id,IMPC_HEM_030_001
+mouse_life_stage,E12.5
+analysis_id,r91l546f19fu4vm
+gene_accession_id,MGI:95457
+mouse_strain,C57BL
+gene_symbol,Mecom
+pvalue,0.7692995

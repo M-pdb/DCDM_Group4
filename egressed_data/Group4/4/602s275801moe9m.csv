@@ -1,0 +1,8 @@
+parameter_name,Spleen weight
+analysis_id,602s275801moe9m
+parameter_id,UCD_OWT_003_001
+gene_symbol,Plcb1
+gene_accession_id,MGI:97613
+pvalue,0.2649209
+mouse_strain,C57BL
+mouse_life_stage,Late adult

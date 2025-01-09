@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_032_001
+gene_symbol,Bdh2
+analysis_id,9f0f9uph8002831
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+gene_accession_id,MGI:1917022
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.3633654

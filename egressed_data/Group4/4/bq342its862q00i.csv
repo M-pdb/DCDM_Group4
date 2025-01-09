@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_027_001
+gene_symbol,Col11a1
+gene_accession_id,MGI:88446
+mouse_strain,C57BL
+parameter_name,Red blood cell distribution width
+mouse_life_stage,E18.5
+pvalue,0.8773321
+analysis_id,bq342its862q00i

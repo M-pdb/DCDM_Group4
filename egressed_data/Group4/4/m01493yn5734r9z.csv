@@ -1,0 +1,8 @@
+parameter_name,6kHz-evoked ABR Threshold
+gene_symbol,Zmynd8
+gene_accession_id,MGI:1918025
+mouse_strain,129SV
+analysis_id,m01493yn5734r9z
+mouse_life_stage,Early adult
+pvalue,0.7580859
+parameter_id,IMPC_ABR_004_001

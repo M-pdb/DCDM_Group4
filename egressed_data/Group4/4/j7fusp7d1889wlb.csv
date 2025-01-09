@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_002_001
+mouse_strain,C57BL
+parameter_name,Red blood cell count
+analysis_id,j7fusp7d1889wlb
+gene_symbol,Sprr1b
+gene_accession_id,MGI:106659
+pvalue,0.6874368
+mouse_life_stage,Early adult

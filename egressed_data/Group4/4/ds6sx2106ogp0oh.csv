@@ -1,0 +1,8 @@
+gene_symbol,Rnd3
+gene_accession_id,MGI:1921444
+parameter_name,Naive CD8+ T cells - % of CD8+
+parameter_id,MGP_MLN_015_001
+mouse_strain,C57BL
+pvalue,0.1283197
+analysis_id,ds6sx2106ogp0oh
+mouse_life_stage,Early adult

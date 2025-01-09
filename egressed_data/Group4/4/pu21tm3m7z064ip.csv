@@ -1,0 +1,8 @@
+parameter_id,IMPC_EYE_023_001
+mouse_strain,C57BL
+parameter_name,Optic Disc
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2443597
+analysis_id,pu21tm3m7z064ip
+pvalue,0.8706702
+gene_symbol,Tmem203

@@ -1,0 +1,8 @@
+gene_symbol,Cntfr
+mouse_strain,129SV
+mouse_life_stage,Early adult
+gene_accession_id,MGI:99605
+analysis_id,040072jgb3qw346
+pvalue,0.258094
+parameter_id,MGP_PBI_030_001
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell number

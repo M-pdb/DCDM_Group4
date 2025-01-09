@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,xh32p1871o86go0
+parameter_id,IMPC_IMM_064_001
+parameter_name,B1B Cells
+gene_accession_id,MGI:1915087
+pvalue,0.09086049
+gene_symbol,Tiprl

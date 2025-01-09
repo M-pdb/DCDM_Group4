@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_039_001
+analysis_id,3k4u70519s98960
+parameter_name,Large Unstained Cell (LUC) count
+mouse_strain,C57BL
+gene_symbol,Tbl1xr1
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2441730
+pvalue,0.6850676

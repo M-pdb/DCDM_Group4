@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,DN CD25- NKT cells
+analysis_id,a871592o2zq31ia
+parameter_id,IMPC_IMM_025_001
+mouse_life_stage,Early adult
+pvalue,0.7435608
+gene_accession_id,MGI:1915889
+gene_symbol,Smyd2

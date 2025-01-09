@@ -1,0 +1,8 @@
+gene_symbol,Mapkap1
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell percentage
+pvalue,0.8069941
+analysis_id,2521w949ed3duj1
+parameter_id,MGP_PBI_009_001
+gene_accession_id,MGI:2444554
+mouse_strain,C57BL
+mouse_life_stage,E12.5

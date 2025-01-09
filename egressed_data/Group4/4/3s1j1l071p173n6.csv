@@ -1,0 +1,8 @@
+gene_symbol,Tox
+parameter_name,UIBC (unsaturated iron binding capacity)
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2181659
+parameter_id,IMPC_CBC_024_001
+analysis_id,3s1j1l071p173n6
+pvalue,0.4777595
+mouse_strain,C57BL

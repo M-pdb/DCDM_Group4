@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923959
+gene_symbol,Arpc2
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ECG_004_001
+pvalue,0.1437581
+parameter_name,RR
+analysis_id,sf6slktk2nb39x9

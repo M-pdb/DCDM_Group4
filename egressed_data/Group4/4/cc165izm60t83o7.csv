@@ -1,0 +1,8 @@
+parameter_id,IMPC_DXA_003_001
+mouse_strain,129SV
+parameter_name,Lean mass
+mouse_life_stage,Early adult
+gene_symbol,Zmynd8
+analysis_id,cc165izm60t83o7
+gene_accession_id,MGI:1918025
+pvalue,0.442046

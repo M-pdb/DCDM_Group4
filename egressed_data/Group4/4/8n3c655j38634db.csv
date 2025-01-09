@@ -1,0 +1,8 @@
+gene_symbol,Pld1
+gene_accession_id,MGI:109585
+parameter_name,Periphery distance travelled
+parameter_id,JAX_OFD_010_001
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,8n3c655j38634db
+pvalue,0.6041485

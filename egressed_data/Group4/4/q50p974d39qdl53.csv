@@ -1,0 +1,8 @@
+gene_symbol,Plcb1
+parameter_name,Forelimb grip strength measurement mean
+mouse_strain,C57BL
+parameter_id,IMPC_GRS_008_001
+gene_accession_id,MGI:97613
+pvalue,0.06583844
+analysis_id,q50p974d39qdl53
+mouse_life_stage,Late adult

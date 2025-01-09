@@ -1,0 +1,8 @@
+parameter_name,% Freezing duration habituation-1
+parameter_id,ICS_FEA_016_001
+analysis_id,y7tsx5xms94t4r6
+mouse_strain,C57BL
+pvalue,0.3653633
+gene_accession_id,MGI:1914071
+gene_symbol,Bcs1l
+mouse_life_stage,E12.5

@@ -1,0 +1,8 @@
+gene_symbol,Cpa3
+parameter_name,Naive CD8+ T cells - % of CD8+
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_id,MGP_IMM_016_001
+analysis_id,bk32ea39932kgh0
+pvalue,0.9743901
+gene_accession_id,MGI:88479

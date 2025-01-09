@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_048_001
+parameter_name,Follicular B cells - % of B2 cells
+analysis_id,45j8v73k904gg3a
+gene_accession_id,MGI:95835
+pvalue,0.661182
+mouse_strain,C57BL
+gene_symbol,Hspa5
+mouse_life_stage,E9.5

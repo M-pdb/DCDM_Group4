@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+mouse_strain,C57BL
+analysis_id,822x0l7f0kd29oy
+parameter_name,Neutrophil differential count
+gene_accession_id,MGI:88174
+pvalue,0.2716643
+parameter_id,IMPC_HEM_029_001
+mouse_life_stage,E12.5

@@ -1,0 +1,8 @@
+parameter_name,% Pre-pulse inhibition - PPI1
+gene_symbol,Hpca
+gene_accession_id,MGI:1336200
+parameter_id,IMPC_ACS_033_001
+analysis_id,imvh19e8z18tb31
+mouse_strain,C57BL
+pvalue,0.7647361
+mouse_life_stage,Late adult

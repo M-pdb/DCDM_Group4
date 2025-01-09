@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_HEM_002_001
+parameter_name,Red blood cell count
+gene_accession_id,MGI:97054
+mouse_strain,C57BL
+analysis_id,cx054y16525s660
+pvalue,0.4045035
+gene_symbol,Mov10

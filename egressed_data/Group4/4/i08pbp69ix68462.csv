@@ -1,0 +1,8 @@
+parameter_name,Mean left eye lens density
+parameter_id,IMPC_EYE_056_001
+analysis_id,i08pbp69ix68462
+mouse_life_stage,Early adult
+gene_symbol,Ufc1
+mouse_strain,C57BL
+gene_accession_id,MGI:1913405
+pvalue,0.9027334

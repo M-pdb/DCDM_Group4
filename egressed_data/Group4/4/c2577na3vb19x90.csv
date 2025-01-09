@@ -1,0 +1,8 @@
+gene_symbol,Pdia3
+parameter_name,Eosinophil differential count
+mouse_strain,C57BL
+gene_accession_id,MGI:95834
+parameter_id,IMPC_HEM_035_001
+analysis_id,c2577na3vb19x90
+mouse_life_stage,Early adult
+pvalue,0.07418842

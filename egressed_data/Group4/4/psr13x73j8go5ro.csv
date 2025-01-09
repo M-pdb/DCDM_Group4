@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,IMPC_IMM_005_002
+gene_accession_id,MGI:1920026
+gene_symbol,Sass6
+parameter_name,NK cells (Panel A) - % of live leukocytes (Panel A)
+analysis_id,psr13x73j8go5ro
+pvalue,0.9527492
+mouse_life_stage,E12.5

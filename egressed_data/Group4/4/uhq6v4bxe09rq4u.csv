@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,CD4+ alpha beta T cell percentage
+analysis_id,uhq6v4bxe09rq4u
+parameter_id,MGP_PBI_003_001
+gene_symbol,Ubl4b
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1914841
+pvalue,0.6298313

@@ -1,0 +1,8 @@
+parameter_name,IgD+ mature B cell percentage
+mouse_strain,C57BL
+parameter_id,MGP_PBI_015_001
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2443597
+pvalue,0.1719883
+analysis_id,syf757jvy156512
+gene_symbol,Tmem203

@@ -1,0 +1,8 @@
+gene_symbol,Arpc2
+analysis_id,6v55epb87y2492i
+gene_accession_id,MGI:1923959
+mouse_life_stage,Early adult
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+parameter_id,IMPC_FEA_107_001
+pvalue,0.3154697
+mouse_strain,C57BL

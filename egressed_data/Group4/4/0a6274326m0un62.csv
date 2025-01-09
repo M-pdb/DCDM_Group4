@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+parameter_id,IMPC_FEA_107_001
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+analysis_id,0a6274326m0un62
+gene_symbol,Abo
+gene_accession_id,MGI:2135738
+pvalue,0.8986133

@@ -1,0 +1,8 @@
+gene_symbol,Ufc1
+mouse_strain,C57BL
+analysis_id,a29brmem578hm2h
+parameter_id,IMPC_HEM_030_001
+gene_accession_id,MGI:1913405
+pvalue,0.1037386
+mouse_life_stage,Early adult
+parameter_name,Neutrophil cell count

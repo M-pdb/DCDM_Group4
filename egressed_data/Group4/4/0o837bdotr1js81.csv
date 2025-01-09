@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1917810
+gene_symbol,Wars2
+analysis_id,0o837bdotr1js81
+mouse_life_stage,E12.5
+mouse_strain,C57BL
+pvalue,0.6645477
+parameter_id,IMPC_ABR_006_001
+parameter_name,12kHz-evoked ABR Threshold

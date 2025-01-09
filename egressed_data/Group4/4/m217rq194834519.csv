@@ -1,0 +1,8 @@
+gene_symbol,Hnf4a
+parameter_name,% Pre-pulse inhibition - PPI2
+mouse_strain,C57BL
+parameter_id,IMPC_ACS_034_001
+mouse_life_stage,Late adult
+analysis_id,m217rq194834519
+gene_accession_id,MGI:109128
+pvalue,0.5010623

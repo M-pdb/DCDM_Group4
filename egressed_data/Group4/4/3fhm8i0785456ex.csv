@@ -1,0 +1,8 @@
+gene_symbol,Kcng1
+gene_accession_id,MGI:3616086
+parameter_name,Click-evoked ABR threshold
+parameter_id,IMPC_ABR_002_001
+pvalue,0.1782253
+mouse_strain,C57BL
+analysis_id,3fhm8i0785456ex
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_EYE_009_001
+parameter_name,Corneal vascularization
+analysis_id,j9775jdo166y28u
+gene_symbol,Slc28a2
+gene_accession_id,MGI:1913105
+pvalue,0.5634791
+mouse_strain,C57BL

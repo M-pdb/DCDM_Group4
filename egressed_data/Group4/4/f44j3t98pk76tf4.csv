@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,MGP_PBI_027_001
+analysis_id,f44j3t98pk76tf4
+pvalue,0.9666783
+parameter_name,NK cell number
+gene_accession_id,MGI:3033992
+gene_symbol,Cldn19

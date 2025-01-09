@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+analysis_id,fx6954lq544qtl4
+parameter_name,QT
+gene_symbol,Jun
+pvalue,0.445735
+gene_accession_id,MGI:96646
+mouse_life_stage,E15.5
+mouse_strain,C57BL

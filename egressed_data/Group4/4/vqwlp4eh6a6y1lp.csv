@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Resting NK cells - % of CD45+
+gene_symbol,Slc17a9
+parameter_id,MGP_IMM_100_001
+analysis_id,vqwlp4eh6a6y1lp
+gene_accession_id,MGI:1919107
+pvalue,0.8804377

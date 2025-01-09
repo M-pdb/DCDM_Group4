@@ -1,0 +1,8 @@
+parameter_name,Naive CD8+ T cells - % of CD8+
+gene_symbol,Bcs1l
+analysis_id,jof8w6r1484rtd0
+gene_accession_id,MGI:1914071
+pvalue,0.2753939
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_id,MGP_MLN_015_001

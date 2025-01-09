@@ -1,0 +1,8 @@
+gene_symbol,Smyd2
+gene_accession_id,MGI:1915889
+parameter_name,Total cholesterol
+parameter_id,IMPC_CBC_015_001
+analysis_id,m0u183852823xef
+mouse_strain,C57BL
+pvalue,0.9120402
+mouse_life_stage,Early adult

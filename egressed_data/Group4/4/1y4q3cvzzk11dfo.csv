@@ -1,0 +1,8 @@
+gene_symbol,Inpp1
+mouse_life_stage,Early adult
+gene_accession_id,MGI:104848
+pvalue,0.3840817
+mouse_strain,129SV
+parameter_name,Neutrophil cell count
+analysis_id,1y4q3cvzzk11dfo
+parameter_id,IMPC_HEM_030_001

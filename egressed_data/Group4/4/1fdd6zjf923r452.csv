@@ -1,0 +1,8 @@
+parameter_name,Bone Mineral Density (excluding skull)
+gene_accession_id,MGI:99501
+gene_symbol,Fgb
+analysis_id,1fdd6zjf923r452
+parameter_id,IMPC_DXA_004_001
+mouse_life_stage,E15.5
+mouse_strain,C57BL
+pvalue,0.05945378

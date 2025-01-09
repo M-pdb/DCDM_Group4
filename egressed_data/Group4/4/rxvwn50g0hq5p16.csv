@@ -1,0 +1,8 @@
+parameter_id,MGP_PBI_010_001
+gene_accession_id,MGI:1921895
+pvalue,0.3158374
+analysis_id,rxvwn50g0hq5p16
+gene_symbol,Tent5c
+mouse_life_stage,Early adult
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell percentage
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+parameter_name,CD8+ KLRG1+ alpha beta T cell percentage
+analysis_id,j0bct94p5433708
+parameter_id,MGP_PBI_013_001
+mouse_strain,129SV
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915889
+pvalue,0.9816135
+gene_symbol,Smyd2

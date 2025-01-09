@@ -1,0 +1,8 @@
+gene_symbol,Hpca
+parameter_id,IMPC_ECG_002_001
+gene_accession_id,MGI:1336200
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,495yftwym243784
+pvalue,0.7249369
+parameter_name,HR

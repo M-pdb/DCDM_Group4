@@ -1,0 +1,8 @@
+parameter_id,IMPC_CBC_025_001
+parameter_name,LDL-cholesterol
+mouse_strain,C57BL
+analysis_id,64c128t303190f7
+gene_accession_id,MGI:2673064
+pvalue,0.360175
+gene_symbol,Tnfsf18
+mouse_life_stage,Early adult

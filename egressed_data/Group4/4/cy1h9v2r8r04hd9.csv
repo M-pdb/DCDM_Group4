@@ -1,0 +1,8 @@
+parameter_id,IMPC_HWT_008_001
+mouse_life_stage,E12.5
+analysis_id,cy1h9v2r8r04hd9
+parameter_name,Heart weight
+mouse_strain,C57BL
+gene_accession_id,MGI:95835
+pvalue,0.2806683
+gene_symbol,Hspa5

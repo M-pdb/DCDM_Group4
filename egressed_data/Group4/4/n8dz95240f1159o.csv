@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2674093
+mouse_life_stage,Early adult
+analysis_id,n8dz95240f1159o
+parameter_name,Bone Mineral Content (excluding skull)
+parameter_id,IMPC_DXA_005_001
+mouse_strain,C57BL
+gene_symbol,Psd4
+pvalue,0.304192

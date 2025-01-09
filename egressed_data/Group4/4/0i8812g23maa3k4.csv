@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+parameter_id,IMPC_CBC_015_001
+analysis_id,0i8812g23maa3k4
+parameter_name,Total cholesterol
+gene_accession_id,MGI:1336200
+pvalue,0.3662415
+gene_symbol,Hpca

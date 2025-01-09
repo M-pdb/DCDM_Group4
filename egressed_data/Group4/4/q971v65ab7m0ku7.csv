@@ -1,0 +1,8 @@
+gene_symbol,Mecom
+parameter_name,Light side time spent
+mouse_strain,C3H
+mouse_life_stage,Early adult
+pvalue,0.1027373
+gene_accession_id,MGI:95457
+analysis_id,q971v65ab7m0ku7
+parameter_id,JAX_LDT_002_001

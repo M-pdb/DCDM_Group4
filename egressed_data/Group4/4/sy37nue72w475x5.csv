@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,sy37nue72w475x5
+parameter_id,IMPC_CSD_079_001
+parameter_name,Aggression
+gene_symbol,Grem2
+pvalue,0.2742899
+gene_accession_id,MGI:1344367

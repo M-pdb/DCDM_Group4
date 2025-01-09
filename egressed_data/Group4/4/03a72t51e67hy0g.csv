@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1923029
+mouse_life_stage,Early adult
+analysis_id,03a72t51e67hy0g
+pvalue,0.8962264
+gene_symbol,Dnaaf9
+mouse_strain,C57BL
+parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell percentage
+parameter_id,MGP_PBI_010_001

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,r0a74a3sl00n4u6
+gene_symbol,Frmpd1
+pvalue,0.6217129
+parameter_name,Click-evoked ABR threshold
+parameter_id,IMPC_ABR_002_001
+gene_accession_id,MGI:2446274

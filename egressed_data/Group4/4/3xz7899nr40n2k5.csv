@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,ESLIM_004_001_701
+pvalue,0.4306806
+parameter_name,Glucose response AUC
+analysis_id,3xz7899nr40n2k5

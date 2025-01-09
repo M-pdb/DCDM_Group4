@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Percent time in light
+parameter_id,IMPC_LDT_008_001
+analysis_id,ao1u1oow86390l6
+gene_symbol,Plcb1
+mouse_life_stage,Early adult
+gene_accession_id,MGI:97613
+pvalue,0.6693953

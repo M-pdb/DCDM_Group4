@@ -1,0 +1,8 @@
+Mouse_life_stage,Early adult
+Mouse_strain,C57BL
+parameter_name,Resting CD8+ T cells - % of CD8+
+Parameter_id,MGP_MLN_014_001
+gene_accession_id,MGI:88071
+analysis_id,c03p6fa957ze675
+Gene_symbol,Arnt
+Pvalue,0.9987259

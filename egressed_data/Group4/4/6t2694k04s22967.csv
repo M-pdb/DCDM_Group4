@@ -1,0 +1,8 @@
+gene_accession_id,MGI:3522699
+mouse_life_stage,Early adult
+gene_symbol,Trpa1
+parameter_name,Forelimb grip strength normalised against body weight
+mouse_strain,C57BL
+pvalue,0.1249875
+analysis_id,6t2694k04s22967
+parameter_id,JAXLA_GRS_010_001

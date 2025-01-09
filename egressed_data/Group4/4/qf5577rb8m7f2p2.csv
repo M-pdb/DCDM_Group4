@@ -1,0 +1,8 @@
+gene_symbol,Mov10
+gene_accession_id,MGI:97054
+mouse_strain,C57BL
+analysis_id,qf5577rb8m7f2p2
+pvalue,0.8474685
+parameter_id,IMPC_ABR_002_001
+mouse_life_stage,Early adult
+parameter_name,Click-evoked ABR threshold

@@ -1,0 +1,8 @@
+parameter_id,IMPC_ACS_034_001
+mouse_strain,C57BL
+parameter_name,% Pre-pulse inhibition - PPI2
+gene_symbol,Stradb
+gene_accession_id,MGI:2144047
+analysis_id,p73om3832h6fz8l
+mouse_life_stage,Early adult
+pvalue,0.327055

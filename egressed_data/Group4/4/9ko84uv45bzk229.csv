@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+analysis_id,9ko84uv45bzk229
+parameter_name,CD103+ CD11b-low cDC - % of CD45+
+parameter_id,MGP_IMM_131_001
+pvalue,0.1554095
+gene_accession_id,MGI:88174

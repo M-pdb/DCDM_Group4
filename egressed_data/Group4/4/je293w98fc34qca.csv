@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,je293w98fc34qca
+parameter_name,Global prepulse inhibition
+gene_accession_id,MGI:95835
+parameter_id,ESLIM_011_001_705
+pvalue,1.48666
+gene_symbol,Hspa5

@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+analysis_id,37i5229480g4305
+mouse_strain,C57BL
+pvalue,0.06899282
+gene_accession_id,MGI:88174
+mouse_life_stage,E15.5
+parameter_name,Percent time in dark
+parameter_id,JAX_LDT_008_001

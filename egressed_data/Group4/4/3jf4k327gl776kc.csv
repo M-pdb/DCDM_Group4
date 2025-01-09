@@ -1,0 +1,8 @@
+gene_symbol,Eprs1
+parameter_name,Fasted blood glucose concentration
+analysis_id,3jf4k327gl776kc
+mouse_strain,C57BL
+gene_accession_id,MGI:97838
+parameter_id,IMPC_IPG_010_001
+pvalue,0.06301659
+mouse_life_stage,E12.5

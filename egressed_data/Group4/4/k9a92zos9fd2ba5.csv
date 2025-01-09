@@ -1,0 +1,8 @@
+parameter_name,Lymphocyte differential count
+analysis_id,k9a92zos9fd2ba5
+gene_symbol,Bmi1
+mouse_strain,C57BL
+pvalue,0.9938602
+mouse_life_stage,E12.5
+parameter_id,IMPC_HEM_031_001
+gene_accession_id,MGI:88174

@@ -1,0 +1,8 @@
+gene_symbol,Atf3
+mouse_life_stage,Early adult
+parameter_name,KLRG1+ gd T cells - % of gd T cells
+analysis_id,1i9d33lk118p543
+gene_accession_id,MGI:109384
+parameter_id,MGP_IMM_022_001
+pvalue,0.4749821
+mouse_strain,C57BL

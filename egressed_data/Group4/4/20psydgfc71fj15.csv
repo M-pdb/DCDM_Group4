@@ -1,0 +1,8 @@
+gene_symbol,Orc2
+gene_accession_id,MGI:1328306
+parameter_name,6kHz-evoked ABR Threshold
+parameter_id,IMPC_ABR_004_001
+pvalue,0.05287256
+analysis_id,20psydgfc71fj15
+mouse_strain,C57BL
+mouse_life_stage,Early adult

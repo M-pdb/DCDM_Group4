@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_035_001
+parameter_name,Eosinophil differential count
+mouse_life_stage,E15.5
+gene_accession_id,MGI:96646
+analysis_id,3c84k8270tzjrzy
+pvalue,0.3839714
+mouse_strain,C57BL
+gene_symbol,Jun

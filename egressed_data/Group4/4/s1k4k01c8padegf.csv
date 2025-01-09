@@ -1,0 +1,8 @@
+parameter_id,MGP_MLN_071_001
+analysis_id,s1k4k01c8padegf
+mouse_life_stage,Late adult
+parameter_name,Resting Treg cells - % of CD45+
+mouse_strain,C57BL
+pvalue,0.7393058
+gene_symbol,Snap23
+gene_accession_id,MGI:109356

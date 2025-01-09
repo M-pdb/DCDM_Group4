@@ -1,0 +1,8 @@
+parameter_name,HDL-cholesterol
+parameter_id,IMPC_CBC_016_001
+gene_accession_id,MGI:1923959
+analysis_id,9r2fv1a6bb778c4
+mouse_strain,129SV
+gene_symbol,Arpc2
+pvalue,0.2844615
+mouse_life_stage,Early adult

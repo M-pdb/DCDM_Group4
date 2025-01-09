@@ -1,0 +1,8 @@
+parameter_id,IMPC_CBC_008_001
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,Total bilirubin
+gene_accession_id,MGI:2181659
+analysis_id,6bh8370k77tbx2o
+pvalue,0.8466919
+gene_symbol,Tox

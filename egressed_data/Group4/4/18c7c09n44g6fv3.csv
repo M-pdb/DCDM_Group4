@@ -1,0 +1,8 @@
+gene_symbol,Hrnr
+parameter_name,CD8+ KLRG1+ alpha beta T cell percentage
+analysis_id,18c7c09n44g6fv3
+parameter_id,MGP_PBI_013_001
+mouse_strain,C57BL
+gene_accession_id,MGI:3046938
+pvalue,0.9042815
+mouse_life_stage,Early adult

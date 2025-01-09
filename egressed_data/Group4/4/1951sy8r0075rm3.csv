@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_id,IMPC_IMM_025_001
+parameter_name,DN CD25- NKT cells
+mouse_strain,129SV
+analysis_id,1951sy8r0075rm3
+pvalue,0.3026095
+gene_accession_id,MGI:1918025
+gene_symbol,Zmynd8

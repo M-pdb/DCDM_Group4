@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2444554
+gene_symbol,MAPKAP1
+analysis_id,4zwg1a55u208i4j
+mouse_life_stage,E15.5
+pvalue,0.4668525
+parameter_name,CD4+ T helper cells - % of CD45+
+parameter_id,MGP_MLN_065_001
+mouse_strain,C57BL

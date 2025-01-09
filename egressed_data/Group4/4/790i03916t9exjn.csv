@@ -1,0 +1,8 @@
+gene_symbol,Bcs1l
+parameter_name,PP3 + pulse startle magnitude
+mouse_strain,C57BL
+analysis_id,790i03916t9exjn
+mouse_life_stage,E9.5
+parameter_id,ESLIM_011_001_009
+gene_accession_id,MGI:1914071
+pvalue,0.05481539

@@ -1,0 +1,8 @@
+gene_symbol,Pdia3
+parameter_name,Area under glucose response curve
+gene_accession_id,MGI:95834
+mouse_strain,C57BL
+analysis_id,2c4ti3dd1jgngim
+parameter_id,IMPC_IPG_012_001
+pvalue,0.8385415
+mouse_life_stage,Early adult

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,MGP_MLN_009_001
+analysis_id,s20z47i7q4pusu7
+parameter_name,Effector Treg cells - % of Treg
+gene_symbol,Plcb1
+gene_accession_id,MGI:97613
+pvalue,0.2582068
+mouse_life_stage,Early adult

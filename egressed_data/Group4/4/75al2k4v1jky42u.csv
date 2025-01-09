@@ -1,0 +1,8 @@
+Mouse_strain,129SV
+parameter_name,CD4+ KLRG1+ alpha beta T cell number
+gene_symbol,Ninl
+parameter_id,MGP_PBI_032_001
+Mouse_life_stage,Early adult
+analysis_id,75al2k4v1jky42u
+gene_accession_id,MGI:1925427
+pvalue,0.334687

@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_028_001
+analysis_id,439n178z1jffh0u
+parameter_name,QT
+gene_accession_id,MGI:1920344
+mouse_strain,C57BL
+gene_symbol,Sgip1
+pvalue,0.5959552
+mouse_life_stage,Early adult

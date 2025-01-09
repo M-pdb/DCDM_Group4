@@ -1,0 +1,8 @@
+gene_accession_id,MGI:2140179
+gene_symbol,Dcaf10
+mouse_strain,C57BL
+analysis_id,3243vq0yg8jm8pw
+mouse_life_stage,Early adult
+parameter_name,24kHz-evoked ABR Threshold
+pvalue,0.2726811
+parameter_id,IMPC_ABR_010_001

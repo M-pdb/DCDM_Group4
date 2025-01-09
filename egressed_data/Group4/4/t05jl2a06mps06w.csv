@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,KLRG1+ Treg cells - % of CD45+
+gene_symbol,Galnt13
+analysis_id,t05jl2a06mps06w
+parameter_id,MGP_MLN_072_001
+pvalue,0.8429968
+mouse_life_stage,Early adult
+gene_accession_id,MGI:2139447

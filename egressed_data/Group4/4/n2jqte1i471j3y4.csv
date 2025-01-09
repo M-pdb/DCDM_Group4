@@ -1,0 +1,8 @@
+gene_symbol,Hspa5
+parameter_name,% Pre-pulse inhibition - Global
+parameter_id,IMPC_ACS_037_001
+analysis_id,n2jqte1i471j3y4
+gene_accession_id,MGI:95835
+pvalue,0.1105118
+mouse_strain,C57BL
+mouse_life_stage,E12.5

@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_129_001
+mouse_strain,C57BL
+gene_accession_id,MGI:88446
+gene_symbol,Col11a1
+pvalue,0.8371351
+mouse_life_stage,E18.5
+analysis_id,cyn6fgy8rv138f4
+parameter_name,CD11b-high cDC - % of CD45+

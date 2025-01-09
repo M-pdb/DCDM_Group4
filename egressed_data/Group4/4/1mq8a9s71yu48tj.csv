@@ -1,0 +1,8 @@
+gene_symbol,Hrnr
+parameter_name,18kHz-evoked ABR Threshold
+analysis_id,1mq8a9s71yu48tj
+mouse_life_stage,Early adult
+gene_accession_id,MGI:3046938
+mouse_strain,C57BL
+parameter_id,IMPC_ABR_008_001
+pvalue,0.2853542

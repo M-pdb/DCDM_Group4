@@ -1,0 +1,8 @@
+parameter_name,CD8+ alpha beta T cell percentage
+parameter_id,MGP_PBI_004_001
+gene_symbol,Casq1
+pvalue,0.9578244
+mouse_strain,C57BL
+analysis_id,vgrm927dfw49yfn
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1309468

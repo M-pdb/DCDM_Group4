@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921895
+analysis_id,6m40dcm95aeu09x
+parameter_name,NK cells (Panel A) - % of live leukocytes (Panel A)
+mouse_strain,C57BL
+parameter_id,IMPC_IMM_005_002
+mouse_life_stage,Early adult
+pvalue,0.6780327
+gene_symbol,Tent5c

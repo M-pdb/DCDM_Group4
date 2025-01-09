@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1927232
+parameter_name,Total CD4+ T cells - % of ab T cells
+analysis_id,42h0694a3897703
+mouse_strain,C57BL
+gene_symbol,Rab13
+parameter_id,MGP_IMM_004_001
+mouse_life_stage,Early adult
+pvalue,0.3459678

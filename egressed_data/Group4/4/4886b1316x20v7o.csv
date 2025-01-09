@@ -1,0 +1,8 @@
+analysis_id,4886b1316x20v7o
+parameter_id,JAXLA_ECG_002_001
+gene_symbol,Mgst2
+gene_accession_id,MGI:2448481
+mouse_strain,C57BL
+pvalue,0.8154807
+mouse_life_stage,Early adult
+parameter_name,HR

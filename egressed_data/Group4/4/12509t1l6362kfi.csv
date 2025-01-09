@@ -1,0 +1,8 @@
+parameter_name,Forelimb and hindlimb grip strength measurement mean
+parameter_id,IMPC_GRS_009_001
+analysis_id,12509t1l6362kfi
+mouse_strain,C57BL
+pvalue,0.1465478
+gene_symbol,Bcs1l
+gene_accession_id,MGI:1914071
+mouse_life_stage,E9.5

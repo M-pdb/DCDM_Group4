@@ -1,0 +1,8 @@
+analysis_id,83rc199164i4hb2
+parameter_name,Latency to first transition into dark
+pvalue,0.08262688
+mouse_strain,C57BL
+gene_accession_id,MGI:1916220
+parameter_id,IMPC_LDT_006_001
+gene_symbol,Dcaf12
+mouse_life_stage,Early adult

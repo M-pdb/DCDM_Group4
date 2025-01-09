@@ -1,0 +1,8 @@
+gene_symbol,Mov10
+analysis_id,tpdm4ad489p05bt
+mouse_strain,C57BL
+parameter_name,Average duration
+mouse_life_stage,Early adult
+parameter_id,JAX_ROT_002_001
+pvalue,0.8613872
+gene_accession_id,MGI:97054

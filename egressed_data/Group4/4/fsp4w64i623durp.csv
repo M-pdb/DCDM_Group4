@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,fsp4w64i623durp
+parameter_id,MGP_BMI_014_001
+mouse_life_stage,Early adult
+gene_symbol,Tbl1xr1
+gene_accession_id,MGI:2441730
+parameter_name,Mature B cells (Hardy fraction F) - % of CD45+
+pvalue,0.07132152

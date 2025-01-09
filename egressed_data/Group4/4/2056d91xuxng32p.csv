@@ -1,0 +1,8 @@
+parameter_name,Basophil cell count
+parameter_id,IMPC_HEM_037_001
+gene_symbol,Cdin1
+mouse_strain,C57BL
+gene_accession_id,MGI:3026886
+analysis_id,2056d91xuxng32p
+mouse_life_stage,Early adult
+pvalue,0.2047787

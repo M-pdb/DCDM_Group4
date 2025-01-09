@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECH_001_001
+parameter_name,End-Systolic Diameter
+pvalue,0.8624574
+analysis_id,70y79e658453h1e
+gene_symbol,Bcs1l
+gene_accession_id,MGI:1914071
+mouse_strain,C57BL
+mouse_life_stage,E12.5

@@ -1,0 +1,8 @@
+Parameter_id,IMPC_HEM_030_001
+parameter_name,Neutrophil cell count
+mouse_strain,C57BL
+analysis_id,u3fpnh7p8ha9yu3
+gene_symbol,Serinc3
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1349457
+pvalue,0.9975818

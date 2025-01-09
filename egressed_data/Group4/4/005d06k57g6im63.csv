@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+parameter_id,MGP_IMM_026_001
+analysis_id,005d06k57g6im63
+gene_symbol,Jun
+parameter_name,Effector CD4- NKT cells - % of CD4- NKT cells
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.3445166

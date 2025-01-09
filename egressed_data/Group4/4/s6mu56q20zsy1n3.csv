@@ -1,0 +1,8 @@
+gene_accession_id,MGI:104640
+parameter_name,CD4+ CD44+ CD62L- alpha beta effector T cell percentage
+analysis_id,s6mu56q20zsy1n3
+gene_symbol,Rab17
+parameter_id,MGP_PBI_009_001
+mouse_strain,C57BL
+pvalue,0.3472642
+mouse_life_stage,Early adult

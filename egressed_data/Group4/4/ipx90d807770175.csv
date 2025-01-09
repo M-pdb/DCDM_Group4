@@ -1,0 +1,8 @@
+gene_symbol,Rap2b
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+gene_accession_id,MGI:1921262
+parameter_name,Difference in Cue Tone and Cue Baseline % Freezing
+pvalue,0.08114848
+analysis_id,ipx90d807770175
+parameter_id,IMPC_FEA_106_001

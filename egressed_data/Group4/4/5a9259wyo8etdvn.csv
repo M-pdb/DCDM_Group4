@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_symbol,Eprs1
+analysis_id,5a9259wyo8etdvn
+gene_accession_id,MGI:97838
+pvalue,0.4118
+parameter_id,MGP_IMM_013_001
+parameter_name,Total CD8+ T cells - % of ab T cells

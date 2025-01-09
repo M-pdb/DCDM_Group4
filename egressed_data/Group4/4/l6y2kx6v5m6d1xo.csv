@@ -1,0 +1,8 @@
+parameter_id,IMPC_ABR_006_001
+gene_symbol,Tiprl
+parameter_name,12kHz-evoked ABR Threshold
+mouse_life_stage,E12.5
+pvalue,0.4485535
+mouse_strain,C57BL
+analysis_id,l6y2kx6v5m6d1xo
+gene_accession_id,MGI:1915087

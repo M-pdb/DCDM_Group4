@@ -1,0 +1,8 @@
+parameter_name,White blood cell count
+parameter_id,IMPC_HEM_001_001
+gene_accession_id,MGI:1338032
+pvalue,0.9168286
+mouse_strain,C57BL
+analysis_id,pw156182c02rgu5
+mouse_life_stage,Early adult
+gene_symbol,Sema6c

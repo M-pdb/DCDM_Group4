@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_symbol,Zyg11b
+parameter_name,Eye Hemorrhage or Blood Presence
+parameter_id,IMPC_EYE_003_001
+gene_accession_id,MGI:2685277
+analysis_id,vgrk2395f956770
+pvalue,0.947947

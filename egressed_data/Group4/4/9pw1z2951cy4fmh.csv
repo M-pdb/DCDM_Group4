@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,9pw1z2951cy4fmh
+gene_symbol,Kdm5b
+pvalue,0.3121619
+parameter_id,IMPC_IPG_012_001
+parameter_name,Area under glucose response curve
+gene_accession_id,MGI:1922855

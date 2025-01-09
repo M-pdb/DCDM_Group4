@@ -1,0 +1,8 @@
+gene_symbol,Abo
+Mouse_strain,C57BL
+Parameter_id,MGP_PBI_010_001
+Analysis_id,wf7dw9lb4cv0h48
+Mouse_life_stage,Early adult
+Parameter_name,CD8+ CD44+ CD62L- alpha beta effector T cell percentage
+Pvalue,0.1843596
+Gene_accession_id,MGI:2135738

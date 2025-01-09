@@ -1,0 +1,8 @@
+parameter_id,IMPC_GPP_004_001
+analysis_id,p2403r41952vqmn
+parameter_name,Placenta Size
+pvalue,0.1602006
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1915033
+gene_symbol,Ahctf1
+mouse_strain,C51BL

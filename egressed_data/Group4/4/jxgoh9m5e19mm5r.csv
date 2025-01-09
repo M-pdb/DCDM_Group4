@@ -1,0 +1,8 @@
+gene_symbol,Nucks1
+mouse_life_stage,Late adult
+parameter_name,Forelimb grip strength normalised against body weight
+pvalue,0.8065544
+gene_accession_id,MGI:1934811
+parameter_id,JAXLA_GRS_010_001
+analysis_id,jxgoh9m5e19mm5r
+mouse_strain,C57BL

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921895
+analysis_id,d52584d59w8qr1v
+gene_symbol,Tent5c
+parameter_name,Percent time in dark
+parameter_id,JAX_LDT_008_001
+mouse_strain,C57BL
+pvalue,0.6567486
+mouse_life_stage,Early adult

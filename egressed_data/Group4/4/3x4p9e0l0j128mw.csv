@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_id,JAX_LDT_002_001
+mouse_life_stage,Early adult
+parameter_name,Light side time spent
+gene_symbol,Tubb4b
+gene_accession_id,MGI:1915472
+analysis_id,3x4p9e0l0j128mw
+pvalue,0.09656966

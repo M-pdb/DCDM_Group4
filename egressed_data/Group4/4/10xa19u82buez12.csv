@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+parameter_name,Resting CD8+ T cells - % of CD45+
+gene_accession_id,MGI:88174
+mouse_strain,C57BL
+pvalue,0.3503565
+analysis_id,10xa19u82buez12
+parameter_id,MGP_MLN_075_001
+mouse_life_stage,Early adult

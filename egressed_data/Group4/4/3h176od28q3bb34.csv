@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+mouse_life_stage,Early adult
+gene_accession_id,MGI:99501
+pvalue,0.0843474
+mouse_strain,C57BL
+analysis_id,3h176od28q3bb34
+parameter_name,Resting Treg cells - % of Treg
+parameter_id,MGP_MLN_010_001

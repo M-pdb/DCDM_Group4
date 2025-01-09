@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1931322
+gene_symbol,Car13
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_ABR_002_001
+pvalue,0.4593757
+parameter_name,Click-evoked ABR threshold
+analysis_id,ku3ms469d2y9ev8

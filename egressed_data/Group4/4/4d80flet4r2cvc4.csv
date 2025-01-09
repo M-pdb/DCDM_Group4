@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+gene_accession_id,MGI:1914515
+mouse_life_stage,E9.5
+analysis_id,4d80flet4r2cvc4
+gene_symbol,Slc39a10
+parameter_name,CD4+ KLRG1+ alpha beta T cell percentage
+pvalue,0.1711302
+parameter_id,MGP_PBI_012_001

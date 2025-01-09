@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+parameter_name,Mean left eye lens density
+mouse_life_stage,E18.5
+parameter_id,IMPC_EYE_056_001
+gene_accession_id,MGI:2442443
+pvalue,0.2060091
+gene_symbol,Fsd1l
+analysis_id,27b2jgk4u542sp8

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:96646
+gene_symbol,Jun
+mouse_strain,C57BL
+mouse_life_stage,E15.5
+parameter_id,IMPC_IMM_046_001
+pvalue,0.6011551
+parameter_name,DN CD44+CD62L- NKT cells
+analysis_id,920965652877gch

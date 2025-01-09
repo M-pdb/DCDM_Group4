@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1334458
+mouse_strain,C57BL
+mouse_life_stage,E18.5
+analysis_id,sb42d1pr19nb60d
+parameter_id,IMPC_HEM_036_001
+parameter_name,Eosinophil cell count
+pvalue,0.6739476
+gene_symbol,Pex19

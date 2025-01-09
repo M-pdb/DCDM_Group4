@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Late adult
+Parameter_name,Dark side time spent
+gene_accession_id,MGI:1934811
+gene_symbol,Nucks1
+pvalue,0.1169117
+analysis_id,ozy76n42kt6isr8
+parameter_id,JAX_LDT_004_001

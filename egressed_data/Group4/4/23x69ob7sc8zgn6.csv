@@ -1,0 +1,8 @@
+gene_symbol,Bmi1
+analysis_id,23x69ob7sc8zgn6
+parameter_name,CD4+ KLRG1+ alpha beta T cell percentage
+pvalue,0.5768625
+mouse_strain,C57BL
+parameter_id,MGP_PBI_012_001
+mouse_life_stage,E12.5
+gene_accession_id,MGI:88174

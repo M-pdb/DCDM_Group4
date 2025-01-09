@@ -1,0 +1,8 @@
+gene_symbol,Grem2
+mouse_life_stage,E18.5
+gene_accession_id,MGI:1344367
+parameter_id,MGP_IMM_093_001
+analysis_id,ny6j41f388wd35x
+pvalue,0.8686278
+mouse_strain,C57BL
+parameter_name,Resting CD4- NKT cells - % of CD45+

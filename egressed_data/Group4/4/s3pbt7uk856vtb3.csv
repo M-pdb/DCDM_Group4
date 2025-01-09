@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+Parameter_name,Total CD4+ T cells - % of CD45+
+Analysis_id,s3pbt7uk856vtb3
+Gene_symbol,Tent5c
+parameter_id,MGP_IMM_071_001
+Pvalue,0.8542589
+gene_accession_id,MGI:1921895

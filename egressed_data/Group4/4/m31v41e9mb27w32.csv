@@ -1,0 +1,8 @@
+parameter_name,Startle response
+analysis_id,m31v41e9mb27w32
+parameter_id,ESLIM_008_001_013
+mouse_life_stage,Early adult
+mouse_strain,C57BL
+pvalue,0.8221275
+gene_accession_id,MGI:2443597
+gene_symbol,Tmem203

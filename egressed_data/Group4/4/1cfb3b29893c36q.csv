@@ -1,0 +1,8 @@
+gene_symbol,Hpca
+mouse_strain,C57BL
+gene_accession_id,MGI:1336200
+mouse_life_stage,Middle aged adult
+parameter_name,Neutrophil differential count
+analysis_id,1cfb3b29893c36q
+parameter_id,IMPC_HEM_029_001
+pvalue,0.4498806

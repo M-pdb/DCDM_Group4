@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_038_001
+mouse_strain,C57BL
+analysis_id,53e7tnp0s45dufd
+parameter_name,Basophil differential count
+pvalue,0.05818455
+gene_symbol,Bcs1l
+gene_accession_id,MGI:1914071
+mouse_life_stage,E12.5

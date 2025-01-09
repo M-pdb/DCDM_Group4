@@ -1,0 +1,8 @@
+gene_accession_id,MGI:88479
+analysis_id,9rxa03vxgbfk550
+gene_symbol,Cpa3
+parameter_name,Light side time spent
+Parameter_id,JAX_LDT_002_001
+Mouse_strain,C57BL
+mouse_life_stage,Early adult
+Pvalue,0.1840204

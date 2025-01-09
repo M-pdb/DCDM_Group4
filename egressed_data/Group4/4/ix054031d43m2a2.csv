@@ -1,0 +1,8 @@
+parameter_id,IMPC_HWT_008_001
+mouse_strain,C57BL
+parameter_name,Heart weight
+mouse_life_stage,Early adult
+pvalue,0.2668649
+analysis_id,ix054031d43m2a2
+gene_symbol,Bmp7
+gene_accession_id,MGI:103302

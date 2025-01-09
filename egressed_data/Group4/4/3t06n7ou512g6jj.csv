@@ -1,0 +1,8 @@
+gene_symbol,Atf3
+mouse_life_stage,Early adult
+gene_accession_id,MGI:109384
+parameter_id,MGP_IMM_014_001
+analysis_id,3t06n7ou512g6jj
+pvalue,0.2868419
+mouse_strain,C57BL
+parameter_name,Effector CD8+ T cells - % of CD8+

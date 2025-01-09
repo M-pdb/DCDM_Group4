@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_001_001
+parameter_name,White blood cell count
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+gene_symbol,Dmap1
+analysis_id,1x36z77h89oz993
+gene_accession_id,MGI:1913483
+pvalue,0.2961146

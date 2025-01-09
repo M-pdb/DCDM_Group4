@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_028_001
+mouse_strain,C57BL
+gene_symbol,Hrnr
+analysis_id,9t3r6573j51sa0q
+parameter_name,KLRG1+ CD4- NKT cells - % of CD4- NKT cells
+mouse_life_stage,Early adult
+pvalue,0.129047
+gene_accession_id,MGI:3046938

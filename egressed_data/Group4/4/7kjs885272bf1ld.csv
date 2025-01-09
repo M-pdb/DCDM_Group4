@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+gene_symbol,Cntfr
+mouse_strain,129SV
+mouse_life_stage,Early adult
+parameter_id,IMPC_LDT_006_001
+pvalue,0.2083869
+parameter_name,Latency to first transition into dark
+analysis_id,7kjs885272bf1ld

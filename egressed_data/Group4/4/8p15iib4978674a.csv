@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1344367
+gene_symbol,Grem2
+mouse_strain,C57BL
+mouse_life_stage,E18.5
+parameter_id,IMPC_ABR_002_001
+pvalue,0.7767852
+parameter_name,Click-evoked ABR threshold
+analysis_id,8p15iib4978674a

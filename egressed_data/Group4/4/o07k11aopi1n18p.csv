@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1332236
+mouse_strain,129SV
+mouse_life_stage,Early adult
+pvalue,0.9615475
+analysis_id,o07k11aopi1n18p
+gene_symbol,Cds2
+parameter_id,IMPC_ECG_010_001
+parameter_name,HRV

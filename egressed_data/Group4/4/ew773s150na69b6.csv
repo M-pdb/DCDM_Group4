@@ -1,0 +1,8 @@
+gene_symbol,Nipal3
+mouse_life_stage,Early adult
+analysis_id,ew773s150na69b6
+parameter_id,IMPC_ABR_010_001
+gene_accession_id,MGI:1921802
+mouse_strain,129SV
+parameter_name,24kHz-evoked ABR Threshold
+pvalue,0.8888686

@@ -1,0 +1,8 @@
+parameter_id,IMPC_HEM_039_001
+parameter_name,Large Unstained Cell (LUC) count
+gene_symbol,Hnf4a
+mouse_strain,C57BL
+analysis_id,8k57p6vwkw7d2ec
+gene_accession_id,MGI:109128
+mouse_life_stage,Late adult
+pvalue,0.4055571

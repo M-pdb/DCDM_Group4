@@ -1,0 +1,8 @@
+gene_symbol,Stk35
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+gene_accession_id,MGI:1914583
+parameter_id,JAXLA_OFD_009_001
+analysis_id,rn2060agg10bq49
+pvalue,0.8735184
+parameter_name,Whole arena average speed

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:99605
+mouse_life_stage,Early adult
+gene_symbol,Cntfr
+pvalue,0.7225937
+parameter_name,CD8+ KLRG1+ alpha beta T cell percentage
+analysis_id,s6rz88c8yc6v6f4
+mouse_strain,129SV
+parameter_id,MGP_PBI_013_001

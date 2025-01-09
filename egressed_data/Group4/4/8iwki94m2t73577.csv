@@ -1,0 +1,8 @@
+gene_symbol,Arnt
+gene_accession_id,MGI:88071
+mouse_life_stage,Early adult
+parameter_id,MGP_IMM_083_001
+analysis_id,8iwki94m2t73577
+mouse_strain,C57BL
+parameter_name,Naive CD8+ T cells - % of CD45+
+pvalue,0.24232

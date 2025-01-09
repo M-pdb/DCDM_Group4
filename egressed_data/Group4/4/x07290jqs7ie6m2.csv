@@ -1,0 +1,8 @@
+gene_symbol,Tox
+mouse_strain,C57BL
+parameter_id,JAX_PLC_002_001
+gene_accession_id,MGI:2181659
+parameter_name,HDL cholesterol
+analysis_id,x07290jqs7ie6m2
+mouse_life_stage,Early adult
+pvalue,0.1582984

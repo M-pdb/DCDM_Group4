@@ -1,0 +1,8 @@
+gene_symbol,Fgb
+gene_accession_id,MGI:99501
+parameter_name,Mean cell volume
+mouse_life_stage,E15.5
+analysis_id,1kvz3949e52m111
+pvalue,0.612155
+parameter_id,ESLIM_016_001_005
+mouse_strain,C57BL

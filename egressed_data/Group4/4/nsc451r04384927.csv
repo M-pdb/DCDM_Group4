@@ -1,0 +1,8 @@
+parameter_name,Gait
+analysis_id,nsc451r04384927
+parameter_id,IMPC_CSD_033_001
+mouse_strain,C57BL
+pvalue,0.224623
+gene_symbol,Atf3
+gene_accession_id,MGI:109384
+mouse_life_stage,Early adult

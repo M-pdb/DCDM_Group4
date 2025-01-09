@@ -1,0 +1,8 @@
+gene_symbol,Col11a1
+parameter_name,Eosinophil differential count
+mouse_life_stage,Early adult
+analysis_id,iolxnat45p5343b
+parameter_id,IMPC_HEM_035_001
+gene_accession_id,MGI:88446
+mouse_strain,C57BL
+pvalue,0.472175

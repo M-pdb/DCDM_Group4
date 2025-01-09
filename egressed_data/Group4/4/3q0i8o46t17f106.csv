@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921895
+gene_symbol,Tent5c
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_FEA_107_001
+pvalue,0.4275235
+parameter_name,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing
+analysis_id,3q0i8o46t17f106

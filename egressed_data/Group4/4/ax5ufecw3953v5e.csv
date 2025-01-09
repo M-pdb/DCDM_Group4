@@ -1,0 +1,8 @@
+parameter_id,IMPC_ECG_005_001
+analysis_id,ax5ufecw3953v5e
+gene_accession_id,MGI:1918764
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+pvalue,0.8397687
+parameter_name,PQ
+gene_symbol,Sfpq

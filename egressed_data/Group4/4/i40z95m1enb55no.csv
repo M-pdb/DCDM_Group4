@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,MGP_MLN_093_001
+analysis_id,i40z95m1enb55no
+parameter_name,KLRG1+ NK cells - % of CD45+
+gene_accession_id,MGI:2139080
+gene_symbol,Dzank1
+pvalue,0.7625469

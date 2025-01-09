@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,% Pre-pulse inhibition - PPI1
+analysis_id,2a00d5o409v2t43
+parameter_id,IMPC_ACS_033_001
+gene_accession_id,MGI:88174
+gene_symbol,Bmi1
+mouse_strain,C57BL
+pvalue,0.1476582

@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,56d0163o3zxluq5
+parameter_id,IMPC_CBC_006_001
+gene_accession_id,MGI:1309468
+parameter_name,Total protein
+gene_symbol,Casq1
+pvalue,1.689188e-07

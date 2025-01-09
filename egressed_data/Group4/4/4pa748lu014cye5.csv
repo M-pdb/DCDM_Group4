@@ -1,0 +1,8 @@
+gene_symbol,Cdkn2a
+gene_accession_id,MGI:104738
+analysis_id,4pa748lu014cye5
+mouse_life_stage,Early adult
+pvalue,0.2706119
+mouse_strain,C57BL
+parameter_name,IgD+ mature B cell percentage
+parameter_id,MGP_PBI_015_001

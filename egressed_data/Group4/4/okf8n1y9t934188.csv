@@ -1,0 +1,8 @@
+gene_accession_id,MGI:104738
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_name,T cells - % of CD45+
+analysis_id,okf8n1y9t934188
+pvalue,0.5212511
+gene_symbol,Cdkn2a
+parameter_id,MGP_BMI_019_001

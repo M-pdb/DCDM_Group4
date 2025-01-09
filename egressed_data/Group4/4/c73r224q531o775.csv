@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1921895
+mouse_strain,C57BL
+analysis_id,c73r224q531o775
+parameter_name,Hemorrhage
+mouse_life_stage,Early adult
+parameter_id,IMPC_GEO_009_002
+pvalue,0.9814772
+gene_symbol,Tent5c

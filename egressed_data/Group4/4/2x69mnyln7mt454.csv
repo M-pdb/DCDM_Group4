@@ -1,0 +1,8 @@
+mouse_life_stage,Early adult
+parameter_name,Effector Treg cells - % of CD45+
+gene_accession_id,MGI:1915033
+parameter_id,MGP_IMM_077_001
+gene_symbol,Ahctf1
+mouse_strain,C57BL
+analysis_id,2x69mnyln7mt454
+pvalue,0.1324593

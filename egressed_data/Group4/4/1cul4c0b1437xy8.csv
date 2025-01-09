@@ -1,0 +1,8 @@
+parameter_id,MGP_IMM_011_001
+parameter_name,Resting Treg cells - % of Treg
+gene_symbol,Gfi1b
+analysis_id,1cul4c0b1437xy8
+mouse_strain,C57BL
+gene_accession_id,MGI:1276578
+mouse_life_stage,Early adult
+pvalue,0.9033766

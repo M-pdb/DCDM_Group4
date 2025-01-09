@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+parameter_id,IMPC_GEO_011_001
+parameter_name,Blood Vessel Morphology
+analysis_id,fg710736499b9s0
+gene_accession_id,MGI:1925508
+pvalue,0.6187193
+gene_symbol,Mroh9

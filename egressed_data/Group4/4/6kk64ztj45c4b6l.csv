@@ -1,0 +1,8 @@
+mouse_strain,C57BL
+analysis_id,6kk64ztj45c4b6l
+parameter_id,IMPC_IMM_013_001
+gene_symbol,Cds2
+gene_accession_id,MGI:1332236
+mouse_life_stage,Early adult
+parameter_name,DN NKT cells
+pvalue,0.9625373

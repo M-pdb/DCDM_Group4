@@ -1,0 +1,8 @@
+gene_symbol,Gpr39
+parameter_id,IMPC_ABR_012_001
+gene_accession_id,MGI:1918361
+mouse_strain,C57BL
+mouse_life_stage,Early adult
+analysis_id,07f0d63f9541us9
+parameter_name,30kHz-evoked ABR Threshold
+pvalue,0.07253566

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:95457
+gene_symbol,Mecom
+mouse_strain,C57BL
+mouse_life_stage,E12.5
+parameter_id,IMPC_ECG_010_001
+pvalue,0.107369
+parameter_name,HRV
+analysis_id,7mhhymh982366l3

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1916220
+pvalue,0.551629
+mouse_life_stage,Early adult
+parameter_name,Naive CD8+ T cells - % of CD45+
+analysis_id,t39762d414zr61y
+mouse_strain,C57BL
+parameter_id,MGP_MLN_076_001
+gene_symbol,Dcaf12

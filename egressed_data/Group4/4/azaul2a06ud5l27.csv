@@ -1,0 +1,8 @@
+gene_symbol,Dhdds
+analysis_id,azaul2a06ud5l27
+gene_accession_id,MGI:1914672
+pvalue,0.860738
+mouse_life_stage,Early adult
+parameter_name,Latency to first transition into dark
+mouse_strain,C57BL
+parameter_id,IMPC_LDT_006_001

@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1344367
+mouse_life_stage,E18.5
+analysis_id,05h7l70rngthc48
+parameter_name,CD8+ KLRG1+ alpha beta T cell percentage
+mouse_strain,C57BL
+parameter_id,MGP_PBI_013_001
+pvalue,0.954417
+gene_symbol,Grem2

@@ -1,0 +1,8 @@
+parameter_name,Eosinophil cell count
+analysis_id,f8s4v104iks4u88
+pvalue,0.1858113
+mouse_strain,C57BL
+parameter_id,IMPC_HEM_036_001
+gene_accession_id,MGI:87968
+mouse_life_stage,E12.5
+gene_symbol,Ahcy

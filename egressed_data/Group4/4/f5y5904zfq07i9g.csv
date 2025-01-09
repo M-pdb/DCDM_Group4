@@ -1,0 +1,8 @@
+gene_accession_id,MGI:1915889
+gene_symbol,Smyd2
+mouse_strain,129SV
+mouse_life_stage,Early adult
+analysis_id,f5y5904zfq07i9g
+parameter_name,Area under glucose response curve
+pvalue,0.08382218
+parameter_id,IMPC_IPG_012_001
