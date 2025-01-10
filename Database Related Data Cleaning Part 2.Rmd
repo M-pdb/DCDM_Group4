@@ -1,0 +1,422 @@
+---
+title: "Database Related Cleaning"
+output: html_document
+date: "2025-01-10"
+---
+
+# Preparing the IMPC parameter description and the IMPC_procedure data previously cleaned for database design and integrity
+
+```{r}
+library(dplyr)
+library(tidyr)
+
+# Read the IMPC parameter description data set
+descript <- read.csv("Final_Cleaned_IMPC_parameter_description.csv")
+procedure <-read.csv("Cleaned_IMPC_procedure.csv")
+
+# Remove exact duplicate rows across all columns (This is just a complete repeat)
+descript_semi_cleaned <- descript %>%
+  distinct()
+
+# Gets all of the impcParameterOrigId that repeat for an one parameter ID and stores the smallest value
+duplicate_groups <- descript_semi_cleaned %>%
+  group_by(parameter_id, description, name) %>%
+  filter(n() > 1) %>%
+  summarise(
+    lowest_id = min(impcParameterOrigId),
+    all_ids = paste(impcParameterOrigId, collapse = ", "),
+    .groups = "drop"
+  )
+
+# Maps the lowest Ids 
+id_mapping <- duplicate_groups %>%
+  mutate(all_ids = strsplit(all_ids, ", ")) %>%
+  unnest(all_ids) %>%
+  mutate(all_ids = as.numeric(all_ids)) %>%  # Convert to numeric for consistency
+  rename(impcParameterOrigId = all_ids)  # Rename for clarity
+
+# This will change the ID if all mapped duplicate ID to the lowest ID within the map to the lowest ID 
+proce_updated <- procedure %>%
+  left_join(id_mapping %>% select(impcParameterOrigId, lowest_id), by = "impcParameterOrigId") %>%
+  mutate(impcParameterOrigId = ifelse(!is.na(lowest_id), lowest_id, impcParameterOrigId)) %>%
+  select(-lowest_id)  # Remove helper column
+
+
+# Removes all duplicates (now all duplicates share the same lowest ID making sure that the data is now cleaned)
+proce_updated <- proce_updated %>%
+  distinct(impcParameterOrigId, .keep_all = TRUE)
+
+# The total amount of unique impcParameterOrigId vs proce_updated length is now equal
+print(length(unique(proce_updated$impcParameterOrigId)))
+print (nrow(proce_updated))
+
+
+# The Procedure Table now has suitable conditions to meet a PK Table 
+# However to ensure that the all of the Procedure Tables data matches what is seen in the description we must now filter for all of the parameter_Ids that match the lowest ID filtering of the impcParameterOrigId's we've created.
+
+
+# This then replaces all of the  impcParameterOrigId IDs associated to duplicate parameterIDs with the lowest duplicate impcParameterOrigId found per duplicate to maintain consistency
+
+# As the parameter_Ids have been duplicated due to differing impcParameterOrigIds that have the same column data, we can now convert all of the impcParameterOrigIds connected to a duplicated parameter entry and change them to the lowest associated impcParameterOrigId among the duplicates.
+
+descript_updated <- descript_semi_cleaned %>%
+  left_join(id_mapping, by = "impcParameterOrigId") %>%
+  mutate(impcParameterOrigId = ifelse(!is.na(lowest_id), lowest_id, impcParameterOrigId)) %>%
+  select(-lowest_id)  # Remove helper column
+
+# We remove all of the created excess columns from the left_join function 
+descript_updated <- descript_updated %>%
+  select(-ends_with(".y")) %>%
+  rename_with(~ sub("\\.x$", "", .), ends_with(".x"))
+
+descript_cleaned <- descript_updated %>%
+  distinct(parameter_id, .keep_all = TRUE)
+
+
+# The lengths of the unique parameter_id from the original csv (after removing duplicate rows), length of the cleaned descript_cleaned data and length of the unique parameter_ids are now equal
+print(length(unique(descript$parameter_id))) # Output = 3567 lines
+print(nrow(descript_cleaned)) # Output = 3567 lines
+print(length(descript_cleaned$parameter_id)) # Output = 3567 lines
+
+
+
+# As impcParameterOrigId will be a primary key (PK) for Procedures we need to ensure that all of the impcParameterOrigId within parameter description exist in this 
+# Checks to see how many impcParameterOrigId values are in descript_cleaned (parameter_description) that are not in procedure (proce_updated)
+
+missing_impcParameterOrigIds_in_proce <- setdiff(descript_cleaned$impcParameterOrigId, proce_updated$impcParameterOrigId)
+print(length(missing_impcParameterOrigIds_in_proce)) # Output is 0
+
+
+# As parameter_id is the PK for Parameter Description we will need to check to see if any associated foreign keys (FK) have any parameter_id values that are outside of the scope of this parameter_id values in descript_cleaned (parameter_description). 
+
+combined_analysis_data <-read.csv("cleaned_combined_data.csv")
+
+# Ensure that parameter_id are of type string so that comparison matches, SOP standards also require this. 
+descript_cleaned$parameter_id <- as.character(descript_cleaned$parameter_id)
+
+# We will be comparing all of the unique combined_analysis_data to the unique descript_cleaned parameter ID (we already know from previous checks that all values are unique for the descript_cleaned parameter IDs)
+
+missing_parameter_id_in_descript <- setdiff(unique(combined_analysis_data$parameter_id), descript_cleaned$parameter_id)
+
+# There are 256 unique parameter_id in the analysis that are missing in the parameter_description, this will cause a violation in PK and FK relationships as the PK reference all values in the FK. 
+
+# We know that all of the parameter_ids have been cleaned so that only unique parameters remain. To ensure that the PK constraint doesn't cause data insertion issues, we can assign NA values to these missing parameter_ids within the descript_cleaned data (procedure_description) to maintain data integrity. Additionally, if these parameter ID values are available, the parameter ID and subsequent columns, including the impcParameterOrigId and its associated table data, can be inputted.
+
+# We will create a placeholder for the missing parameter_ids 
+missing_parameter_id_placeholder_rows <- data.frame(
+  parameter_id = missing_parameter_id_in_descript,
+  impcParameterOrigId = NA,     # Placeholder for impcParameterOrigId
+  name = NA,                    # Placeholder for other columns
+  description = NA              # Placeholder for other columns
+)
+
+# Now, we will add these missing parameters to the descript_clean (parameter description data)
+descript_cleaned <- bind_rows(descript_cleaned, missing_parameter_id_placeholder_rows)
+
+
+# We will now check to see if the amount of unique parameter_id matching the length total descript_data
+
+# Test 1: Check to see if all of the new unique parameter values are equal to total length of the data
+print(length(unique(descript_cleaned$parameter_id))) # Output = 3823 lines
+print(nrow(descript_cleaned)) # Output = 3823
+
+# Test 1 Successful
+
+# Test 2: Check to see if the total added parameter ID matches the number of missing parameter_id added from the combined data to the parameter_id
+
+print(nrow(descript_cleaned) -length(missing_parameter_id_in_descript)) # Output = 3567
+      
+# Test 2 Successful
+
+write.csv(descript_cleaned, "DCDM4/Data/Final_Parameter_Description.csv", row.names = FALSE)
+write.csv(proce_updated, "DCDM4/Data/Final_IMPC_procedure.csv", row.names = FALSE)
+```
+
+Now that we have completed the Final_Parameter_Description.csv, we can create our parameter groupings. We will achieve this by finding the most common words within the descriptions, excluding connective words like "and", "or", etc. This approach will help us identify keyword ideas. Additionally, we will manually parse through the data to establish parameters that can be grouped.
+
+```{r}
+#install.packages("tidytext")
+
+library(stringr)
+library(dplyr)
+library(tidytext)  # For built-in stop words list like connectives to help us parse through to find keywords and avoid noisy 
+
+# Tokenise text into words
+words <- str_split(descript_cleaned, "\\s+") %>% unlist()
+
+# Convert to lowercase for consistency and standardisation
+words <- tolower(words)
+
+# Remove all punctuation 
+words <- str_replace_all(words, "[[:punct:]]", "")
+
+# The list of stop words 
+stop_words_list <- stop_words$word  
+
+# All words that are not a stop word is then outputted
+words <- words[!words %in% stop_words_list]
+
+# Stored as a data frame
+word_counts <- as.data.frame(table(words))
+
+# And stored by frequency
+word_counts <- word_counts %>% arrange(desc(Freq))
+
+# View the 100 most common words
+head(word_counts, 100)
+```
+
+After utilising this approach and manually parsing through the data, we have decided on 7 additional parameter groupings outside of the mandatory 3 (Brain, Images, and Weight). These groupings were identified using keywords from the script above and through manual parsing.
+
+```{r}
+
+# The Defined keywords connected to each parameter grouping
+categories <- list(
+  Brain = c("brain", "neuron", "neural", "brainstem", "cerebellum", "hippocampus", 
+            "medulla", "cortex", "forebrain", "hindbrain", "cerebral", "thalamus", 
+            "hypothalamus", "striatum"),
+  Images = c("xray", "X-ray", "image", "images", "microscope", "scan", "scanner"),
+  Weight = c("weight", "weights"),
+  Metabolic_Factors = c("biochemical", "enzymatic", "substrates", "electrolytes", 
+                        "sodium", "potassium", "chloride", "urea", "creatinine", 
+                        "albumin", "bilirubin", "calcium", "phosphate", "iron", 
+                        "aspartate", "aminotransferase", "alanine", "alkaline", 
+                        "phosphatase", "cholesterol", "triglycerides", "glucose", 
+                        "metabolic", "fructosamine", "lipase", "lactate", 
+                        "dehydrogenase", "amylase", "fatty", "glycerol", "creatine", 
+                        "kinase", "uric", "ferritin", "transferrin", "c reactive protein"),
+  Immune_System = c("immune", "Immunophenotyping"),
+  Eyes = c("lens", "eye", "eyes", "vision", "optic", "pupil", "iris", "cornea", 
+           "retina", "synechia"),
+  Blood = c("blood", "Hematological", "hemolysis", "hemoglobin", "platelet", 
+            "haematocrit", "volume", "anticoagulant"),
+  Heart = c("Electrocardiograms", "heart", "cardiovascular", "artery", 
+            "vascular", "heartbeat"),
+  Sex = c("male", "female"),
+  Behaviour = c("stimulus", "fear", "anxiety", "conditioning", "motion", "waveforms")
+)
+
+assign_group <- function(name) {
+  if (is.na(name)) {
+    return("Uncategorized")  # Assign "Uncategorized" for NA descriptions
+  }
+  for (group in names(categories)) {
+    if (any(str_detect(tolower(name), tolower(categories[[group]])))) {
+      return(group)  # Return the matching group
+    }
+  }
+  return("Uncategorized")  # Default if no match found
+}
+
+# Create a new data set with just parameter_id and group
+groups <- descript_cleaned %>%
+  mutate(group = sapply(name, assign_group)) %>%  # Assign groups
+  select(parameter_id, group)  # Keep only parameter_id and group columns
+
+
+after_uncategorized_count <- sum(groups$group == "Uncategorized", na.rm = TRUE)
+
+
+write.csv(groups, "Groups1.csv", row.names = FALSE)
+
+
+```
+
+Now we must prepare the disease information file. We will inspect the gene_accession_id, which will be our PK connecting this data to the FK in the combined_analysis_data (the combined raw data outcomes).
+We also need to perform an SOP check to ensure that all gene_accession_id values meet SOP standards.
+
+```{r}
+library(dplyr)
+cleaned_disease_information <- read.csv("cleaned_Disease_information.csv")
+
+# Firstly, due to SOP standards, we will need to filter for gene_accession_id that are not strings and around outside the char range of 9-11
+
+# Filter rows based on gene_accession_id length
+cleaned_disease_information <- cleaned_disease_information %>%
+  filter(nchar(as.character(gene_accession_id)) >= 9 & 
+         nchar(as.character(gene_accession_id)) <= 11)
+
+write.csv(cleaned_disease_information, "filtered_cleaned_Disease_information.csv", row.names = FALSE)
+cleaned_disease_information$gene_accession_id <- trimws(cleaned_disease_information$gene_accession_id)
+
+# A check to see if the gene_accessionid matches the length of disease information data. If value is not 0 there are duplicate records
+disease_unique_gene_accessionid_vs_data_length <- nrow(cleaned_disease_information) - length(unique(cleaned_disease_information$gene_accession_id))
+print(disease_unique_gene_accessionid_vs_data_length) # Output=1209
+
+
+# We will also do the the same for combined_data
+analysis_unique_gene_accessionid_vs_data_length <- nrow(combined_analysis_data) - length(unique(combined_analysis_data$gene_accession_id))
+print(analysis_unique_gene_accessionid_vs_data_length) #Output = 248754
+
+```
+
+As both sets of data barely contain unique gene_accession_ids, we will now check how many unique gene_accession_id values there are in disease information compared to the combined_analysis data. If there are differences, we will need to create an intermediate table that will host all unique gene_accession_ids. This will allow it to operate with unique values, ensuring our PK and FK relationships have integrity and we can connect the two future tables.
+
+```{r}
+
+missing_gene_accessionids_in_diseaseinfo <- setdiff(unique(combined_analysis_data$gene_accession_id), unique(cleaned_disease_information$gene_accession_id))
+print(length(missing_gene_accessionids_in_diseaseinfo)) # Output = 200
+
+```
+
+This means there are over 200 unique gene_accession_ids not available in disease information. To account for this, we need to create a holding table containing all of the total unique gene_accession_ids. This way, we are able to connect the two tables and account for future data inserts
+
+```{r}
+
+all_gene_accession_ids <- data.frame(
+  gene_accession_id = unique(c(
+    missing_gene_accessionids_in_diseaseinfo,
+    cleaned_disease_information$gene_accession_id
+  ))
+)
+
+# Test 1: check to see if length of data matches the total number of unique gene_accession_ids (Success)
+print(nrow(all_gene_accession_ids)) # Output = 210
+print(length(unique(all_gene_accession_ids$gene_accession_id))) # Output = 210
+
+# Test 2: Check to see if the total unique gene_accession_id tally to 210 (Success)
+print(length(missing_gene_accessionids_in_diseaseinfo)) # Output = 200
+print(length(unique(cleaned_disease_information$gene_accession_id))) # Output = 10
+
+write.csv(all_gene_accession_ids, "DCDM4/Data/Unique_Gene_Accession_IDs.csv", row.names = FALSE)
+
+```
+
+We have now prepared all data for the database Design.
+
+
+```{sql connection=}
+create DATABASE dcdmgroup4;
+use dcdmgroup4;
+```
+
+
+```{sql connection=}
+CREATE TABLE Genes (
+  gene_accession_id VARCHAR(11) PRIMARY KEY NOT NULL
+);
+
+CREATE TABLE Disease_Information (
+    disease_info_id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    disease_id VARCHAR(50),
+    disease_term VARCHAR(255),
+    gene_accession_id VARCHAR(11) NOT NULL,
+    phenodigm_score FLOAT,
+    FOREIGN KEY (gene_accession_id) REFERENCES Genes(gene_accession_id)
+);
+    
+
+CREATE TABLE IMPC_Procedure (
+    impc_parameter_orig_Id VARCHAR(255) PRIMARY KEY NOT NULL,
+    name VARCHAR(255),
+    description TEXT,
+    isMandatory VARCHAR(10)
+);
+
+
+CREATE TABLE IMPC_Parameter_Description (
+    parameter_id VARCHAR(18) PRIMARY KEY NOT NULL,
+    name VARCHAR(255),
+    description TEXT,
+    impc_parameter_orig_Id VARCHAR(255),
+    FOREIGN KEY (impc_parameter_orig_Id) REFERENCES IMPC_Procedure(impc_parameter_orig_Id)
+);
+
+CREATE TABLE Group_Parameters (
+    group_id INT AUTO_INCREMENT PRIMARY KEY,
+    parameter_id VARCHAR(255),
+    group_name VARCHAR(255),
+    FOREIGN KEY (parameter_id) REFERENCES IMPC_Parameter_Description(parameter_id)
+);
+
+
+CREATE TABLE Analysis_Data (
+    analysis_id VARCHAR(15) PRIMARY KEY NOT NULL,
+    pvalue FLOAT,
+    gene_accession_id VARCHAR(11),
+    mouse_life_stage VARCHAR(17),
+    mouse_strain VARCHAR(5),
+    parameter_id VARCHAR(18),
+    gene_symbol VARCHAR(13),
+    parameter_name VARCHAR(74),
+    FOREIGN KEY (parameter_id) REFERENCES IMPC_Parameter_Description(parameter_id),
+    FOREIGN KEY (gene_accession_id) REFERENCES Genes(gene_accession_id)
+);
+
+```
+
+
+We will need to reorder the combined_data into the same order as the analysis_data table.
+
+```{r}
+
+reordered_analysis_data <- combined_analysis_data %>%
+  select(analysis_id, pvalue, gene_accession_id, mouse_life_stage, mouse_strain, parameter_id, gene_symbol, parameter_name)
+
+write.csv(reordered_analysis_data, "reordered_combined_data.csv", row.names = FALSE)
+```
+
+We will now insert the data into the database.
+```{sql connection=}
+# Genes Table
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/DCDM4/Data/Unique_Gene_Accession_IDs.csv'
+INTO TABLE Genes
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
+
+#Disease_information
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/DCDM4/Data/cleaned_Disease_information.csv'
+INTO TABLE disease_information
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
+
+# IMPC_Procedure
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/DCDM4/Data/Final_IMPC_procedure.csv'
+INTO TABLE impc_procedure
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(@procedure_id, name, description, isMandatory, impc_parameter_orig_Id);
+
+# IMPC_Descriptions:
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/DCDM4/Data/Final_Parameter_Description.csv'
+INTO TABLE impc_parameter_description
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(@impcParameterOrigId, name, description, parameter_id)
+SET impc_parameter_orig_Id = NULLIF(@impcParameterOrigId, 'NA');
+
+# Group Parameter:
+Groups
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/DCDM4/Data/Groups1.csv'
+INTO TABLE Group_Parameters
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(parameter_id, group_name);
+
+# Analysis Data
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/DCDM4/Data/reordered_combined_data.csv'
+INTO TABLE analysis_data
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
+
+```
+
+
