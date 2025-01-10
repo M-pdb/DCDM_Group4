@@ -12,8 +12,7 @@ The project involves:
 # Folder Structure
 **egressed_data/** – Contains raw `.csv` data retrieved from the TRE
 **cleaned_data/** – Processed and cleaned datasets ready for database import
-**scripts/** – R scripts for data cleaning, collation, and analysis
-**sql/** – SQL scripts for creating and querying the MySQL database 
+**scripts/** – R scripts for data cleaning, collation,analysis and MySQL
 **rshiny/** – RShiny files to create the interactive dashboard
 **database_backup/** – SQL dump files to restore the database
 
