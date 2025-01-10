@@ -1,0 +1,520 @@
+---
+title: "DCDM4 Data Cleaning Part 1"
+format: html
+---
+
+Combine all raw data into a combined data structure in csv file format for portability between systems.
+
+
+```{r}
+library(data.table) # Optimised for larger data sets and memory efficiency so preferred over dpylr and purrr
+library(dplyr)
+library(future.apply)
+
+# Directory containing all raw data .CSV files
+data_directory <- "/scratch_tmp/grp/msc_appbio/DCDM_group4/originals/raw_data"
+
+# A list of all .csv files
+all_files <- list.files(data_directory, pattern = "\\.csv$", full.names = TRUE)
+
+# Function to read and transform each file
+file_transformation <- function(file) {
+
+  # Read the file
+  data <- fread(file, header = FALSE, col.names = c("field", "value"))
+
+  # Convert field (column names) into lowercase to create a consistent column name structure
+  data$field <- tolower(data$field)
+
+  # Transpose the 'value' column, making fields into column names
+  transformed_data <- t(data$value) %>%
+    as.data.frame() %>%
+    setNames(data$field)
+
+  return(transformed_data)
+}
+
+# Setup of parallelisation of read and transformation of files (as there are 100s of CSVs)
+plan(multisession, workers = 4)
+
+# Apply the function to all files and combine using rbindlist
+combined_data <- rbindlist(future_lapply(all_files, file_transformation), fill = TRUE)
+
+# Organise the data by analysis ID so that it replicates the order if data was read sequentially
+combined_data <- combined_data[order(combined_data$analysis_id), ]
+
+# Save the combined data to a CSV file
+fwrite(combined_data, "/scratch_tmp/grp/msc_appbio/DCDM_group4/outputs/combined_data.csv")
+
+# Print the first few rows for verification
+print(head(combined_data))
+```
+
+Then we will be doing validation checks based on the SOP_IMPC.csv file that contains the data requirements.
+
+```{r}
+data <- read.csv("combined_data.csv")
+
+SOP_requirements <- read.csv("IMPC_SOP.csv", stringsAsFactors = FALSE)
+
+# Function to validate each column dynamically based on SOP requirements
+validate_columns <- function(data_col, sop_rules) {
+  violations <- list()
+  
+  ## String Validation
+  
+  # If the dataType = String for the row related to the column name in SOP
+  # Which should be true for all data fields apart from pvalue
+  if (sop_rules$dataType == "String") {
+    # If it isn't of type character, then the corresponding values are logged in the violations list
+    if (!is.character(data_col)) {
+    violations$type <- list(
+      error = "Incorrect data type",
+      expected = "String",
+      problematic_values = data_col[!sapply(data_col, is.character)]
+    )}
+    
+    
+    lengths <- nchar(as.character(data_col))
+    if (any(lengths < sop_rules$minValue | lengths > sop_rules$maxValue, na.rm = TRUE)) {
+      violations$length <- "Length out of bounds"
+    }
+  }
+
+  ## Float Validation
+
+  # A check made if the column is the p-value column, which requires a different conditional check from String Types
+  if (sop_rules$dataType == "Float") {
+      # A check to see if the value is a float point value with 64 bit precision which is characteristics of a float point number
+    if (!is.double(data_col)) {
+        # If not, then the column data that violate this is stored in violations list
+        violations$type <- list(
+        error = "Incorrect data type",
+        expected = "Float (double)",
+        problematic_values = data_col[!sapply(data_col, is.numeric)]
+        )}
+    
+    
+    # A logical operation to check which values are within outside of the expected range: 0-1
+    out_of_range <- data_col < sop_rules$minValue | data_col > sop_rules$maxValue
+    
+    
+    # If any of these values are TRUE, then their values are logged, and their index positions in the original columns are logged as well
+    if (any(out_of_range, na.rm = TRUE)) {
+      
+        violations$range <- list(
+        error = "Values out of range",
+        expected = paste("Between", sop_rules$minValue, "and", sop_rules$maxValue),
+        problematic_values = data_col[out_of_range], # Using the logical vector created it then extracts all values that report, TRUE to being outside of 0-1 range
+        row_indices = which(out_of_range) # Index position of the value within the column that is outside of the expected range: 0 to 1
+        )
+      }
+  }
+  
+  ## Mouse Strain Validation
+  
+# As remarks are a conditional check only appropriate for mouse_strain, we can filter to see if the columns being checked within the iteration are those columns
+  if (sop_rules$dataField =="mouse_strain") {
+  
+      # All strings including "Values are" are removed, leaving only the expected values using the gsub function
+      # The expected values strings are separated by a ";" in the original remark string, so we can split the values by the ";" delimiter leaving a vector of expected values using the strsplit() function
+      allowed_values_mouse_strain <- (gsub("Name of mouse strain. Values are", "", sop_rules$remarks))
+      allowed_values_mouse_strain <- strsplit(allowed_values_mouse_strain, ";")[[1]]                   
+        
+      # Then we can remove the allowed values variables containing the spaces between each delimiter that would affect comparisons
+      allowed_values_mouse_strain <- trimws(allowed_values_mouse_strain)
+      print(allowed_values_mouse_strain)
+
+        # Get a list of the indices to track which data needs to be cleaned
+        invalid_indices <- which(!data_col %in% allowed_values_mouse_strain)
+        
+        # A check to see if any of the values within the filtered column do not match with the listed allowed values processed from SOP
+        if (any(!data_col %in% allowed_values_mouse_strain, na.rm = TRUE)) {
+          
+          # Any values that aren't part of the allowed lists are then logged into the violations lists 
+          violations$values <- list(
+            error = "Contains invalid values",
+            problematic_values = data_col[!data_col %in% allowed_values_mouse_strain],
+            row_indices = invalid_indices
+          )
+        }
+      }
+  
+      
+## mouse_life_stage Validation    
+  if (sop_rules$dataField=="mouse_life_stage") {
+      # All strings including "Values are" are removed, leaving only the expected values using the gsub function
+      # The expected values strings are separated by a ";" in the original remark string, so we can split the values by the ";" delimiter leaving a vector of expected values using the strsplit() function
+      allowed_values_mouse_life_stage <- (gsub("Developmental stage of mice being analysed. Values are ", "", sop_rules$remarks))
+      allowed_values_mouse_life_stage <- strsplit(allowed_values_mouse_life_stage, ";")[[1]]                   
+        
+      # Then we can remove the allowed values variables containing the spaces between each delimiter that would affect comparisons
+      allowed_values_mouse_life_stage <- trimws(allowed_values_mouse_life_stage)
+      
+      print(allowed_values_mouse_life_stage)
+        
+        # A check to see if any of the values within the filtered column do not match with the listed allowed values processed from SOP
+        if (any(!data_col %in% allowed_values_mouse_life_stage, na.rm = TRUE)) {
+          
+          # Any values that aren't part of the allowed lists are then logged into the violations lists 
+          violations$values <- list(
+            error = "Contains invalid values",
+            problematic_values = data_col[!data_col %in% allowed_values_mouse_life_stage]
+          )
+        }
+      }
+      
+  # A nested list of all possible violations 
+  return(violations)
+}
+
+
+# Validate the data set dynamically using SOP file
+validation_results <- list()
+
+
+# A loop that iterates over the SOP requirements rows that matches each column name in (data)
+for (i in seq_len(nrow(SOP_requirements))) {
+  # A validation requirement for each column is stored in sop_rule variable
+  sop_rule <- SOP_requirements[i, ]
+  
+  # The column name of the filtered SOP row is then stored as column_name
+  column_name <- sop_rule$dataField
+  
+  # The SOP data name is checked to see if exists as a column name in data
+  if (column_name %in% colnames(data)) {
+    
+    # The entire corresponding column from data and the row from SOP that corresponds to the data requirements are passed into the validation check that dynamically checks for each column's unique data standard requirements
+    
+    # The violation list gets returned
+    validation_results[[column_name]] <- validate_columns(
+      data[[column_name]], 
+      sop_rules = sop_rule
+    )
+    # If column is missing from the data then it is logged and passed into the validation results list
+  } else {
+    validation_results[[column_name]] <- paste(column_name, "is missing in the dataset")
+  }
+}
+
+
+str(validation_results)
+
+```
+
+# Using the validation object created to store all the violations of the SOP requirement for each value within combined_data, we have determined that the p-values and mouse strain values are outside of the expected ranges and values, respectively. So we will be filtering out this information for manual inspection and discussion.
+
+```{r}
+
+# Store all of the problematic p-value data into variable
+pvalue_violations <- validation_results$pvalue$range
+
+# Get all corresponding analysis IDs matching the row indices position of the problematic p-values
+analysis_ids <- data$analysis_id[pvalue_violations$row_indices]
+
+# Create a data frame
+pvalue_report <- data.frame(
+  analysis_id = analysis_ids,
+  Error = pvalue_violations$error,
+  Expected = pvalue_violations$expected,
+  RowIndex = pvalue_violations$row_indices,
+  ProblematicValue = pvalue_violations$problematic_values,
+  stringsAsFactors = FALSE
+)
+
+# Output file as csv
+write.csv(pvalue_report, "pvalues_outside_range.csv", row.names = FALSE)
+
+## Mouse Strain
+
+mouse_strain_violation <-validation_results$mouse_strain$values
+
+# Get all corresponding analysis ID's matching the row indices position of the problematic pvalues
+mouse_analysis_ids <- data$analysis_id[mouse_strain_violation$row_indices]
+
+# Create a data frame
+mouse_strain_report <- data.frame(
+  analysis_id = mouse_analysis_ids,
+  Error = mouse_strain_violation$error,
+  RowIndex = mouse_strain_violation$row_indices,
+  ProblematicValue = mouse_strain_violation$problematic_values,
+  stringsAsFactors = FALSE
+)
+write.csv(mouse_strain_report, "mouse_strain_outside_expected_values.csv", row.names = FALSE)
+
+
+```
+
+# Remove all values that are invalid was decided to be removed from the combined_data.csv 
+
+```{r}
+# Load required library
+library(dplyr)
+
+# Step 1: Read the two CSV files with invalid analysis IDs
+mouse_strain_file <- read.csv("mouse_strain_outside_expected_values.csv")
+pvalues_file <- read.csv("pvalues_outside_range-combined_data.csv")
+
+# Step 2: Extract and combine the analysis IDs, ensuring no duplicates
+invalid_analysis_ids <- unique(c(mouse_strain_file$analysis_id, pvalues_file$analysis_id))
+print(length(invalid_analysis_ids))
+
+# Step 3: Read the main combined data CSV file
+combined_data_file <- read.csv("combined_data.csv")
+
+# Step 4: Filter rows to exclude invalid analysis IDs
+cleaned_data <- combined_data_file %>%
+  filter(!analysis_id %in% invalid_analysis_ids)
+
+# Step 5: Save the cleaned data to a new CSV file
+write.csv(cleaned_data, "cleaned_combined_data.csv", row.names = FALSE)
+
+cat("The cleaned data has been saved to 'cleaned_combined_data.csv'\n")
+```
+
+# Metadata Cleaning
+
+# Cleaning IMPC_procedure.txt
+
+We will be cleaning the IMPC_procedure.txt here and converting it into a portable data structure (.csv file).
+
+```{r}
+# Load required libraries
+library(tidyverse)
+
+procedure_data <- read.csv('IMPC_procedure.txt', header = TRUE)
+
+# Substitutes the empty space after procedureID with a comma delimiter
+procedure_data<-sub(' ', ',', procedure_data[, 1])
+
+# Get rid of the white space before and after every comma delimiter, this will be fixed for description comma in the for loop
+procedure_data <- gsub("\\s*,\\s*", ",", procedure_data)
+
+
+# Creates an intermediate data frame where we can manipulate data into suitable columns and rows
+procedure_data_intermediate=as.data.frame(procedure_data)
+
+#Split each row into fields by delimiter ","
+procedure_data_intermediate <- strsplit(procedure_data_intermediate[,1], ',')
+
+# Pre-allocate a list for processed output data
+processed_data <- vector("list", length(procedure_data_intermediate))
+
+# Process each split row
+for (x in seq_along(procedure_data_intermediate)) {
+  row <- procedure_data_intermediate[[x]]
+  if (length(row) > 5) {
+    
+    # 3rd Field is where description starts
+    description_start <- 3
+    # We know that two more fields are expected after description
+    description_end <- length(row) - 2 
+    
+    # Combine the fields where description is located and wrap in a ' ' as SQL expected '' strings and prevent delimiters from        causing issues downstream
+    new_description <- str_c("'",str_c(row[description_start:description_end], collapse = ', '),"'")
+    
+    # The row is now cleaned with the correct order of the fields
+    cleaned_row <- c(row[1:2], new_description, row[(length(row) - 1):length(row)])
+    
+  } else {
+    
+    # Pass the row into the cleaned_row list
+    cleaned_row <- row
+  }
+  # append the cleaned row for each iteration
+  processed_data[[x]] <- cleaned_row
+}
+
+# Combine the cleaned data into a single data frame
+cleaned_procedure_data <- do.call(rbind, processed_data)
+
+
+# The column names are then added
+colnames(cleaned_procedure_data) <- c('procedureId','name','description','isMandatory','impcParameterOrigId')
+
+str(cleaned_procedure_data)
+
+# Data Formatting
+# Replace empty strings, NA or NULL strings with datatype NA
+cleaned_procedure_data[cleaned_procedure_data == ""] <- NA
+cleaned_procedure_data[cleaned_procedure_data == "NA"] <- NA
+cleaned_procedure_data[cleaned_procedure_data == "NULL"] <- NA
+
+# Convert clean_data to a data frame
+cleaned_procedure_data <- as.data.frame(cleaned_procedure_data, stringsAsFactors = FALSE)
+
+write_csv(cleaned_procedure_data, 'Cleaned_IMPC_procedure.csv')
+
+```
+
+# Cleaning Parameter_description.txt
+
+```{r}
+# Load required libraries
+library(tidyverse)
+
+param_description_data <- read.csv('IMPC_parameter_description.txt')
+
+# Substitutes the empty space after procedureID with a comma delimiter
+param_description_data<-sub(' ', ',', param_description_data[, 1])
+
+# Get rid of the whitespace before and after every comma delimiter, this will be fixed for description comma in the for loop
+param_description_data <- gsub("\\s*,\\s*", ",", param_description_data)
+
+# Creates an intermediate dataframe where we can manipulate data into suitable columns and rows
+param_description_data_intermediate=as.data.frame(param_description_data)
+
+#Split each row into fields by delimiter ","
+param_description_data_intermediate <- strsplit(param_description_data_intermediate[,1], ',')
+
+# Pre-allocate a list for processed output data
+processed_param_description_data_intermediate <- vector("list", length(param_description_data_intermediate))
+
+# Process each split row
+for (x in seq_along(param_description_data_intermediate)) {
+  row <- param_description_data_intermediate[[x]]
+  if (length(row) > 5) {
+    
+    # 3rd Field is where description starts
+    description_start <- 5
+    # We know that one more field is expected after description
+    description_end <- length(row) - 1 
+    
+    # Combine the fields where description is located and wrap in a ' ' as SQL expected '' strings and prevent delimiters from        causing issues downstream
+    new_description <- str_c("'",str_c(row[description_start:description_end], collapse = ', '),"'")
+    
+    # The row is now cleaned with the correct order of the fields
+    cleaned_row <- c(row[1:2], new_description, row[(length(row) - 1):length(row)])
+    
+  } else {
+    
+    # Pass the row into the cleaned_row list
+    cleaned_param_description_row <- row
+  }
+  # Append the cleaned row for each iteration
+  processed_param_description_data_intermediate[[x]] <- cleaned_param_description_row
+}
+
+
+# Combine the cleaned data into a single data frame
+cleaned_procedure_description_data <- do.call(rbind, processed_param_description_data_intermediate)
+
+# The column names are then added
+## We need to ensure that parameterId is now parameter_id to match the same column in the analysis table for database
+colnames(cleaned_procedure_description_data) <- c('line_number','impcParameterOrigId','name','description','parameter_id')
+
+# Convert clean_data to a data frame
+cleaned_procedure_description_data <- as.data.frame(cleaned_procedure_description_data, stringsAsFactors = FALSE)
+
+# Data formatting
+
+## Need to get rid of the first row as it contains the column header
+cleaned_procedure_description_data <- cleaned_procedure_description_data[-1,]
+
+# Then we can get rid of the first column containing the line_number
+cleaned_procedure_description_data <- cleaned_procedure_description_data[,-1]
+
+# Replace all "", "NA", "NULL" strings with NA datatype
+cleaned_procedure_description_data[cleaned_procedure_description_data == ""] <- NA
+
+# Get rid of all of the underscores in description
+cleaned_procedure_description_data$description <- gsub("_", " ", cleaned_procedure_description_data$description)
+
+# We also need to ensure that impcParameterOrigId which is a shared column is of the same data type, as it is a string, we will need ensure that all data is consistent
+dim(cleaned_procedure_description_data)
+
+write_csv(cleaned_procedure_description_data, 'Final_Cleaned_IMPC_parameter_description.csv')
+```
+
+# Disease_Information.txt
+
+```{r}
+# Load necessary packages
+library(dplyr)
+library(tidyr)
+library(stringr)
+
+# File paths
+input_file <- "/Users/huncho/Desktop/DCDM_C:W/Group4/Disease_information.txt"
+output_file <- "/Users/huncho/Desktop/DCDM_C:W/Outputs/initial_cleaned_Disease_information.csv"
+
+# Step 1: Read the file (handle quotes properly)
+disease_data <- readLines(input_file)
+
+# Step 2: Remove the first line (header "x")
+disease_data <- disease_data[-1]
+
+# Step 3: Remove the first number index (like "1", "2")
+disease_data <- gsub('^"\\d+" ', '', disease_data)
+
+# Step 4: Handle splitting issue
+# Match the format "OMIM:xxxx, disease term, MGI:xxx, score" without splitting disease term by commas
+split_data <- str_match(disease_data, '^"(OMIM|ORPHA|DECIPHER):([^,]+), (.+), (MGI:\\d+), ([0-9\\.]+)"$')
+
+# Step 5: Extract relevant columns
+cleaned_data <- data.frame(
+  disease_id = split_data[, 2:3] %>% apply(1, paste, collapse = ":"),
+  disease_term = split_data[, 4],
+  gene_accession_id = split_data[, 5],
+  phenodigm_score = as.numeric(split_data[, 6]),
+  stringsAsFactors = FALSE
+)
+
+# Step 6: Trim white space and handle missing data
+cleaned_data <- cleaned_data %>%
+  mutate(across(everything(), trimws)) %>%
+  distinct()
+
+# Step 7: Save cleaned data to CSV
+write.csv(cleaned_data, output_file, row.names = FALSE, quote = FALSE)
+```
+
+Due to there being many delimiters within the disease_term column, it caused the columns to misalign, requiring the columns to be fixed. Fortunately, the column misaligned up to the gene_accession_id, which always started with MGI, so we knew to put the data together (up to MGI) before moving on to the next column.
+
+```{r}
+library(tidyverse)
+
+# Read the CSV file
+file_path <- '/Users/huncho/Desktop/DCDM_C:W/Outputs/initial_cleaned_Disease_information.csv'
+data <- readLines(file_path)
+
+# Initialise empty list to store corrected rows
+corrected_rows <- list()
+
+# Process each line to fix misaligned columns
+for (line in data) {
+  # Split line by comma
+  parts <- str_split(line, ",")[[1]]
+  
+  # Locate MGI and reassemble the row
+  mgi_index <- which(str_detect(parts, "MGI:"))
+  
+  if (length(mgi_index) > 0) {
+    disease_id <- parts[1]
+    gene_accession <- parts[mgi_index]
+    phenodigm_score <- parts[length(parts)]
+    disease_term <- paste(parts[2:(mgi_index - 1)], collapse = " ")
+    
+    corrected_rows <- append(corrected_rows, list(c(disease_id, disease_term, gene_accession, phenodigm_score)))
+  }
+}
+
+# Convert to data frame
+cleaned_df <- as.data.frame(do.call(rbind, corrected_rows))
+colnames(cleaned_df) <- c("disease_id", "disease_term", "gene_accession_id", "phenodigm_score")
+
+# Write to a new CSV
+write.csv(cleaned_df, '/Users/huncho/Desktop/DCDM_C:W/Outputs/Cleaned_Disease_information.csv', row.names = FALSE)
+
+print("Metadata file cleaned and saved.")
+```
+
+
+
+
+
+
+
+
+
+
