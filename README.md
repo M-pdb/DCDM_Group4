@@ -23,10 +23,11 @@ git clone https://github.com/M-pdb/DCDM_Group4.git
 in the sql/ directory, the following code setups the script in MySQL: mysql -u [username] -p < database_setup.sql
 
 # RShiny Dashboard
-dashboard includes three visualisations to visualise phenotypic data by selecting specific knockout mice or phenotypes
+dashboard includes four visualisations to visualise phenotypic data by selecting specific knockout mice or phenotypes
 **Phenotype Scores for Selected Knockout Mice** Displays statistical significance of phenotypes associated with a specific gene knockout
-**Phenotype Comparison Across Knockouts** Visualises phenotype scores across all knockout mice for a selected phenotype
+**Phenotype Comparison Across genes** Visualises phenotype scores across all genes for a selected phenotype
 **Gene Clusters** Shows clusters of genes with similar phenotype scores to identify related patterns
+**Gene Comparison Across Phenotype Groups** Visualises phenotype scores for the genes of interest 
 
 # Team Members
 - Mohammod Maahi Hamza
