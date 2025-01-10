@@ -217,7 +217,7 @@ groups <- descript_cleaned %>%
 after_uncategorized_count <- sum(groups$group == "Uncategorized", na.rm = TRUE)
 
 
-write.csv(groups, "Groups1.csv", row.names = FALSE)
+write.csv(groups, "Groups.csv", row.names = FALSE)
 
 
 ```
